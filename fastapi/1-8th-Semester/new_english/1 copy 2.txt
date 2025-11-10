@@ -1,0 +1,87 @@
+✅ 1. Being
+"Being" is the present participle of the verb "to be". It’s used to describe a state or condition.
+📌 Usage:
+
+To describe someone's behavior or condition.
+Often used in passive voice or continuous tense.
+
+📋 Examples:
+
+You are being very helpful. (Aap is waqt madadgar sabit ho rahe hain.)
+The server is being restarted. (Server dobara start kiya ja raha hai.)
+
+
+✅ 2. Could
+"Could" is the past tense of "can", but it’s also used to show possibility, politeness, or suggestions.
+📌 Usage:
+
+To make polite requests.
+To talk about possibilities.
+To give suggestions.
+
+📋 Examples:
+
+Could you please check the logs? (Kya aap logs check kar sakte hain?)
+We could deploy it tomorrow. (Hum kal deploy kar sakte hain.)
+
+
+✅ 3. Would
+"Would" is used to talk about imaginary situations, future in the past, or polite offers/requests.
+📌 Usage:
+
+To make polite offers or requests.
+To describe hypothetical situations.
+To talk about what someone wanted to do.
+
+📋 Examples:
+
+Would you like me to send the report? (Kya aap chahenge ke main report bhej doon?)
+I would prefer to deploy after QA approval. (Main QA approval ke baad deploy karna pasand karunga.)
+
+
+✅ 4. Should
+"Should" is used to give advice, recommendations, or talk about obligations.
+📌 Usage:
+
+To give suggestions.
+To express what is right or expected.
+To talk about responsibilities.
+
+📋 Examples:
+
+You should update the repo before deployment. (Aapko deployment se pehle repo update karni chahiye.)
+We should inform the client about the delay. (Humein client ko delay ke baare mein batana chahiye.)
+
+
+🔄 Summary Table:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WordUse ForExample SentenceBeingState or conditionThe server is being restarted.CouldPossibility / Polite requestCould you please check the logs?WouldPolite offer / HypotheticalWould you like me to send the report?ShouldAdvice / RecommendationYou should update the repo before deployment.

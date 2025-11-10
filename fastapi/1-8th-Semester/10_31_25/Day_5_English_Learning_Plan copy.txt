@@ -1,0 +1,52 @@
+Day 5 English Learning Plan for Muhammad Ahmad
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate English
+🎯 Focus: Grammar, Vocabulary, Writing, Speaking
+
+---
+
+1️⃣ Grammar Practice: Future Continuous Tense
+- Use: To describe actions that will be happening at a specific time in the future.
+- Structure: Subject + will be + verb-ing
+
+Examples:
+- I will be deploying the new release at 5 PM.
+- The team will be monitoring the system during the update.
+
+📝 Task: Write 2 sentences using future continuous tense related to your DevOps work.
+
+---
+
+2️⃣ Vocabulary Practice: DevOps & Workplace Terms
+
+| Word         | Meaning                              | Example Sentence                                 |
+|--------------|--------------------------------------|--------------------------------------------------|
+| **Provision**| Set up resources or infrastructure   | We provision servers before deployment.          |
+| **Latency**  | Delay in processing or response      | High latency affects user experience.            |
+| **Container**| Lightweight software package         | We use Docker containers for microservices.      |
+| **Alert**    | Notification of an issue             | I received an alert about CPU usage.             |
+| **Scale**    | Increase resources or capacity       | We need to scale the application for more users. |
+
+🗣️ Task: Use 2 of these words in your own sentences.
+
+---
+
+3️⃣ Writing Practice: Email to Team
+
+✉️ Prompt:
+Write an email to your DevOps team informing them about a scheduled deployment for the BGS AI project tomorrow at 5 PM. Mention that monitoring will be active and rollback plan is ready.
+
+---
+
+4️⃣ Speaking Practice: Describe a Technical Issue
+
+🎤 Prompt:
+Describe a recent technical issue you faced and how you resolved it. Use 3–4 sentences.
+
+Example:
+Last week, we faced a DNS resolution issue in the staging environment. I checked the configuration and found a missing entry. After updating the DNS record, the issue was resolved and services were restored.
+
+---
+
+✅ Keep practicing daily. Let me know when you're ready for Day 6!

@@ -1,0 +1,71 @@
+Day 24 English Learning Plan for Muhammad Ahmad
+
+Focus Areas:
+1. Grammar: Question Formation
+2. Vocabulary: DevOps and Workplace Terms
+3. Writing Practice: Asking for Status Update
+4. Speaking Practice: Asking Questions in Meetings
+
+---
+
+1. Grammar: Question Formation
+- Learn how to form questions using auxiliary verbs (do/does/did/is/are/will/can).
+- Examples:
+  - Do we need to restart the server?
+  - Is the deployment complete?
+  - Can you check the logs?
+
+Practice:
+Write 3 questions you might ask during a deployment or team meeting.
+
+---
+
+2. Vocabulary: DevOps and Workplace Terms
+
+| Word         | Meaning                          | Example Sentence                         |
+|--------------|----------------------------------|------------------------------------------|
+| **Trigger**  | To start a process               | We trigger the pipeline after each commit. |
+| **Alert**    | Notification of an issue         | The system sent an alert about high CPU usage. |
+| **Downtime** | Period when service is unavailable | We had 2 hours of downtime last night. |
+| **Patch**    | Software update to fix issues    | The patch resolved the DNS error. |
+| **Latency**  | Delay in processing               | The latency increased after the last release. |
+
+Practice:
+Use each word in a sentence related to your work.
+
+---
+
+3. Writing Practice: Email for Status Update
+
+✉️ Prompt:
+Write an email to your teammate asking for a status update on the patch deployment for the BGS AI project.
+
+Example:
+Subject: Status Update on Patch Deployment
+
+Hi [Teammate's Name],
+
+I hope you're doing well. Could you please share the current status of the patch deployment for the BGS AI project? Let me know if any issues have come up or if you need support.
+
+Best regards,
+Muhammad Ahmad
+
+---
+
+4. Speaking Practice: Asking Questions in Meetings
+
+🎤 Prompt:
+Practice asking 3–4 questions you might ask in a team meeting.
+
+Examples:
+- What is the current status of the deployment?
+- Are there any issues with the staging environment?
+- Do we need to rollback the last release?
+- Can someone check the pipeline logs?
+
+Practice Tip:
+Say each question out loud clearly. Record yourself and listen back to improve fluency.
+
+---
+
+You're doing great, Ahmad! Let me know when you're ready for Day 25. 😊

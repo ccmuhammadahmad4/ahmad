@@ -1,0 +1,55 @@
+Day 10 DevOps Learning Summary – MUHAMMAD AHMAD
+
+📅 Final Day: Mock Interview & Review
+
+---
+
+✅ Section 1: Mock Interview Questions
+
+🔹 Technical Questions:
+1. What is the difference between Docker and a virtual machine?
+2. How does a CI/CD pipeline work in your current project?
+3. Explain how you use Terraform to manage infrastructure.
+4. What steps do you take to troubleshoot a failed Kubernetes deployment?
+5. How do you monitor application performance in production?
+
+🔹 Behavioral Questions:
+1. Tell me about a time you faced a challenge during deployment.
+2. How do you handle communication during high-pressure incidents?
+3. Describe a situation where you helped improve a DevOps process.
+4. How do you prioritize tasks when working on multiple projects?
+5. What motivates you to grow as a DevOps engineer?
+
+---
+
+✅ Section 2: Final Public Speaking Task
+
+🎤 Task: Prepare and deliver a 2-minute speech on:
+> “How DevOps culture improves collaboration and delivery in modern teams.”
+
+Include:
+- Your personal experience
+- Tools and practices you use
+- Benefits you've seen in your team
+
+---
+
+✅ Section 3: Summary Email to Manager
+
+📧 Sample Email:
+
+Subject: Final Week Summary – DevOps Learning Progress
+
+Dear MUHAMMAD SIDDIQUE,
+
+I hope you are doing well. Over the past 10 days, I’ve focused on improving my DevOps skills and English communication. I practiced CI/CD pipelines, Docker, Kubernetes, Terraform, and cloud services. I also worked on public speaking and professional email writing.
+
+I feel more confident in interviews and team communication now. Thank you for your support throughout this journey.
+
+Best regards,  
+MUHAMMAD AHMAD
+
+---
+
+🎯 Congratulations on completing Day 10! You're now ready for real-world interviews and confident DevOps communication.
+

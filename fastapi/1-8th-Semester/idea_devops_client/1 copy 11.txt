@@ -1,0 +1,31 @@
+LinkedIn Outreach Message Template – Muhammad Ahmad
+
+🎯 Goal:
+Connect with decision-makers (CTOs, Founders, PMs) and offer DevOps/AWS services.
+
+📌 Connection Request Message:
+
+Hi [Name],  
+I’m a DevOps Engineer helping startups scale with AWS and CI/CD.  
+Would love to connect and share ideas around cloud optimization and automation.
+
+📩 After Connection – First Message:
+
+Hi [Name],  
+Thanks for connecting! I noticed your work at [Company Name] — really impressive.  
+I specialize in helping startups like yours streamline deployments and reduce AWS costs.  
+If you're open to it, I’d love to offer a free 15-min consultation to explore how I can help.
+
+Let me know what works best for you!
+
+Best,  
+Ahmad
+
+📩 Follow-Up (if no reply in 5–7 days):
+
+Hi [Name],  
+Just wanted to follow up in case my last message got buried.  
+Happy to share a quick case study or jump on a short call to discuss how I can help your team.
+
+Cheers,  
+Ahmad

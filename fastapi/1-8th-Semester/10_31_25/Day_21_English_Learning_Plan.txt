@@ -1,0 +1,77 @@
+Day 21 English Learning Plan for Muhammad Ahmad
+
+🌟 Focus Areas:
+- Grammar: Articles (a, an, the)
+- Vocabulary: DevOps and workplace terms
+- Writing Practice: Status update email
+- Speaking Practice: Describing a deployment process
+
+---
+
+✅ Grammar: Articles (a, an, the)
+
+Articles are used before nouns to indicate whether the noun is specific or general.
+
+1. **"a"** – used before words that begin with a consonant sound.
+   - Example: I deployed a new version of the app.
+
+2. **"an"** – used before words that begin with a vowel sound.
+   - Example: We faced an issue during deployment.
+
+3. **"the"** – used to refer to something specific.
+   - Example: The pipeline failed last night.
+
+🎯 Practice:
+Write 3 sentences using "a", "an", and "the" correctly.
+
+---
+
+✅ Vocabulary: DevOps Terms
+
+| Word         | Meaning                          | Example Sentence                         |
+|--------------|----------------------------------|------------------------------------------|
+| **Alert**    | Notification of an issue         | We received an alert from the monitoring tool. |
+| **Cluster**  | Group of servers or containers   | The cluster is running multiple services. |
+| **Latency**  | Delay in processing              | The latency increased after the update.  |
+| **Container**| Lightweight virtual environment  | We deployed the app in a container.      |
+| **Script**   | Automated set of commands        | I wrote a script to restart the service. |
+
+🎯 Practice:
+Use each word in a sentence related to your work.
+
+---
+
+✅ Writing Practice: Status Update Email
+
+✉️ Prompt:
+Write an email to your team to update them about a successful deployment of the BGS AI project and mention that latency has improved.
+
+Example:
+Subject: BGS AI Deployment Update
+
+Dear Team,
+
+I’m pleased to inform you that the BGS AI project has been successfully deployed. The latency issues have been resolved, and performance has improved significantly. Please monitor the system and report any anomalies.
+
+Best regards,
+Muhammad Ahmad
+
+🎯 Your Turn:
+Write your own version of the email.
+
+---
+
+✅ Speaking Practice: Describing a Deployment Process
+
+🎤 Prompt:
+Describe how you deploy a service in 3–4 sentences. Include tools or steps you use.
+
+Example:
+I start by reviewing the deployment checklist. Then I trigger the CI/CD pipeline using Jenkins. Once the build passes, I deploy the container to the staging environment. Finally, I monitor the logs to ensure everything is running smoothly.
+
+🎯 Your Turn:
+Write your version and practice speaking it aloud.
+
+---
+
+Keep practicing daily, Ahmad! You're doing a great job improving your English for DevOps. 😊

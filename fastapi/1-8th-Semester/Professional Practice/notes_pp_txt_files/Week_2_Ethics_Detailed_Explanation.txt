@@ -1,0 +1,780 @@
+Chapter 2:
+Introduction 
+to Ethics
+1
+-
+2
+Chapter Overview
+• Introduction
+• Review of nine ethical theories
+• Comparing four ethical theories
+• Morality of breaking the law
+1
+-
+3
+Why Study Ethics?
+• Ethics: a way to decide the best thing to do
+• New problems accompany new technologies
+• “Common wisdom” may not exist for novel situations 
+brought about by new technologies
+1-4
+The Ethical Point of View
+Most everyone shares “core values”, desiring:
+Life
+Happiness
+Ability to accomplish goals
+Two ways to view world
+Selfish point of view: consider only your own self and 
+your core values
+Ethical point of view: respect other people and their 
+core values
+1-5
+Defining Terms
+Society
+Association of people organized under a system of rules
+Rules: advance the good of members over time
+Morality
+A society’s rules of conduct
+What people ought / ought not to do in various situations
+Ethics
+Rational examination of morality
+Evaluation of people’s behavior
+1
+-
+6
+Real – Life Scenario
+You are the senior software engineer at a start-up company developing
+an exciting new product. Your company’s sales force has led a major
+corporation to believe your product will be available next week.
+Unfortunately, at this point the software still contains quite a few bugs.
+The leader of the testing group has reported that all of the known bugs
+appear to be minor, but it will take another month of testing for his team
+to be confident the product contains no catastrophic errors.
+Because of the fierce competition in the smartphone software industry,
+it is critical that your company be “first to market.” To the best of your
+knowledge, a well-established company will release a similar product in
+a few weeks. If its product appears first, your start-up company will
+probably go out of business.
+1
+-
+7
+Scenario Questions
+• Should you recommend release of the product 
+next week?
+• Who will benefit if the company follows your 
+recommendation?
+• Who will be harmed if the company follows your 
+recommendation?
+• Do you have an obligation to any group of 
+people that may be affected by your decision?
+• What additional information, if any, would help 
+you answer the previous questions?
+1
+-
+8
+More on Ethics
+• Ethics: rational, systematic analysis
+– “Doing ethics” means explaining conclusions
+– Best explanations based on facts, shared values, 
+logic
+• Ethics focuses on people’s voluntary, moral 
+choices
+• Workable ethical theory: produces explanations 
+that might be persuasive to a skeptical, yet 
+open-minded audience
+A Good Ethical Theory Supports 
+Persuasive, Logical Arguments
+1
+-
+9
+2.2 Subjective Relativism
+1
+-
+1
+0
+1
+-
+1
+1
+What Is Relativism?
+• Relativism
+– No universal norms of right and wrong
+– One person can say “X is right,” another can say 
+“X is wrong,” and both can be right
+• Subjective relativism
+– Each person decides right and wrong for himself 
+or herself
+– “What’s right for you may not be right for me”
+1
+-
+1
+2
+Case for Subjective Relativism
+• Well-meaning and intelligent people disagree on 
+moral issues
+• Ethical debates are disagreeable and pointless
+1
+-
+1
+3
+Case Against Subjective Relativism
+• Blurs line between doing what you think is right and 
+doing what you want to do
+• Makes no moral distinction between the actions of 
+different people
+• SR and tolerance are two different things
+• Decisions may not be based on reason
+• Not a workable ethical theory
+2.3 Cultural Relativism
+1
+-
+1
+4
+1
+-
+1
+5
+Cultural Relativism in a Nutshell
+• What is “right” and “wrong” depends upon a 
+society’s actual moral guidelines
+• These guidelines vary from place to place and from 
+time to time
+• A particular action may be right in one society at one 
+time and wrong in other society or at another time
+1
+-
+1
+6
+Case for Cultural Relativism
+• Different social contexts demand different moral 
+guidelines
+• It is arrogant for one society to judge another
+1
+-
+1
+7
+Case Against Cultural Relativism
+• Because two societies do have different moral views 
+doesn’t mean they ought to have different views
+• It doesn’t explain how moral guidelines are determined
+• What if there are no cultural norms?
+• It doesn’t account for evolution of moral guidelines.
+• It provides no way out for cultures in conflict
+• Existence of many acceptable practices does not imply 
+all practices are acceptable (many/any fallacy)
+• Societies do, in fact, share certain core values
+• Only indirectly based on reason
+• Not a workable ethical theory
+2.4 Divine Command Theory
+1
+-
+1
+8
+1
+-
+1
+9
+Overview of Divine Command Theory
+• Good actions: those aligned with God’s will
+• Bad actions: those contrary to God’s will
+• Holy books reveal God’s will
+• We should use holy books as moral decision-
+making guides
+Divine Command Theory in Action
+1
+-
+2
+0
+1
+-
+2
+1
+Case for Divine Command Theory
+• We owe obedience to our Creator
+• God is all-good and all-knowing
+• God is the ultimate authority
+1
+-
+2
+2
+Case Against Divine Command Theory
+• Different holy books disagree on certain 
+teachings
+• Society is multicultural, secular
+• Some modern moral problems not directly 
+addressed in scripture
+• “The good” ≠ “God” (equivalence fallacy)
+• Based on obedience, not reason
+• Not a workable ethical theory for our purposes
+2.5 Ethical Egoism
+1
+-
+2
+3
+Definition of Ethical Egoism
+• Each person should focus exclusively on his or her 
+self-interest
+• Morally right action: that action that provides self 
+with maximum long-term benefit
+• Ayn Rand, author of The Fountainhead and Atlas 
+Shrugged, espoused a theory akin to ethical egoism
+1
+-
+2
+4
+Case for Ethical Egoism
+• It is practical since we are already inclined to do 
+what’s best for ourselves
+• It is better to let other people take care of 
+themselves
+• The community can benefit when individuals put 
+their well-being first
+• Other moral principles are rooted in the principle 
+of self-interest
+1
+-
+2
+5
+Case Against Ethical Egoism
+• An easy moral philosophy may not be the best moral 
+philosophy
+• We know a lot about what is good for someone else
+• Self-interest can lead to blatantly immoral behavior
+• Other moral principles are superior to principle of self-
+interest
+• People who take the good of others into account lead 
+happier lives
+• By definition, does not respect the ethical point of view
+• Not a workable ethical theory
+1
+-
+2
+6
+2.6 Kantianism
+1
+-
+2
+7
+1
+-
+2
+8
+Critical Importance of Good Will
+• Good will: the desire to do the right thing
+• Immanuel Kant: Only thing in the world that is good 
+without qualification is a good will
+• What we want to do is of no importance. Our focus 
+should be on what we ought to do. This is called 
+dutifulness 
+• Reason should cultivate desire to do right thing
+1
+-
+2
+9
+Categorical Imperative (1st Formulation)
+A categorical imperative is an unconditional rule:
+a rule that always applies, regardless of the
+circumstances.
+Act only from moral rules that you can at the
+same time will to be universal moral laws.
+(Not fair to make exceptions for yourself)
+1
+-
+3
+0
+Illustration of 1st Formulation
+• Question: Can a person in dire straits make a promise 
+with the intention of breaking it later?
+• Proposed rule: “I may make promises with the intention 
+of later breaking them.”
+• The person in trouble wants his promise to be believed 
+so he can get what he needs.
+• Universalize rule: Everyone may make & break 
+promises
+• Everyone breaking promises would make promises 
+unbelievable, contradicting desire to have promise 
+believed
+• The rule is flawed. The answer is “No.”
+A Quick Check
+• When evaluating a proposed action, reverse roles
+• What would you think if that person did the same 
+thing to you?
+• Negative reactionevidence that your will to do 
+that action violates the Categorical Imperative
+1
+-
+3
+1
+1
+-
+3
+2
+Categorical Imperative (2nd Formulation)
+Act so that you treat both yourself
+and other people as ends in themselves
+and never only as a means to an end.
+Means implies using only for your own benefit, 
+with no thought to the interests or benefit of the 
+thing that you are using.
+Humans are ends-in-themselves
+Kant: Wrong to Use Another Person 
+Solely as a Means to an End
+1
+-
+3
+3
+1
+-
+3
+4
+Plagiarism Scenario
+• Carla
+– Single mother
+– Works full time
+– Takes two evening courses/semester
+• History class
+– Requires more work than normal
+– Carla earning an “A” on all work so far
+– Carla doesn’t have time to write final report
+• Carla purchases report; submits it as her own work
+1
+-
+3
+5
+Kantian Evaluation (1st Formulation)
+• Carla wants credit for plagiarized report
+• Rule: “You may claim credit for work performed 
+by someone else”
+• If rule universalized, reports would no longer be 
+credible indicator’s of student’s knowledge, and 
+professors would not give credit for reports
+• Proposal moral rule is self-defeating
+• It is wrong for Carla to turn in a purchased report
+1
+-
+3
+6
+Kantian Evaluation (2nd Formulation)
+• Carla submitted another person’s work as her own
+• She attempted to deceive professor
+• She treated professor as a means to an end
+– End: passing the course
+– Means: manipulate professor
+• What Carla did was wrong
+1
+-
+3
+7
+Case for Kantianism
+• Aligns with common moral concern: “What if 
+everyone acted that way?”
+• Produces universal moral guidelines
+• Treats all persons as moral equals
+Perfect and Imperfect Duties
+• Perfect duty: duty obliged to fulfill without exception
+– Example: Telling the truth
+• Imperfect duty: duty obliged to fulfill in general but 
+not in every instance
+Example: 
+1. Duty of self-improvement.
+2. Duty to aid others.
+1
+-
+3
+8
+1
+-
+3
+9
+Case Against Kantianism
+• Sometimes no rule adequately characterizes an 
+action. Eg: stealing to feed starving children
+• Sometimes there is no way to resolve a conflict 
+between rules
+– In a conflict between a perfect duty and an imperfect 
+duty, perfect duty prevails
+– In a conflict between two perfect duties, no solution
+Eg: never tell a lie and avoid harming someone
+• Kantianism allows no exceptions to perfect duties
+Commending someone for a dress.
+2.7 Act Utilitarianism
+1
+-
+4
+1
+1
+-
+4
+2
+Principle of Utility
+• Jeremy Bentham and John Stuart Mill
+• An action is good if its benefits exceeds its harms
+• An action is bad if its harms exceed its benefits
+• Utility: tendency of an object to produce happiness or 
+prevent unhappiness for an individual or a community
+• Happiness = advantage = benefit = good = pleasure
+• Unhappiness = disadvantage = cost = evil = pain
+1
+-
+4
+3
+Principle of Utility
+(Greatest Happiness Principle)
+An action is right (or wrong) to the extent
+that it increases (or decreases) the
+total happiness of the affected parties.
+Principle of Utility
+1
+-
+4
+4
+1
+-
+4
+5
+Act Utilitarianism
+• Utilitarianism
+– Morality of an action has nothing to do with intent
+– Focuses on the consequences
+– A consequentialist theory
+• Act utilitarianism
+– Add up change in happiness of all affected beings
+– Sum > 0, action is good
+– Sum < 0, action is bad
+– Right action to take: one that maximizes the sum
+2.8 Rule Utilitarianism
+1
+-
+4
+6
+• The case of organ transplant for 5 (useful members 
+of society) patients from one lesser member of 
+society.
+• Refrain from acts that might maximize utility in the 
+short run and instead follow rules that will maximize 
+utility for the majority of the time
+1
+-
+4
+7
+Applying Principle of Utility to Rules
+• We ought to adopt moral rules which, if followed by 
+everyone, will lead to the greatest increase in total 
+happiness
+• Act utilitarianism applies Principle of Utility to 
+individual actions
+• Rule utilitarianism applies Principle of Utility to moral 
+rules
+1
+-
+4
+8
+Anti-Worm Scenario
+• August 2003: Blaster worm infected thousands 
+of Windows computers
+• Soon after, Nachi worm appeared
+– Took control of vulnerable computer
+– Located and destroyed copies of Blaster
+– Downloaded software patch to fix security problem
+– Used computer as launching pad to try to “infect” 
+other vulnerable PCs
+1
+-
+4
+9
+Evaluation using Rule Utilitarianism
+• Proposed rule: If I can write a helpful worm that 
+removes a harmful worm from infected computers 
+and shields them from future attacks, I should do so
+• Who would benefit
+– People who do not keep their systems updated
+• Who would be harmed
+– People who use networks
+– People who’s computers are invaded by buggy anti-
+worms
+– System administrators
+• Conclusion: Harm outweighs benefits. Releasing 
+anti-worm is wrong.
+1
+-
+5
+0
+Case for Rule Utilitarianism
+• Not every moral decision requires performing 
+utilitarian calculus
+• Moral rules survive exceptional situations
+• Avoids the problem of moral luck
+• Reduces the problem of bias
+• Appeals to a wide cross-section of society
+1
+-
+5
+1
+Case Against Utilitarianism in General
+• All consequences must be measured on a single scale.
+– All units must be the same in order to do the sum
+– In certain circumstances utilitarians must quantify the value of a 
+human life
+• Utilitarianism ignores the problem of an unjust distribution 
+of good consequences.
+– Utilitarianism does not mean “the greatest good of the greatest 
+number”
+– That requires a principle of justice
+– What happens when a conflict arises between the Principle of 
+Utility and a principle of justice?
+2.9 Social Contract Theory
+1
+-
+5
+2
+1
+-
+5
+3
+Basis of Social Contract Theory
+• Thomas Hobbes
+– Lived during the English Civil War (1600s)
+– In a “state of nature” our lives would be “solitary, poor, 
+nasty, brutish, and short”
+– We implicitly accept a social contract
+• Establishment of moral rules to govern relations among 
+citizens
+• Government capable of enforcing these rules
+• Jean-Jacques Rousseau
+– In ideal society, no one above rules
+– That prevents society from enact bad rules
+1
+-
+5
+4
+James Rachels’s Definition
+“Morality consists in the set of rules,
+governing how people are to
+treat one another, that rational
+people will agree to accept, for their
+mutual benefit, on the condition that
+others follow those rules as well.”
+1
+-
+5
+5
+Kinds of Rights
+(Classified according to the duties they put on others)
+• Negative right: A right that another can guarantee by 
+leaving you alone or limiting action against you
+Eg: The right to privacy, the right not to be killed, or the 
+right to do what one wants with one's property
+• Positive right: A right obligating others to do something 
+on your behalf
+Eg: right to a free education
+• Absolute right: A right guaranteed without exception
+Eg: the right to life
+• Limited right: A right that may be restricted based on 
+the circumstances. Typically, positive rights are 
+considered to be limited rights.
+• Eg: Free education till 12th grade
+1
+-
+5
+6
+John Rawls’s Principles of Justice
+• Each person may claim a “fully adequate” 
+number of basic rights and liberties, so long as 
+these claims are consistent with everyone else 
+having a claim to the same rights and liberties
+• Any social and economic inequalities must
+– Be associated with positions that everyone has a fair 
+and equal opportunity to achieve
+– Be to the greatest benefit of the least-advantaged 
+members of society (the difference principle)
+Rawls’s Difference Principle
+1
+-
+5
+7
+Rawls’s Difference Principle
+• Social and economic inequalities must be justified. 
+The only way to justify a social or economic inequality 
+is to show that its overall effect is to provide the most 
+benefit to the least advantaged.
+• An example is a graduated income tax system in 
+which people with higher incomes pay a higher 
+percentage of their income in taxes (See Figure on 
+next page ).
+• A violation of the difference principle would be a 
+military draft system in which poor people had a 
+higher probability of being drafted than wealthy 
+people.
+1
+-
+5
+9
+1
+-
+6
+0
+1
+-
+6
+2
+Case for Social Contract Theory
+• Framed in language of rights
+• Explains why people act in self-interest in 
+absence of common agreement
+• Provides clear analysis of certain 
+citizen/government problems
+– Why civil obedience can be morally right action
+1
+-
+6
+3
+Case Against Social Contract Theory
+• No one signed social contract
+• Some actions have multiple characterizations
+Eg: Stealing food from a grocery store to feed my 
+starving children 
+• Conflicting rights problem
+• May unjustly treat people incapable of upholding 
+contract
+2.10 Virtue Ethics
+1
+-
+6
+4
+Critique of Enlightenment Theories
+• Kantianism, utilitarianism, social contract theory 
+ignore important moral considerations
+– moral education
+– moral wisdom
+– family and social relationships
+– role of emotions
+• Virtue ethics
+A good person does “the right thing at the right time for the
+right reason”
+1
+-
+6
+5
+Virtues and Vices
+• Two types of virtue
+– intellectual virtues: virtues associated with reasoning 
+and truth
+– moral virtues: virtues of character (e.g., honesty)
+• Moral virtues
+– developed by habitually performing right action
+– deep-seated character traits
+– disposition to act in a certain way and feel in a certain 
+way
+1
+-
+6
+6
+Aristotle: Happiness derives from living 
+a life of virtue.
+1
+-
+6
+7
+Summary of Virtue Ethics
+1
+-
+6
+8
+A right action is an action that a virtuous person, acting 
+in character, would do in the same circumstances.
+A virtuous person is a person who possesses and lives 
+out the virtues.
+The virtues are those character traits human beings 
+needs in order to flourish and be truly happy.
+Vices
+• Vices are opposite of virtues
+• Vice: a character trait that prevents a human being 
+from flourishing or being truly happy
+• Often, a virtue situated between two vices
+– Courage between cowardliness and rashness
+– Generosity between stinginess and prodigality
+1
+-
+7
+2
+Case for Virtue Ethics
+• It often makes more sense to focus on virtues than 
+obligations, rights, or consequences
+• Personal relationships can be morally relevant to 
+decision making
+• Our moral decision-making skills develop over time
+• With this theory there are no irresolvable moral 
+dilemmas
+• Emotions play an important role in living a moral life
+1
+-
+7
+3
+Case Against Virtue Ethics
+• Reasonable people may disagree on character 
+traits needed for human flourishing
+• Cannot use virtue ethics to guide government 
+policy
+• Virtue ethics undermines attempts to hold 
+people responsible for their bad actions
+1
+-
+7
+4
+2.11 Comparing Ethical Theories
+1
+-
+7
+5
+1
+-
+7
+6
+Objectivism vs. Relativism
+• Objectivism: Morality has an existence outside the 
+human mind
+• Relativism: Morality is a human invention
+• Divine command theory, ethical egoism, Kantianism, 
+utilitarianism, social contract theory, and virtue 
+ethics examples of objectivism
+Workable Ethical Theories
+• We seek theories with these characteristics:
+– Based on the ethical point of view
+– Objective moral principles developed using logical 
+reasoning based on facts and commonly held values
+• Workable ethical theories
+– Kantianism
+– Act and rule utilitarianism
+– Social contract theory
+– Virtue ethics
+1
+-
+7
+7
+1-78
+Comparing Ethical Theories
+79
+Common Approaches to Ethical 
+Decision Making
+Table 1-5 Four common approaches to ethical decision making
+What trends have increased the 
+likelihood of an unethical behavior?
+•
+Globalization has created a much more complex work 
+environment, making it more difficult to apply principles and 
+codes of ethics consistently.
+•
+Organizations may be tempted to resort to unethical behavior 
+to maintain profits in today’s more challenging and uncertain 
+economic climate.
+•
+It is not unusual for powerful, highly successful individuals to 
+fail to act in morally appropriate ways as such people are 
+often aggressive in striving for what they want and are used 
+to having privileged access to information, people, and other 
+resources.
+•
+Furthermore, their success often inflates their belief that they 
+have the ability and the right to manipulate the outcome of 
+any situation.
+Technology Trends that Influence Ethical Issues

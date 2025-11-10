@@ -1,0 +1,48 @@
+
+Day 3 DevOps Learning Summary - MUHAMMAD AHMAD
+
+------------------------------------------------------------
+📘 English Practice – Behavioral Interview Questions
+------------------------------------------------------------
+1. Tell me about a time you faced a challenge in a DevOps project.
+2. How do you handle pressure when deployments fail?
+3. Describe a situation where you had to collaborate with a developer to fix an issue.
+4. What motivates you to work in DevOps?
+5. How do you stay updated with new DevOps tools and practices?
+
+✅ Task:
+Write short answers (3-5 sentences) for each question in English.
+
+------------------------------------------------------------
+🐳 DevOps Tool Focus – Docker Concepts
+------------------------------------------------------------
+Key Concepts:
+- Image: A lightweight, standalone package of software.
+- Container: A running instance of an image.
+- Dockerfile: A script to build Docker images.
+- Volume: Persistent storage for containers.
+- Docker Hub: A registry for sharing container images.
+
+✅ Task:
+Write a short explanation (2-3 sentences) for each concept in your own words.
+
+------------------------------------------------------------
+🎤 Public Speaking Practice – Troubleshooting
+------------------------------------------------------------
+Topic: "How I troubleshoot a failed deployment"
+
+✅ Task:
+Write or record a short explanation (5-6 sentences) describing how you approach troubleshooting when a deployment fails. Focus on clarity and confidence.
+
+------------------------------------------------------------
+📧 Email Writing Practice – Task Update
+------------------------------------------------------------
+Scenario:
+You worked on fixing a Kubernetes pod crash issue and updated the deployment configuration.
+
+✅ Task:
+Write a professional email to your manager (MUHAMMAD SIDDIQUE) explaining what you worked on today and your next steps.
+
+------------------------------------------------------------
+📅 Reminder:
+Submit your answers tomorrow to receive feedback and a Day 3 PDF summary.

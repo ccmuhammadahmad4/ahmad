@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Application 2</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Application Number <span id="app-number">2</span></h1>
+        </header>
+        
+        <main>
+            <div class="card">
+                <h2>Welcome to Application 2</h2>
+                <p id="app-message">Loading application info...</p>
+                <div class="info-box">
+                    <p><strong>Port:</strong> <span id="app-port">5002</span></p>
+                    <p><strong>Status:</strong> <span id="app-status">Active</span></p>
+                </div>
+            </div>
+            
+            <div class="actions">
+                <button onclick="refreshInfo()" class="btn primary">Refresh Info</button>
+                <button onclick="testAPI()" class="btn secondary">Test API</button>
+            </div>
+        </main>
+        
+        <footer>
+            <p>&copy; 2025 Simple Application Suite</p>
+        </footer>
+    </div>
+    
+    <script src="static/script.js"></script>
+</body>
+</html>

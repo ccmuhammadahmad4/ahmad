@@ -1,0 +1,72 @@
+Day 13 English Learning Plan for Muhammad Ahmad
+--------------------------------------------------
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 English Level: Intermediate
+🎯 Focus: Conditionals (Type 2), DevOps Vocabulary, Writing & Speaking Practice
+
+--------------------------------------------------
+1️⃣ Grammar Focus: Second Conditional (Type 2)
+
+🔹 Used to talk about imaginary or unlikely situations in the present or future.
+
+🔸 Structure:
+   If + past simple, ... would + base verb
+
+🔸 Examples:
+   - If I had more time, I would automate the entire deployment process.
+   - If we used containers, our deployments would be faster.
+
+📝 Practice:
+Write 2 sentences using the second conditional related to your work.
+Example:
+- If I were the team lead, I would schedule daily stand-ups.
+
+--------------------------------------------------
+2️⃣ Vocabulary Builder (Day 13)
+
+| Word         | Meaning                                | Example Sentence                          |
+|--------------|----------------------------------------|-------------------------------------------|
+| **Latency**  | Delay before a transfer of data begins | We reduced latency by optimizing the API. |
+| **Scalability** | Ability to handle growth            | Kubernetes improves system scalability.   |
+| **Outage**   | Period when service is unavailable     | We had a short outage during deployment.  |
+| **Provision**| To set up resources                    | We provision servers using Terraform.     |
+| **Throughput**| Amount of data processed in time      | We increased throughput by 30%.           |
+
+📝 Practice:
+Write 2 sentences using any of the new words.
+
+--------------------------------------------------
+3️⃣ Writing Practice
+
+✉️ Prompt:
+Write an email to your team explaining a recent issue with high latency in the production environment and how you plan to resolve it.
+
+Example:
+Subject: High Latency Issue in Production
+
+Hi Team,
+
+We’ve observed increased latency in the production environment since the last deployment. I suspect the issue is related to the new API changes. I will investigate the logs and monitor the traffic patterns. I’ll share an update by EOD.
+
+Best regards,
+Ahmad
+
+📝 Your Turn:
+Write your version of the email and I’ll help you improve it.
+
+--------------------------------------------------
+4️⃣ Speaking Practice
+
+🎤 Prompt:
+Describe a situation using the second conditional.
+
+Example:
+"If I had more automation scripts, I would reduce manual deployment time."
+
+🎯 Your Turn:
+Write and practice saying 2–3 sentences using the second conditional. I can help you with pronunciation and fluency.
+
+--------------------------------------------------
+
+Keep up the great work, Ahmad! Let me know when you're ready for Day 14. 😊

@@ -1,0 +1,66 @@
+Day 7 English Learning Plan for Muhammad Ahmad
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate
+📅 Day 7 Focus: Conditional Sentences, DevOps Vocabulary, Email Writing, Speaking Practice
+
+------------------------------------------------------------
+1️⃣ Grammar Practice: Conditional Sentences (Type 1)
+------------------------------------------------------------
+🔹 Structure: If + present simple, will + base verb
+🔹 Use: To talk about real possibilities in the future
+
+✅ Examples:
+- If the deployment fails, I will check the logs.
+- If we fix the issue today, the release will be on time.
+
+🎯 Your Task:
+Write 2 sentences using Type 1 conditional related to your DevOps work.
+
+------------------------------------------------------------
+2️⃣ Vocabulary Practice: DevOps & Workplace
+------------------------------------------------------------
+| Word         | Meaning                          | Example Sentence                         |
+|--------------|----------------------------------|------------------------------------------|
+| **Trigger**  | Start a process automatically     | The pipeline triggers after each commit. |
+| **Alert**    | Notification of an issue          | We received an alert about high CPU usage. |
+| **Downtime** | Period when system is unavailable | The server had 2 hours of downtime.      |
+| **Latency**  | Delay in processing               | High latency affected the API response.  |
+| **Patch**    | Software update to fix issues     | We applied a patch to fix the bug.       |
+
+🎯 Your Task:
+Use 3 of these words in your own sentences.
+
+------------------------------------------------------------
+3️⃣ Writing Practice: Email to Team
+------------------------------------------------------------
+✉️ Prompt:
+Write an email to your team informing them that the CI/CD pipeline will be under maintenance tomorrow from 2 PM to 4 PM.
+
+✅ Example:
+Subject: CI/CD Pipeline Maintenance Notification
+
+Dear Team,
+Please note that the CI/CD pipeline will be under maintenance tomorrow from 2 PM to 4 PM. During this time, deployments will be paused. Kindly plan your tasks accordingly.
+
+Regards,
+Muhammad Ahmad
+
+🎯 Your Task:
+Write your own version of this email.
+
+------------------------------------------------------------
+4️⃣ Speaking Practice: Explaining a Technical Issue
+------------------------------------------------------------
+🎤 Prompt:
+Describe a technical issue you faced recently and how you resolved it.
+
+✅ Example:
+Last week, we faced a deployment failure due to a missing environment variable. I checked the logs, identified the issue, and updated the configuration file. After that, the deployment succeeded.
+
+🎯 Your Task:
+Write 3–4 sentences about a real or imaginary issue you resolved.
+
+------------------------------------------------------------
+✅ End of Day 7 Plan
+You're doing great, Ahmad! Let me know when you're ready for Day 8.

@@ -1,0 +1,68 @@
+Day 27 English Learning Plan for Muhammad Ahmad
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate English
+
+---
+
+📘 Grammar Focus: Sentence Structure Review
+- Understand the correct order of words in a sentence.
+- Practice forming statements, questions, and negative sentences.
+- Example:
+  - Statement: The deployment was successful.
+  - Question: Was the deployment successful?
+  - Negative: The deployment was not successful.
+
+🎯 Practice:
+1. Write 3 statements about your daily tasks.
+2. Convert them into questions and negative sentences.
+
+---
+
+🧠 Vocabulary: DevOps & Workplace Terms
+
+| Word         | Meaning                          | Example Sentence                         |
+|--------------|----------------------------------|------------------------------------------|
+| **Latency**  | Delay in processing               | We noticed latency in the API response.  |
+| **Patch**    | Software update to fix issues     | The patch resolved the login bug.        |
+| **Alert**    | Notification of an issue          | We received an alert from the monitoring tool. |
+| **Downtime** | Period when system is unavailable | The server had 2 hours of downtime.      |
+| **Root Cause**| Main reason for a problem        | We identified the root cause of the failure. |
+
+🗣️ Practice:
+- Use each word in a sentence related to your work.
+
+---
+
+✉️ Writing Practice: Status Update Email
+
+**Prompt:**  
+Write an email to your team to update them about a patch deployment that fixed latency issues in the BGS AI project.
+
+**Example:**
+Subject: Patch Deployment Update – BGS AI Project
+
+Dear Team,  
+I want to inform you that the patch for the BGS AI project was successfully deployed. It has resolved the latency issues we observed last week. Please monitor the system and report any anomalies.  
+Regards,  
+Muhammad Ahmad
+
+📝 Task:
+- Write your own version of this email.
+
+---
+
+🎤 Speaking Practice: Explaining a Fix
+
+**Prompt:**  
+Describe how you fixed a latency issue in a deployment. Use 3–4 sentences.
+
+**Example:**
+We noticed latency in the BGS AI API. I reviewed the logs and found a misconfigured database query. After applying a patch, the response time improved significantly. We are now monitoring the system closely.
+
+🎯 Task:
+- Write your version and practice speaking it aloud.
+
+---
+
+✅ Keep practicing and let me know when you're ready for Day 28!

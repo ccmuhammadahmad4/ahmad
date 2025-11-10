@@ -1,0 +1,23 @@
+Project 2: Infrastructure as Code with Terraform
+
+Tools:
+- Terraform
+- AWS (EC2, S3, RDS)
+- Git
+
+Steps:
+1. Set up AWS CLI and credentials.
+2. Create a Terraform project directory.
+3. Write Terraform configuration files:
+   - VPC with public/private subnets
+   - EC2 instance with security group
+   - RDS MySQL/PostgreSQL instance
+   - S3 bucket
+4. Initialize Terraform: `terraform init`
+5. Validate and plan: `terraform plan`
+6. Apply infrastructure: `terraform apply`
+7. Verify resources in AWS Console.
+
+Bonus:
+- Use Terraform modules for reusability.
+- Store remote state in S3 with DynamoDB locking.

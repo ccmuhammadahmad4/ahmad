@@ -1,0 +1,15 @@
+4. 04_Tools_and_Automation.txt
+Automation & Tools for Lead Generation – Muhammad Ahmad
+
+1. Automate Lead Capture
+- Calendly: For booking calls
+- Google Forms / Typeform: For client intake
+- Notion / Trello: For tracking leads and follow-ups
+
+2. Bonus Tools:
+| Tool       | Purpose                    |
+|------------|----------------------------|
+| Apollo.io  | Email scraping & outreach  |
+| Canva      | Create pitch decks         |
+| Mailchimp  | Email campaigns            |
+| Notion     | CRM for tracking leads     |

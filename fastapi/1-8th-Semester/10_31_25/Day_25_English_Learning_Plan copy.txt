@@ -1,0 +1,71 @@
+
+Day 25 English Learning Plan for Muhammad Ahmad
+===============================================
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate English
+📅 Focus Areas: Grammar (Conjunctions), Vocabulary, Writing, Speaking
+
+---------------------------------------------------------------
+1. Grammar Practice: Conjunctions
+---------------------------------------------------------------
+Conjunctions are words that connect clauses or sentences.
+
+🔹 Coordinating Conjunctions: and, but, or, so, yet
+🔹 Subordinating Conjunctions: because, although, if, when, while
+
+✅ Examples:
+- We deployed the update, but the pipeline failed.
+- The server restarted because of a configuration change.
+- Although the test passed, we still found a bug.
+
+🎯 Task:
+Write 3 sentences using different conjunctions related to your DevOps work.
+
+---------------------------------------------------------------
+2. Vocabulary Practice: DevOps Terms
+---------------------------------------------------------------
+| Word           | Meaning                                | Example Sentence                          |
+|----------------|----------------------------------------|-------------------------------------------|
+| **Trigger**    | To start a process                     | The build is triggered after each commit. |
+| **Artifact**   | A file produced during build/deploy    | The artifact was stored in the repository.|
+| **Repository** | A storage location for code/files      | We pushed the code to the Git repository. |
+| **Downtime**   | Period when service is unavailable     | We had 10 minutes of downtime last night. |
+| **Alert**      | Notification of an issue               | The system sent an alert for high CPU use.|
+
+🎯 Task:
+Use each word in a sentence related to your daily work.
+
+---------------------------------------------------------------
+3. Writing Practice: Status Update Email
+---------------------------------------------------------------
+✉️ Prompt:
+Write an email to your team informing them that the deployment was successful, but an alert was triggered due to high CPU usage.
+
+✅ Example:
+Subject: Deployment Status and Alert Notification
+
+Dear Team,
+
+The deployment for the BGS AI service was completed successfully today at 3:00 PM. However, an alert was triggered due to high CPU usage on the staging server. I am currently investigating the issue and will share updates shortly.
+
+Regards,
+Muhammad Ahmad
+
+🎯 Task:
+Write your own version of this email and check for grammar and tone.
+
+---------------------------------------------------------------
+4. Speaking Practice: Explaining a Process
+---------------------------------------------------------------
+🎤 Prompt:
+Explain how you handle alerts in your DevOps workflow. Use conjunctions to connect ideas.
+
+✅ Example:
+"When an alert is triggered, I first check the logs to identify the issue. If it's a resource problem, I scale the service. Otherwise, I notify the team and investigate further."
+
+🎯 Task:
+Write your explanation, then practice speaking it aloud.
+
+---------------------------------------------------------------
+You're doing great, Ahmad! Keep practicing and let me know when you're ready for Day 26. 💪😊

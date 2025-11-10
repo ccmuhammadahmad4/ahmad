@@ -1,0 +1,71 @@
+
+Day 18 English Learning Plan for Muhammad Ahmad
+===============================================
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate English
+📅 Focus Areas: Grammar (Adjective Clauses), Vocabulary, Writing, Speaking
+
+--------------------------------------------------
+1. Grammar Practice: Adjective Clauses
+--------------------------------------------------
+🔹 Definition:
+An adjective clause is a group of words that describes a noun. It usually begins with who, whom, whose, which, or that.
+
+🔹 Examples:
+- The engineer **who fixed the pipeline** is on leave today.
+- I deployed the service **that handles user authentication**.
+- The tool **which monitors the logs** is not responding.
+
+🎯 Practice:
+Write 3 sentences using adjective clauses related to your DevOps work.
+
+--------------------------------------------------
+2. Vocabulary Practice: DevOps Terms
+--------------------------------------------------
+Learn these 5 new words today:
+
+| Word         | Meaning                                 | Example Sentence                                 |
+|--------------|------------------------------------------|--------------------------------------------------|
+| **Latency**  | Delay before a transfer of data begins   | We noticed high latency in the API response.     |
+| **Uptime**   | Time when a system is operational        | Our goal is to maintain 99.99% uptime.           |
+| **Provision**| To set up resources                      | We provision servers using Terraform scripts.    |
+| **Alert**    | Notification about an issue              | The system sent an alert about memory usage.     |
+| **Container**| Lightweight software package             | We deploy microservices in Docker containers.    |
+
+--------------------------------------------------
+3. Writing Practice: Team Update Email
+--------------------------------------------------
+✉️ Prompt:
+Write an email to your team informing them that the monitoring tool which tracks latency is being upgraded and may be unavailable for 2 hours.
+
+📝 Example:
+Subject: Monitoring Tool Upgrade Notification
+
+Dear Team,
+
+I hope you're doing well. I want to inform you that the monitoring tool **which tracks latency and uptime** will be upgraded today at 3 PM. During this time, the tool may be unavailable for approximately 2 hours.
+
+Please let me know if you have any concerns.
+
+Regards,  
+Muhammad Ahmad
+
+🎯 Your Task:
+Write your own version of this email and share it for feedback.
+
+--------------------------------------------------
+4. Speaking Practice: Describe a Tool
+--------------------------------------------------
+🎤 Prompt:
+Describe a DevOps tool you use regularly, using adjective clauses.
+
+🗣️ Example:
+> We use Prometheus, **which collects and stores metrics from services**. It helps us monitor performance and detect issues early.
+
+🎯 Your Task:
+Write and practice 3–4 sentences describing a tool or process using adjective clauses.
+
+--------------------------------------------------
+
+✅ Keep practicing and let me know when you're ready for Day 19!

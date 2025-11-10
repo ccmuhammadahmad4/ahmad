@@ -1,0 +1,87 @@
+✅ 1. Being
+Incorrect:
+
+The server being restarted now.
+
+Corrected:
+
+The server is being restarted now.
+
+Explanation:
+We need the helping verb “is” to make the sentence complete. “Being” is used in passive voice to show that something is happening.
+
+✅ 2. Could
+Incorrect:
+
+Could you check the logs yesterday?
+
+Corrected:
+
+Could you check the logs when you get a chance?
+OR
+Did you check the logs yesterday?
+
+Explanation:
+“Could” is used for polite requests or possibilities. If you're talking about the past, use “did” instead. “Could” is better for present or future polite requests.
+
+✅ 3. Would
+Incorrect:
+
+I would deploy the code if QA approve.
+
+Corrected:
+
+I would deploy the code if QA approves.
+
+Explanation:
+In conditional sentences, the verb after “if” should be in present tense: “approves” not “approve.”
+
+✅ 4. Should
+Incorrect:
+
+You should to restart the service.
+
+Corrected:
+
+You should restart the service.
+
+Explanation:
+After “should,” we use the base form of the verb (restart), not “to restart.”
+
+🔄 Summary Table:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WordIncorrect SentenceCorrected SentenceWhy?BeingThe server being restarted now.The server is being restarted now.Missing helping verb “is”CouldCould you check the logs yesterday?Could you check the logs when you get a chance?“Could” is for polite requestsWouldI would deploy if QA approve.I would deploy if QA approves.Verb after “if” needs presentShouldYou should to restart the service.You should restart the service.No “to” after “should”

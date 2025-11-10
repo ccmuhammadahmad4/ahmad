@@ -1,0 +1,153 @@
+Great! Let's prepare a `.txt` file for **Kubernetes** just like we did for Docker, Dockerfile, and Docker Compose.
+
+---
+
+## ✅ `kubernetes.txt` File Contents:
+
+This file will include:
+
+1. A **Kubernetes cheat sheet**:
+   - Key commands and concepts
+   - Description
+   - Use case
+   - Syntax
+   - Practical example
+
+2. A set of **tough interview questions** for Kubernetes:
+   - With model answers
+   - And explanations
+
+---
+
+```
+==============================
+KUBERNETES CHEAT SHEET
+==============================
+
+1. kubectl get pods
+   - Description: Lists all pods in the current namespace.
+   - Use Case: Check pod status.
+   - Syntax: kubectl get pods
+   - Example: kubectl get pods -n dev
+
+2. kubectl describe pod <pod-name>
+   - Description: Shows detailed info about a pod.
+   - Use Case: Debug pod issues.
+   - Syntax: kubectl describe pod <pod-name>
+   - Example: kubectl describe pod nginx-abc123
+
+3. kubectl logs <pod-name>
+   - Description: Displays logs from a pod.
+   - Use Case: Troubleshooting.
+   - Syntax: kubectl logs <pod-name>
+   - Example: kubectl logs nginx-abc123
+
+4. kubectl apply -f <file>
+   - Description: Applies configuration from a YAML file.
+   - Use Case: Deploy resources.
+   - Syntax: kubectl apply -f <file>
+   - Example: kubectl apply -f deployment.yaml
+
+5. kubectl delete -f <file>
+   - Description: Deletes resources defined in a YAML file.
+   - Use Case: Remove deployments/services.
+   - Syntax: kubectl delete -f <file>
+   - Example: kubectl delete -f service.yaml
+
+6. kubectl get services
+   - Description: Lists all services.
+   - Use Case: View exposed services.
+   - Syntax: kubectl get services
+
+7. kubectl exec -it <pod-name> -- <command>
+   - Description: Executes a command inside a pod.
+   - Use Case: Debug container.
+   - Syntax: kubectl exec -it <pod-name> -- <command>
+   - Example: kubectl exec -it nginx-abc123 -- bash
+
+8. kubectl scale deployment <name> --replicas=<count>
+   - Description: Scales a deployment.
+   - Use Case: Increase/decrease pod count.
+   - Syntax: kubectl scale deployment <name> --replicas=<count>
+   - Example: kubectl scale deployment webapp --replicas=5
+
+9. kubectl rollout restart deployment <name>
+   - Description: Restarts a deployment.
+   - Use Case: Apply config changes.
+   - Syntax: kubectl rollout restart deployment <name>
+   - Example: kubectl rollout restart deployment webapp
+
+10. kubectl get nodes
+    - Description: Lists all cluster nodes.
+    - Use Case: Monitor node status.
+    - Syntax: kubectl get nodes
+
+==============================
+INTERVIEW QUESTIONS: KUBERNETES
+==============================
+
+Q1: What is the difference between a Pod and a Deployment in Kubernetes?
+Answer: A Pod is the smallest deployable unit in Kubernetes. A Deployment manages Pods and ensures the desired number of replicas are running.
+Explanation: Shows understanding of Kubernetes architecture and abstraction layers.
+
+---
+
+Q2: How does Kubernetes handle service discovery?
+Answer: Kubernetes uses DNS and environment variables to allow services to discover each other. Each service gets a DNS name.
+Explanation: Demonstrates knowledge of internal networking and service communication.
+
+---
+
+Q3: What is the role of kubelet in a Kubernetes cluster?
+Answer: Kubelet runs on each node and ensures containers are running as expected. It communicates with the control plane.
+Explanation: Shows understanding of node-level operations.
+
+---
+
+Q4: How do you perform a rolling update in Kubernetes?
+Answer: Use `kubectl apply` with a new image version. Kubernetes automatically performs a rolling update via the Deployment controller.
+Explanation: Demonstrates deployment strategy knowledge.
+
+---
+
+Q5: What is the difference between ConfigMap and Secret?
+Answer: ConfigMap stores non-sensitive configuration data. Secret stores sensitive data like passwords and tokens, encoded in base64.
+Explanation: Shows awareness of secure configuration management.
+
+---
+
+Q6: How do you troubleshoot a pod stuck in CrashLoopBackOff?
+Answer: Check logs with `kubectl logs`, describe the pod, and inspect readiness/liveness probes and resource limits.
+Explanation: Demonstrates practical debugging skills.
+
+---
+
+Q7: What is a namespace in Kubernetes?
+Answer: A namespace is a logical partition within a cluster to isolate resources. Useful for multi-team or multi-project environments.
+Explanation: Shows understanding of resource isolation.
+
+---
+
+Q8: How does Kubernetes handle high availability?
+Answer: Through multiple replicas, self-healing, and distributed control plane components. Load balancing and failover are built-in.
+Explanation: Demonstrates knowledge of reliability and scalability.
+
+---
+
+Q9: What is the role of etcd in Kubernetes?
+Answer: etcd is the key-value store used by Kubernetes to store all cluster state and configuration.
+Explanation: Shows understanding of control plane internals.
+
+---
+
+Q10: How do you expose a deployment to external traffic?
+Answer: Use a Service of type LoadBalancer or NodePort, or use an Ingress controller for HTTP routing.
+Explanation: Demonstrates networking and traffic management knowledge.
+
+```
+
+---
+
+Would you like me to prepare similar `.txt` content for **Terraform**, **Jenkins**, or **AWS ECS/EKS** next?
+
+Also, once file generation is enabled, I can package all these into downloadable `.txt` files for you.

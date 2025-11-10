@@ -1,0 +1,18 @@
+Project 5: Cloud Migration Simulation
+
+Tools:
+- AWS
+- Docker
+- Terraform
+
+Steps:
+1. Choose a monolithic app (e.g., WordPress, Django).
+2. Containerize the app using Docker.
+3. Write Terraform code to provision EC2, RDS, and S3.
+4. Deploy the containerized app to EC2 or ECS.
+5. Configure security groups and IAM roles.
+6. Test the application in the cloud.
+
+Bonus:
+- Document migration strategy (lift-and-shift, re-platform).
+- Add monitoring and backups.

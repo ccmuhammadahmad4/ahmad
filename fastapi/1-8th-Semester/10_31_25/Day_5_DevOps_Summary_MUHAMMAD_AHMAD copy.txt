@@ -1,0 +1,53 @@
+Day 5 DevOps Learning Summary – MUHAMMAD AHMAD
+
+📘 English Practice – Explaining DevOps Culture
+------------------------------------------------
+Task: Write a short paragraph explaining what DevOps culture means and why it is important in modern software development.
+
+Example Prompt:
+"DevOps culture emphasizes collaboration between development and operations teams. It promotes automation, continuous feedback, and shared responsibility for delivering high-quality software quickly and reliably."
+
+✅ Your Task:
+Write your own version of this explanation in English.
+
+🛠️ DevOps Tool Focus – Terraform Concepts
+------------------------------------------
+Learn and explain the following Terraform concepts in your own words:
+1. Infrastructure as Code (IaC)
+2. Terraform Providers
+3. Terraform Modules
+4. Terraform State
+5. Terraform Plan and Apply
+
+✅ Your Task:
+Write 1-2 sentences for each concept in English.
+
+🎤 Public Speaking Practice – Monitoring Tools
+----------------------------------------------
+Task: Practice explaining how monitoring tools help in DevOps.
+
+Example Prompt:
+"We use monitoring tools like Prometheus and Grafana to track system performance, detect issues early, and ensure high availability. They help us visualize metrics and set up alerts for critical events."
+
+✅ Your Task:
+Write a short paragraph explaining how you use monitoring tools in your work. Practice saying it aloud.
+
+📧 Email Writing Practice – Weekly Summary
+------------------------------------------
+Task: Write a professional email to your manager summarizing your weekly DevOps tasks.
+
+Example Prompt:
+Subject: Weekly DevOps Summary
+
+Dear MUHAMMAD SIDDIQUE,
+
+This week, I worked on improving our CI/CD pipeline, created Terraform scripts for infrastructure provisioning, and configured monitoring dashboards using Grafana. I also resolved a few deployment issues and documented the process.
+
+Best regards,
+MUHAMMAD AHMAD
+
+✅ Your Task:
+Write your own weekly summary email in English.
+
+📅 Reminder:
+Submit your answers tomorrow and I’ll prepare your Day 5 PDF summary with feedback and improvements.

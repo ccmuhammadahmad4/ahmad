@@ -1,0 +1,75 @@
+Day 12 English Learning Plan for Muhammad Ahmad
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate English
+📅 Focus Areas: Grammar (Relative Clauses), Vocabulary, Writing, Speaking
+
+---
+
+1️⃣ Grammar Focus: Relative Clauses
+
+🔹 What are Relative Clauses?
+Relative clauses give more information about a noun using words like:
+- who (for people)
+- which (for things)
+- that (for people or things)
+
+🔹 Examples:
+- The engineer who fixed the pipeline is on leave today.
+- The server that hosts our application is down.
+- I monitor the logs which show deployment errors.
+
+🎯 Practice:
+Write 3 sentences using relative clauses related to your DevOps work.
+
+---
+
+2️⃣ Vocabulary Practice: DevOps Terms
+
+| Word         | Meaning                              | Example Sentence                                 |
+|--------------|--------------------------------------|--------------------------------------------------|
+| **Repository** | A storage location for code         | The repository that contains our scripts is private. |
+| **Trigger**    | To start a process automatically    | The webhook triggers the pipeline on each commit. |
+| **Artifact**   | A file created during build process | The artifact which was generated is stored in S3. |
+| **Downtime**   | Period when system is unavailable   | We reduced downtime which affected the users.     |
+| **Alert**      | Notification of an issue            | The alert that was sent helped us fix the issue.  |
+
+🎯 Practice:
+Use each word in a sentence with a relative clause.
+
+---
+
+3️⃣ Writing Practice: Team Update Email
+
+✉️ Prompt:
+Write an email to your team explaining that the deployment pipeline triggered an alert due to a missing artifact.
+
+📝 Example:
+Subject: Alert Triggered by Missing Artifact
+
+Dear Team,
+
+I want to inform you that the deployment pipeline triggered an alert this morning. The artifact which was expected during the build process was missing. I am investigating the issue and will share updates shortly.
+
+Regards,
+Muhammad Ahmad
+
+🎯 Practice:
+Write your own version of this email.
+
+---
+
+4️⃣ Speaking Practice: Describe a Technical Issue
+
+🎤 Prompt:
+Describe a recent issue you faced using relative clauses.
+
+🗣️ Example:
+Last week, I worked on a bug that affected the staging environment. The logs which were generated helped me identify the root cause. I fixed the script that was failing during deployment.
+
+🎯 Practice:
+Write and speak 3–4 sentences about a technical issue using relative clauses.
+
+---
+
+✅ Let me know when you're ready for Day 13!

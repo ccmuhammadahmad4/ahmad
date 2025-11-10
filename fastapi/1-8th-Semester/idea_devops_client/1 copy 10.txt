@@ -1,0 +1,65 @@
+Cold Email Campaign Plan – Muhammad Ahmad
+
+🎯 Objective:
+To reach out to potential clients (startups, SMEs, SaaS companies) for DevOps, AWS, and development services.
+
+📅 Campaign Duration:
+4 Weeks
+
+📦 Tools Required:
+- Hunter.io / Apollo.io (for email finding)
+- Google Sheets / Notion (for tracking)
+- Gmail / Outlook (for sending)
+- Mailtrack / GMass (for tracking opens)
+
+📌 Target Audience:
+- CTOs, Founders, Product Managers
+- Industries: Fintech, SaaS, E-commerce, Healthcare
+
+📤 Weekly Plan:
+
+Week 1:
+- Research 50 potential clients
+- Collect verified emails
+- Write 3 email templates (initial + 2 follow-ups)
+
+Week 2:
+- Send 10–15 cold emails per day
+- Track opens and replies
+- Respond to interested leads
+
+Week 3:
+- Send follow-up #1 to non-responders
+- Continue new outreach (10–15/day)
+
+Week 4:
+- Send follow-up #2
+- Analyze results (open rate, reply rate, conversion)
+
+📧 Email Template (Initial):
+
+Subject: DevOps Help for Your Startup
+
+Hi [Name],
+
+I’m Ahmad, a DevOps Engineer helping startups scale faster with AWS and CI/CD.  
+Recently helped a fintech client reduce deployment time by 40%.  
+Would you be open to a quick 15-min call to explore how I can help your team?
+
+Best regards,  
+Ahmad
+
+📧 Follow-Up #1:
+
+Hi [Name],  
+Just checking in to see if you had a chance to review my previous message.  
+Happy to share a quick case study or answer any questions.
+
+📧 Follow-Up #2:
+
+Hi [Name],  
+I understand things get busy. If now’s not the right time, no worries.  
+Feel free to reach out when you're ready to scale your DevOps or AWS infrastructure.
+
+Thanks again,  
+Ahmad

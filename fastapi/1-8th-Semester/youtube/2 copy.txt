@@ -1,0 +1,108 @@
+I Client Hunting Guide (.txt Format)
+===============================
+FINDING NEW AI APPS & THEIR OWNERS
+===============================
+
+🎯 GOAL:
+Find new AI applications and contact their founders/CEOs for paid YouTube reviews.
+
+----------------------------------------
+STEP 1: FIND NEW AI APPS
+----------------------------------------
+
+🔹 Platform 1: Product Hunt
+- Visit: https://www.producthunt.com
+- Search: "AI", "Artificial Intelligence", "GPT", "AI Tools"
+- Filter: "Newest" or "Today’s Launches"
+- Note: Product Hunt shows new startups daily. Most AI apps launch here first.
+
+🔹 Platform 2: Twitter/X
+- Search Hashtags: #AItools, #AITool, #OpenAI, #StartupLaunch, #BuildInPublic
+- Follow AI influencers and startup founders
+- Engage with new tool announcements
+
+🔹 Platform 3: LinkedIn
+- Search: “Founder AI”, “CEO AI startup”, “Launched AI app”
+- Join groups: “AI Startups”, “Artificial Intelligence & Machine Learning”
+- Follow startup incubators and accelerators
+
+🔹 Platform 4: AngelList (https://angel.co)
+- Search: “AI Startups”
+- Filter: Recently funded or newly launched
+- View startup profiles and team members
+
+🔹 Platform 5: Reddit
+- Subreddits: r/ArtificialIntelligence, r/startups, r/SaaS, r/SideProject
+- Look for launch posts or feedback requests
+- Engage and DM the poster
+
+🔹 Platform 6: Discord
+- Join servers: “AI Hub”, “Y Combinator”, “Buildspace”
+- Look in #launches or #showcase channels
+- DM founders directly
+
+----------------------------------------
+STEP 2: FIND THE OWNER / CEO
+----------------------------------------
+
+✅ Method 1: Product Hunt Profile
+- Click on the app
+- Scroll to “Makers” section
+- Click on their profile → LinkedIn or Twitter link
+
+✅ Method 2: LinkedIn Search
+- Search: “[App Name] + Founder” or “[App Name] + CEO”
+- Use filters: “People” + “Current Company”
+
+✅ Method 3: Website Contact Page
+- Visit the app’s official website
+- Look for “About Us” or “Team” section
+- Use contact form or find email
+
+✅ Method 4: WHOIS Lookup
+- Use: https://who.is
+- Enter the app’s domain
+- Sometimes shows email of domain owner
+
+✅ Method 5: Twitter Bio
+- Many founders list their email in bio
+- Or DM them directly with a short pitch
+
+----------------------------------------
+STEP 3: OUTREACH EMAIL TEMPLATE
+----------------------------------------
+
+Subject: Let’s Feature Your AI App on My YouTube Channel
+
+Hello [Founder Name],
+
+I’m MUHAMMAD AHMAD, and I’ve launched a YouTube channel focused on reviewing innovative AI applications. My goal is to help new AI tools gain visibility and attract users through high-quality, honest reviews.
+
+I’d love to feature your app in a dedicated video. I offer a premium review package for $1000 which includes:
+- In-depth video review
+- SEO optimization
+- Social media promotion
+- Permanent visibility on YouTube
+
+Let me know if you’d like to collaborate!
+
+Best regards,  
+MUHAMMAD AHMAD  
+[LinkedIn or YouTube Channel Link]
+
+----------------------------------------
+STEP 4: TRACK YOUR OUTREACH
+----------------------------------------
+
+Use Google Sheet or Notion to track:
+- App Name
+- Founder Name
+- Platform Found (Product Hunt, Twitter, etc.)
+- Contacted (Yes/No)
+- Response (Yes/No)
+- Deal Closed (Yes/No)
+- Payment Status
+
+===============================
+END OF GUIDE
+===============================

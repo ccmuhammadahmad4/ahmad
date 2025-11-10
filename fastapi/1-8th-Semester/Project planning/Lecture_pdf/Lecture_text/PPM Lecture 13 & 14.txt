@@ -1,0 +1,950 @@
+Project Management
+
+Project Communication Management
+
+Learning Objectives
+ Understand the importance of good
+
+communications in projects.
+ Explain the elements of project communications
+planning, including how to create a communications
+management plan and perform a stakeholder
+communications analysis.
+ Describe various methods for distributing project
+information and the advantages and disadvantages of
+each, discuss the importance of addressing
+individual communication needs, and calculate the
+number of communication channels in a project.
+
+2
+
+What is Project Communication
+
+3
+
+A Classic Case of
+Miscommunication
+In Center Harbor, when Walter Cronkite steered
+his boat into port. The avid sailor was amused to
+see in the distance a small crowd on shore waving
+their arms to greet him. He could barely make out
+their excited shouts: “Hello Walter, Hello Walter!”
+
+A Classic Case of
+Miscommunication
+As his boat came closer, the crowd grew larger, still
+yelling. Pleased at the reception, Cronkite tipped his
+white captain's hat, waved back, even took a bow. But
+before reaching dockside, Cronkite's boat abruptly
+jammed aground. The crowd stood silent. The veteran
+suddenly realized what they'd been shouting: “Low
+water, low water!”
+
+Analysis of Flawed
+Communication Process
+
+Analysis of Flawed
+Communication Process
+Sender
+has
+idea
+Warn
+boater
+
+Analysis of Flawed
+Communication Process
+Sender
+has
+idea
+
+Sender
+encodes
+message
+
+Warn
+boater
+
+“Low
+water!”
+
+Analysis of Flawed
+Communication Process
+Sender
+has
+idea
+
+Sender
+encodes
+message
+
+Channel
+carries
+message
+
+Warn
+boater
+
+“Low
+water!”
+
+Message
+distorted
+
+Analysis of Flawed
+Communication Process
+Sender
+has
+idea
+
+Sender
+encodes
+message
+
+Channel
+carries
+message
+
+Receiver
+decodes
+message
+
+Warn
+boater
+
+“Low
+water!”
+
+Message
+distorted
+
+“Hello
+Walter!”
+
+Barriers That Caused
+Cronkite Miscommunication
+⚫ Frame of reference
+
+⚫ Receiver accustomed to
+
+acclaim and appreciative
+crowds.
+⚫ Language skills
+
+⚫ Accent makes "water" and
+
+"Walter" sound similar.
+⚫ Receiver more accustomed to
+⚫ Listening skills
+
+speaking than to listening.
+
+Barriers That Caused
+Cronkite Miscommunication
+⚫ Emotional interference
+
+⚫ Ego prompted receiver to
+
+believe crowd was responding
+to his celebrity status.
+⚫ Physical barriers
+
+⚫ Noise from boat, distance
+
+between senders and
+receivers.
+
+Which of these barriers could be overcome through
+improved communication skills?
+
+Another Example of Miscommunication
+
+As Marketing Requested It
+
+As Sales Ordered It
+
+As Engineering Designed It
+
+As Production Manufactured It
+
+As Maintenance Installed It
+
+What the Customer Wanted
+
+What is Project communication?
+⚫ Writing that addresses a particular need
+⚫ User-oriented documents
+⚫ Efficient documents
+⚫ Communication with an electronic and a human
+
+component
+⚫ Communication that reaches a global audience
+
+How is Project Communication defined?
+⚫ Producing project communication involves creating,
+
+designing, and transmitting technical information so
+that people can understand it easily and use it safely,
+effectively, and efficiently. Markel, 2001, p. 4
+
+How is Technical Communication defined?
+⚫ Technical communication is the process by which
+
+researchers and technical experts develop information
+products for users. Killingsworth & Palmer, 1999, p. 4
+
+How is Technical Writing defined?
+⚫ Technical writing informs, explains, instructs, or
+
+persuades a specific audience through mastery of
+specific strategies and sometimes a special language,
+so that readers gain new knowledge or the ability to
+perform their own complex and specialized jobs more
+effectively. VanAlstyne & Tritt, 2002, p. 6
+
+Who are Technical Communicators?
+⚫ Technical writer
+
+⚫ Technical editor
+⚫ Web designer
+⚫ Online documentation specialist
+
+⚫ Information developer
+⚫ Instructional developer
+
+What Skills does a Technical
+Communicator need?
+⚫ Address particular readers
+
+⚫ Help readers solve problems
+⚫ Reflect an organization’s goals culture
+⚫ Work collaboratively
+
+⚫ Use design to increase readability
+⚫ Use words or graphics or both
+⚫ Use high-tech tools
+⚫ Meet deadlines
+
+What are Measures of Excellence
+in Technical Communication?
+⚫ Honesty
+
+⚫ Clarity
+⚫ Accuracy
+⚫ Comprehensiveness
+
+⚫ Accessibility
+⚫ Conciseness
+⚫ Professional appearance
+⚫ Correctness
+
+⚫ Relevance
+
+What are Seven Principles of
+Technical Writing?
+⚫ Know your purpose
+
+⚫ Know your audience
+⚫ Choose and organize your content around your
+
+audience
+⚫ Write clearly and precisely
+⚫ Use good page design
+⚫ Think visually
+⚫ Write ethically
+
+What are Types of Technical
+Communication?
+⚫ Manuals
+⚫ Procedures
+
+⚫ Instructions
+⚫ Online help
+⚫ Reports
+
+⚫ Proposals
+⚫ Memos
+⚫ Email
+⚫ Web pages
+
+⚫ Quick reference cards
+
+Techniques to Improve Org
+Communication
+• Emphasis on teamwork
+• Improve reporting system
+• Focus on employees participation & involvement
+• Improve management system
+• Change the organizational culture.
+• Flatter hierarchy.
+• Cross functional teams.
+• Fewer control.
+
+Guidelines for Choosing Communication
+Technologies.
+⚫ Audience expectations.
+⚫ Time and cost.
+
+⚫ Nature of the message.
+⚫ Presentation needs.
+⚫ Work environment.
+
+What is Project Communication
+⚫ Exchange of Project-specific information
+
+31
+
+Project Communication Management
+Project Communications Management includes the
+processes required to ensure timely appropriate
+generation, collection, distribution, storage, retrieval
+and ultimate disposition of project information. The
+Project Communications Management processes
+provide the critical links among people and
+information that are necessary for successful
+communications.
+
+32
+
+What’s in it for a Project Manager?
+Three reasons you need to manage project
+Communication
+⚫ Meet the information needs of your project
+
+stakeholders (Communications Planning and Managing)
+⚫ Track and report on project performance (Monitoring
+Communications)
+
+⚫ Formally document project results (Administrative Closure)
+
+33
+
+Project Communication Management
+Plan Communications
+Management
+Initiating
+Processes
+
+View Project
+Communication in
+the context of the
+five PM process
+groups.
+
+Planning
+Processes
+
+Manage
+Communication
+Executing
+Processes
+
+Controlling
+Processes
+
+Monitor
+Communications
+
+Administrative
+Closure
+Closing
+Processes
+34
+
+35
+
+Importance of Good Communications
+ The greatest threat to many projects is a failure to
+
+communicate.
+ Our culture does not portray IT professionals as being
+
+good communicators.
+ Research shows that IT professionals must be able to
+
+communicate effectively to succeed in their positions.
+ Strong verbal skills are a key factor in career
+
+advancement for IT professionals.
+
+36
+
+Project Communications Management Processes
+• Plan Communications Management: the process of developing
+
+an approach and plan for all project-based communication
+activities based on the information needs of each stakeholder,
+available resources in the organization, and the needs of a
+project.
+• Manage Communications : the process of creating, collecting,
+distributing, storing, accessing, managing, monitoring, and
+disposing of project information.
+• Monitor Communications: the process of ensuring that the
+information needs of project stakeholders, as well as the project,
+are met.
+37
+
+Generally, a project management communication plan
+should answer the following key questions:
+⚫ Who? Who needs to know?
+
+⚫ What? What do they need to know?
+⚫ When? How frequently?
+⚫ Where? Where are communications required?
+
+⚫ Why? Why is this important?
+⚫ How? How are they kept informed?
+
+38
+
+Who? Stakeholder Identification
+Did you think of everyone?
+If you are designing an application in this project,
+have you included the end-users in the early project
+communications?
+If your end-user works for another organization such
+as a local or city government or a voluntary agency,
+have you also kept the IT people in those entities
+informed?
+39
+
+What? Stakeholder Analysis
+⚫ Tendency to send too much to too many – very easy to
+
+do with electronic communications! Too much is as
+bad as too little – can’t read everything.
+⚫ Target your audiences – and realize you may have more
+
+than one.
+
+40
+
+When ?
+⚫ How often?
+⚫ Morning & afternoon?
+⚫ Day of week?
+⚫ Day of month?
+⚫ Different intervals for various stakeholders
+
+– Weekly for team members
+– Bi-weekly for sponsor
+– Monthly for Executives
+– Etc.
+41
+
+Where ?
+⚫ Location for status meetings
+
+⚫ Location for team meetings
+⚫ Locations for information: Network drive, website,
+
+internal or external, Email attachments, Email text
+
+42
+
+Why ?
+⚫ Curiosity? Good/bad
+
+⚫ Need to know?
+⚫ Provide information
+⚫ Prepare end-users for transition
+
+⚫ MANY REASONS TO SHARE INFORMATION!
+
+43
+
+How ?
+⚫ Emails
+
+⚫ Status reports
+⚫ Phone calls
+⚫ Meetings
+
+⚫ Face to face, one on one
+⚫ Press release
+⚫ Other?
+
+44
+
+Plan Communications Management
+⚫ During the plan communications management process,
+
+project managers, together with the project team, develop
+a project communication plan that details your
+communication management system or approach.
+
+⚫ The group should specify how it intends to address
+
+stakeholders’ communication needs throughout the project
+using assets available within the organization. Different
+stakeholders have different communication expectations.
+
+45
+
+Communications Management Plan Contents
+• The message or information to be communicated
+
+• Communication distribution frequency and schedule
+• Communication modes, such as email, text messages, face-to-
+
+face communication, meetings, reports on the status
+of deliverables and project milestones, etc.
+• The stakeholders who are receiving the information
+• The team member(s) responsible for delivering content and
+responding to questions or requests
+• Communication constraints (e.g., budget allotted for
+communication, schedule, communication technology,
+internal and external policies, legislation requiring
+communications to be handled a certain way, etc.)
+46
+
+Communications Management Plan Contents (cont’d)
+⚫ Input documents you will need in order to create your
+
+communication plan may include:
+• A project charter
+
+• A stakeholder register
+• A resource allocation and management plan
+
+⚫ Although the project communication plan is created
+
+during the project planning phase, you may have to
+repeat the process as the project’s communication
+requirements change. If stakeholders are added to or
+removed from the project, the plan will have to be
+revisited.
+47
+
+Sample Stakeholder Analysis for Project
+Communications
+
+48
+
+Manage Communications
+⚫ In this process, project managers and their teams
+
+execute the tasks and activities defined in the
+communication plan, i.e., the collection, creation,
+storage,
+retrieval,
+management,
+distribution,
+monitoring, and disposal of project information.
+
+⚫ The goal is to provide timely, accurate information to
+
+the right people using the appropriate project
+communication tools.
+
+49
+
+Manage Communications (Cont)
+⚫ Besides information distribution, this is also where
+
+you encourage stakeholders to ask questions or
+discuss any lingering doubts or confusion they may
+have regarding the project, so you can provide
+clarification.
+
+⚫ Communication is a two-way street. Not only should
+
+you provide the information to the right recipients at
+the right time, but you also have to make certain they
+receive and understand the information you send out.
+50
+
+Manage Communications (Cont)
+⚫ Documents created during this process include:
+• Performance reports
+• Presentations
+• Schedule updates
+• Updates on the status of the project’s deliverables
+
+⚫ Certain project documents may have to be updated,
+
+too, such as the communication management plan,
+project plan, stakeholder register, stakeholder
+engagement plan, and the lessons learned register.
+⚫ Communications management occurs throughout
+the project’s life cycle.
+
+51
+
+Manage Communications (Cont)
+ Getting the right information to the right people at
+
+the right time and in a useful format is just as
+important as developing the information in the first
+place.
+ Important considerations include:
+ Using technology to enhance information distribution.
+ Formal and informal methods for distributing
+
+information.
+
+52
+
+Distributing Information in an Effective
+and Timely Manner
+ Don’t bury crucial information.
+ Don’t be afraid to report bad information.
+
+ Oral communication via meetings and informal talks
+
+helps bring important information—good and bad—out
+into the open.
+
+53
+
+Importance of Face-to-Face
+Communication
+ Research says that in a face-to-face interaction:
+ 58 percent of communication is through body language.
+ 35 percent of communication is through how the words
+are said.
+ 7 percent of communication is through the content or
+words that are spoken.
+ Pay attention to more than just the actual words
+
+someone is saying.
+ A person’s tone of voice and body language say a lot
+about how he or she really feels.
+54
+
+Encouraging More Face-to-Face
+Interactions
+ Short, frequent meetings are often very effective in
+
+projects.
+ Stand-up meetings force people to focus on what they
+
+really need to communicate.
+ Some companies have policies preventing the use of e-
+
+mail between certain hours or even entire days of the
+week.
+55
+
+Media Choice Table
+
+56
+
+Understanding Group and Individual
+Communication Needs
+ People are not interchangeable parts.
+ As illustrated in Brooks’ book The Mythical Man-Month,
+
+you cannot assume that a task originally scheduled to
+take two months of one person’s time can be done in one
+month by two people.
+
+57
+
+Personal Preferences Affect
+Communication Needs
+ Introverts like more private communications, while
+
+extroverts like to discuss things in public.
+ Intuitive people like to understand the big picture, while
+sensing people need step-by-step details.
+ Thinkers want to know the logic behind decisions, while
+feeling people want to know how something affects
+them personally.
+ Judging people are driven to meet deadlines while
+perceiving people need more help in developing and
+following plans.
+58
+
+Other Communication Considerations
+ Rarely does the receiver interpret a message exactly as
+
+the sender intended.
+ Geographic location and cultural background affect the
+
+complexity of project communications.
+ Different working hours
+ Language barriers
+ Different cultural norms
+
+59
+
+Determining the Number of
+Communications Channels
+ As the number of people involved increases, the
+
+complexity of communications increases because there
+are more communications channels or pathways
+through which people can communicate.
+ Number of communications channels = n(n-1)
+2
+where n is the number of people involved.
+
+60
+
+The Impact of the Number of People on
+Communications Channels
+
+61
+
+Monitor Communications
+⚫ Also performed throughout the project, this process
+
+ensures that all of the communication techniques and
+methods you’re using -- including the monitoring and
+control measures you have in place -- follow the project
+communication plan.
+
+⚫ It’s also at this stage that you gauge whether or not your
+
+approaches are producing the desired results. Otherwise,
+you may have to make some adjustments in order to
+prevent any communication issues from affecting the
+project.
+62
+
+Monitor Communications (Cont)
+Actions to carry out in this process include:
+• Verify that communications go out as scheduled.
+• Verify that the right stakeholders receive the right
+
+communications.
+• Verify that stakeholders understand the communications
+they receive.
+• Verify that relevant feedback or questions reach the right
+people.
+
+63
+
+Monitor Communications (Cont)
+Some of the project management documents you'll be
+creating or updating include:
+• Change requests
+• Work performance reports
+• Communication
+
+management
+
+and
+
+stakeholder
+
+engagement plans
+• Other relevant project documents, such as the issue log
+and the stakeholder register
+
+64
+
+Issue Log
+
+65
+
+How to be Successful at Project Communication
+Management
+⚫ From project initiation to closing, effective communication drives project
+management. Creating a project proposal that will compel investors to act
+
+favorably requires excellent communication skills. The same is true for:
+• Negotiating contracts with vendors and suppliers
+• Gathering the project’s requirements
+• Interviewing stakeholders to understand their needs and expectations
+• Planning the project
+• Dividing the project into work packages
+• Assigning tasks and responsibilities to team members
+• Building a winning team
+• Facilitating meetings
+• Keeping track of the project’s progress
+• Writing reports
+
+66
+
+How to be Successful at Project Communication
+Management
+⚫ And then there’s diversity in the workplace. Many of today’s project teams are
+composed of diverse groups of people.
+⚫ Even among small, local teams, communication challenges abound. You want
+everyone on the same page. You want people with an interest in the project
+to know what’s going on -- not just once, but on a regular basis.
+⚫ You want everyone involved to understand the project’s priorities, as well as
+
+the risks and opportunities it presents.
+⚫ You want team members to feel accountable for their assigned roles and
+responsibilities -- and to rally toward the same objectives. You want
+stakeholders to support, instead of oppose, the project’s goals.
+⚫ If opposition from stakeholders cannot be helped, though, you'll want to be
+able to manage their influence on the project. At the same time, you have to
+be respectful, receptive, and encouraging.
+67
+
+Key Skills for Project Communication
+Management
+• Showing active listening skills
+• Having strong speaking and writing skills
+
+• Being skilled at conflict resolution
+• Ability to motivate, engage, and guide a team
+
+• Setting expectations, and managing them
+• Having a propensity for questioning ideas and exploring alternatives
+
+• Recognizing that people think and communicate differently
+• The ability to create an environment of trust, so people can comfortably speak
+
+their minds
+• Acknowledging opposing ideas (even when you don’t agree with them)
+• Being willing to ask for and accept help if you need it
+• Having a positive disposition
+
+68
+
+Overcoming Communication
+Barriers
+⚫ Realize that communication is imperfect.
+
+⚫ Adapt the message to the receiver.
+⚫ Improve your language and listening skills.
+⚫ Question your preconceptions.
+⚫ Plan for feedback.
+
+Surmounting Organizational
+Barriers
+⚫ Encourage open environment for interaction and
+
+feedback.
+⚫ Flatten the organizational structure.
+⚫ Promote horizontal communication.
+⚫ Provide hotline for anonymous feedback.
+⚫ Provide sufficient information through formal
+channels.
+
+Barriers to Interpersonal
+Communication
+⚫ Bypassing
+⚫ Limited frame of reference
+⚫ Lack of language skills
+⚫ Lack of listening skills
+⚫ Emotional interference
+
+⚫ Physical distractions
+
+Understanding is shaped by
+⚫
+
+Communication climate
+
+⚫
+
+Context and setting
+
+⚫
+
+Background, experiences
+
+⚫
+
+Knowledge, mood
+
+⚫
+
+Values, beliefs, culture
+
+Barriers That Block the Flow of
+Information in Organizations
+⚫ Closed communication climate
+⚫ Top-heavy organizational structure
+⚫ Long lines of communication
+⚫ Lack of trust between management and employees
+⚫ Competition for power, status, rewards
+
+Additional Communication
+Barriers
+⚫ Fear of reprisal for honest communication
+
+⚫ Differing frames of reference among
+
+communicators
+⚫ Lack of communication skills
+⚫ Ego involvement
+⚫ Turf wars
+
+Benefits of Effective Communication
+⚫ Improves quality of services & products.
+⚫ Provides competitive advantage.
+⚫ Motivate & involve emplyees.
+⚫ Reduce Cost.
+⚫ Saves Time.
+⚫ Increases productivity
+⚫ Streamline work practices.
+
+⚫ Build Goodwill.
+
+Types of Nonverbal Communication:
+
+
+
+
+
+
+
+
+Kinesic behavior,-body motion such as gestures, facial
+expressions, eye behavior, touching,- Body movement.
+Physical characteristics- body shape, physique, posture,
+height, weight, hair, & skin color.
+Paralanguage- Voice quality, volume, speech rate, pitch, &
+laughing.
+Proxemics, -Way people use & perceive space, seating
+arrangements, & conversational distance.
+Environment- Building & room design, furniture & interior
+decorating, light noise, & cleanliness.
+Time-Being late or early, keeping others waiting, & other
+relationships between time & status.
+
+Reading Body Language
+Unspoken message
+
+“I want to be helpful.”
+
+Behavior
+
+Uncrossing legs
+Unbuttoning coat or jacket
+
+Unclasping hands
+Moving closer to other person
+
+Smiling face
+Removing hands from pockets
+
+Unfolding arms from across chest
+“I’m confident”
+
+Avoiding hand-to-face gestures & head scratching
+
+Maintaining an erect stance
+Keeping steady eye contact
+
+Steeling fingertips below chin
+
+Reading Body Language
+Unspoken message
+“ I’m nervous
+
+Behavior
+Clearing throat
+
+Expelling air (such as “Whew!”)
+Placing hand over mouth while speaking
+Hurried cigarette smoking
+“I’m superior to you.”
+
+Peering over tops of eyeglasses
+Pointing a finger
+
+Standing behind a desk & leaning palms down on it
+Holding jacket leaps while speaking
+
+Thank you
+
+79
+
+

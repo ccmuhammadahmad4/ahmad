@@ -1,0 +1,50 @@
+Email Tracking Sheet Layout – Muhammad Ahmad
+
+Purpose:
+Track cold email outreach, follow-ups, and client responses for DevOps, AWS, and development services.
+
+Columns:
+
+1. Client Name
+   - Full name of the person you're contacting
+
+2. Company Name
+   - Startup or business name
+
+3. Email Address
+   - Verified email ID
+
+4. LinkedIn Profile
+   - Optional, for cross-reference
+
+5. Industry
+   - Fintech, SaaS, E-commerce, etc.
+
+6. Outreach Date
+   - Date when the first email was sent
+
+7. Email Status
+   - Sent / Opened / Replied / Bounced
+
+8. Follow-Up 1 Date
+   - Date of first follow-up email
+
+9. Follow-Up 2 Date
+   - Date of second follow-up email
+
+10. Response Received?
+    - Yes / No
+
+11. Response Summary
+    - Short note on what the client replied
+
+12. Next Action
+    - Call scheduled / Send proposal / No response / Closed
+
+13. Notes
+    - Any extra info (e.g., client interest, budget, timeline)
+
+Tips:
+- Use color coding: Green = Replied, Yellow = Opened, Red = No Response
+- Use filters to sort by status or industry
+- Update weekly to stay on top of leads

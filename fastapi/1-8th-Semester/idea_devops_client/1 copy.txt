@@ -1,0 +1,19 @@
+2. 02_Build_Trust_and_Portfolio.txt
+Build Trust & Authority – Muhammad Ahmad
+
+1. Portfolio Website:
+- Include:
+  - Case studies (real or dummy)
+  - Testimonials (from collaborators or clients)
+  - Contact form + WhatsApp link
+
+2. GitHub & Blog:
+- Share:
+  - DevOps scripts
+  - AWS infrastructure setups
+  - Backend/Frontend code samples
+
+- Blog Ideas:
+  - “How to Set Up CI/CD with GitHub Actions”
+  - “AWS Cost Optimization for Startups”
+  - “Dockerizing a Node.js App for Production”

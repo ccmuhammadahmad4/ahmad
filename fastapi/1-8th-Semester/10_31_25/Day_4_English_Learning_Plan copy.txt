@@ -1,0 +1,64 @@
+
+Day 4 - English Learning Plan for Muhammad Ahmad
+------------------------------------------------
+
+👋 Welcome to Day 4, Ahmad! You're doing a great job. Let's continue building your English skills for meetings, emails, and presentations.
+
+1. 📘 Grammar Focus: Future Tense (will / going to)
+--------------------------------------------------
+We use the future tense to talk about actions that will happen later.
+
+- **"will"** is used for decisions made at the moment of speaking or predictions.
+  Example: I will deploy the update tonight.
+
+- **"going to"** is used for planned actions.
+  Example: I am going to monitor the logs after lunch.
+
+🎯 Practice:
+Write 2 sentences using "will" and 2 using "going to" about your DevOps tasks.
+
+2. 🧠 Vocabulary: 5 New Words
+-----------------------------
+| Word         | Meaning                            | Example Sentence                          |
+|--------------|------------------------------------|-------------------------------------------|
+| **Outage**   | A period when service is unavailable | We had a server outage last night.       |
+| **Latency**  | Delay in processing or response     | The API latency increased after the update. |
+| **Script**   | A set of commands in a file         | I wrote a script to automate the backup. |
+| **Trigger**  | To start a process automatically    | The job is triggered after every commit. |
+| **Alert**    | A warning message                   | We received an alert about high CPU usage.|
+
+🎧 Optional: Practice pronunciation by reading each word aloud.
+
+3. ✉️ Writing Practice: Email to Team
+-------------------------------------
+**Prompt:**  
+Write an email to your team informing them that you will perform a deployment tomorrow at 6 PM, and there may be a short downtime.
+
+**Example:**
+Subject: Scheduled Deployment - Tomorrow at 6 PM
+
+Dear Team,  
+I would like to inform you that I will perform a deployment for the BGS AI project tomorrow at 6 PM.  
+There may be a short downtime during the process. Please let me know if you have any concerns.  
+
+Regards,  
+Muhammad Ahmad
+
+🎯 Your Turn: Write your own version and review it for grammar and tone.
+
+4. 🗣️ Speaking Practice: Describe a Problem
+-------------------------------------------
+🎤 Prompt:  
+Describe a technical issue you faced recently and how you solved it.
+
+**Example:**
+Last week, we had a DNS issue that caused a service outage. I investigated the logs and found a missing DNS entry. I updated the configuration and restarted the service. The issue was resolved within 30 minutes.
+
+🎯 Practice Tip:
+- Speak slowly and clearly.
+- Use past tense to describe what happened.
+- Record yourself and listen to improve pronunciation.
+
+---
+
+Keep up the great work, Ahmad! Let me know when you're ready for Day 5. 😊

@@ -1,0 +1,63 @@
+Day 10 English Learning Plan for Muhammad Ahmad
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate
+📅 Focus: Passive Voice, DevOps Vocabulary, Writing, Speaking
+
+---
+
+🔤 Grammar Focus: Passive Voice
+- Used when the action is more important than the person doing it.
+- Structure: Object + form of "be" + past participle (+ by agent)
+
+Examples:
+- The deployment was completed successfully.
+- The issue was resolved by the backend team.
+
+🎯 Practice:
+Write 2 sentences using passive voice related to your daily work.
+
+---
+
+🧠 Vocabulary Practice (DevOps & Workplace)
+
+| Word         | Meaning                             | Example Sentence                          |
+|--------------|-------------------------------------|-------------------------------------------|
+| **Triggered**| Caused to happen                    | The alert was triggered by high CPU usage.|
+| **Resolved** | Fixed or solved                     | The issue was resolved by the support team.|
+| **Scheduled**| Planned for a specific time         | The deployment was scheduled for midnight.|
+| **Logged**   | Recorded in a system                | The error was logged in the monitoring tool.|
+| **Handled**  | Managed or dealt with               | The rollback was handled by the DevOps team.|
+
+🎧 Optional: Practice pronunciation of each word.
+
+---
+
+✉️ Writing Practice
+
+**Prompt:**  
+Write an email to your team to inform them that the deployment of the new monitoring tool was completed successfully last night and all alerts are now being logged correctly.
+
+Structure:
+- Subject line
+- Greeting
+- Main message using passive voice
+- Closing
+
+---
+
+🎤 Speaking Practice
+
+**Prompt:**  
+Describe a recent task you worked on using passive voice.
+
+Example:
+> The CI/CD pipeline was updated last week.  
+> The new configuration was tested by the QA team.  
+> The changes were deployed to the staging environment.
+
+🎯 Tip: Record yourself and listen for clarity and fluency.
+
+---
+
+✅ Keep practicing and let me know when you're ready for Day 11!

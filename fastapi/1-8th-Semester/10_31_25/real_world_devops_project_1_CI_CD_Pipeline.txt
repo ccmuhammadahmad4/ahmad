@@ -1,0 +1,26 @@
+Project 1: CI/CD Pipeline for a Web App
+
+Tools:
+- GitHub Actions or Jenkins
+- Docker
+- Kubernetes
+- Helm
+- Slack (optional for notifications)
+
+Steps:
+1. Choose a sample web application (e.g., Node.js, Python Flask).
+2. Containerize the app using Docker (write a Dockerfile).
+3. Push the code and Dockerfile to a GitHub repository.
+4. Set up GitHub Actions or Jenkins pipeline:
+   - Step 1: Checkout code
+   - Step 2: Run unit tests
+   - Step 3: Build Docker image
+   - Step 4: Push image to Docker Hub
+   - Step 5: Deploy to Kubernetes using Helm
+5. Create Helm charts for your application.
+6. Deploy to a local Kubernetes cluster (e.g., Minikube or Kind) or cloud (EKS/GKE/AKS).
+7. Test deployment and verify rollout.
+
+Bonus:
+- Add Slack notifications for build/deploy status.
+- Implement rollback strategy using Helm.

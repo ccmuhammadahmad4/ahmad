@@ -1,0 +1,421 @@
+Project
+Management
+Work Breakdown
+Structure
+
+What is WBS (Work Breakdown Structure)?
+• As per PMBOK the work breakdown structure is:
+“A deliverable-oriented hierarchical decomposition of the work to
+be executed by the project team to accomplish the project
+objectives and create the required deliverables”.
+“A Work Breakdown Structure (WBS) is a hierarchical structure of
+things that the project will make or outcomes that it will deliver”
+
+What is WBS (Work Breakdown Structure)?
+• In simple words:
+“A work breakdown structure defines all the things a project needs
+to accomplish, organized into multiple levels, and displayed
+graphically.”
+
+• Essentially, the WBS defines the “what” of the project. Everything you
+need to accomplish in the project is displayed in a single, easy-tounderstand chart. The purpose of this chart is to break down complex
+activities into smaller, more management constituents.
+
+WBS example for an Aircraft System
+• Developing an aircraft system is obviously a very complex endeavor. You need an
+aircraft (which itself is an extremely complex undertaking), a system to train staff
+and pilots, a way to manage infrastructure, etc.
+• Its WBS breaks down all these complex activities into smaller, more management
+constituent parts.
+• Thus, there might have one group responsible for building an aircraft. Within this
+group, there might have one team focused on building the airframe, another on
+creating a propulsion system, and so on.
+• It’s common to have three levels of decomposition in the WBS. One might have a
+fourth and even a fifth level in case of extremely complex projects. For most
+projects, however, three levels will be sufficient.
+
+WBS example for making a Bicycle
+
+• The numbers next to each item indicate the number of hours or resources required to
+complete the work. The sum of all these must be 100 at each level.
+• This is called “100% rule” - that the sum of the work at each “child” level must be
+100% of the work at the “parent” level.
+• The WBS doesn’t describe any actions. Instead, every item is a noun describing an end
+product - a bicycle seat, fork, handlebar, etc.
+• This is one of the fundamental features of a WBS: it describes deliverables, not the
+activities necessary to get there. Every item in the WBS must correspond to an end
+product (real or virtual). If there are any verbs in WBS, then one is doing something
+wrong.
+• For example, if one is creating a work breakdown structure for manufacturing a car,
+he/she’ll include items such as “car body” (a deliverable), not “welding steel” (an
+activity).
+
+Relevant Definitions
+• Work: work refers to “work products or deliverables that are the
+result of effort
+and not the effort itself”. That is, “work” defines the end result of any
+activity.
+The work remains constant even though the amount of effort needed to get
+there might inflate/deflate.
+• Deliverable: A deliverable is “any unique and verifiable product, result, or capability to
+perform a service that is required to be produced to complete a process phase, or
+project”. Deliverables will vary from project to project and client to client.
+• Work package: According to PERT (which developed the WBS), a work package is “the
+work required to complete a specific job or process, such as a report, a design, a
+documentation requirement or portion thereof, a piece of hardware, or a
+services., a simpler definition: “a work package is a deliverable at the lowest level of
+the WBS.”
+For example, if one is making a bicycle, a “bike seat” might be one of his deliverables.
+All the work required to create the seat - cutting leather, shaping foam, creating metal
+frame, etc. - would be part of the work package.
+
+Characteristics of the Work Breakdown Structure
+Not every breakdown of project deliverables can be classified as a WBS. For it to be
+called a work breakdown structure, it must have certain characteristics:
+
+• Hierarchy: The WBS is hierarchical in nature. Each “child” level exists in a strict
+hierarchical relationship with the parent level. The sum of all the child elements
+should give you the parent element.
+• 100% rule: Every level of decomposition must make up 100% of the parent level. It
+should also have at least two child elements.
+• Mutually exclusive: All elements at a particular level in a WBS must be mutually
+exclusive. There must be no overlap in either their deliverables or their work. This is
+meant to reduce miscommunication and duplicate work.
+• Outcome-focused: The WBS must focus on the result of work, i.e. deliverables,
+rather than the activities necessary to get there. Every element should be described
+via nouns, not verbs. This is a big source of confusion for beginners to WBS.
+
+Work Breakdown Structure (WBS) Examples
+• The best way to understand how work breakdown structures work is by looking at
+different WBS examples. Seeing how complex projects are actually broken down can help
+you do the same in your projects.
+• While work breakdown structures are technically supposed to focus on deliverables, not
+activities (i.e. nouns, not verbs), plenty of project managers skip this rule in actual
+projects. Which is why one’ll see WBS examples where top-level “deliverables” actually
+describe activities.
+• This isn’t ideal, but keep in mind that people use work breakdown structure for all sorts
+of things, even outside of project management - writing a book, planning a vacation, etc.
+If one is using it casually, he/she don’t really have to follow all the hard rules.
+
+• On that note, let’s look at some work breakdown structure examples.
+
+A Casual WBS Example
+• The convenient format of the WBS means that one can use it for any number of
+purposes, including managing casual projects.
+• In such cases, don’t really have to follow the formal guidelines of a work
+breakdown structure. Rather, the goal should be to create natural categories and
+sub-categories. The only restriction, They should all add up to 100% of the work
+to be done.
+
+A Casual WBS Example (Cont)
+
+A Casual WBS Example (Cont)
+• Note that the WBS lists activities (“cut lawn”) instead of
+deliverables. This wouldn’t pass muster in a formal work
+breakdown structure, but if one is using something
+internally, it doesn’t really matter as long as each level makes
+sense.
+
+Computer Program WBS Example
+• WBS example, one can see one of the biggest mistakes people
+make when creating the WBS: mistaking activities for deliverables.
+• As one can see, the third-level in the WBS identifies activities such as
+“develop business case” or “perform primary planning”.
+• This is extra within the context of a WBS. If one remove the verb from
+each of these WBS levels, he/she’d get a deliverable (i.e. a noun), not
+an activity. That is, one don’t need “develop business case” - just
+“business case” is enough.
+• When to create work breakdown structures, there is need to
+remove verbs from each WBS level. One is, after all, describing
+things that need to be delivered, not the tasks necessary to deliver
+them.
+
+WBS vs Project Schedule vs Project Plan
+• Common source of confusion for beginners is the difference
+between the work breakdown
+structure, project schedule, and project plan.
+• While these three things often describe the same thing - what is to
+be achieved in the project - they vary greatly in scope and details.
+• Work breakdown structure describes the deliverables needed to
+complete the project, i.e. the “what” of the project. It doesn’t
+include timelines or resources. The goal of the WBS is to give the project
+team a hyper-focused idea of what they need to achieve.
+
+WBS vs Project Schedule vs Project Plan
+• Project schedule describes the project’s deliverables as well as
+their deadlines and resource
+requirements. Think of it as the “what”, “when”, and “who” of the
+project.
+• Project plan is an expansive document covering virtually every
+aspect of the project and its
+management.
+It
+includes
+details on how the project will be executed, managed, and
+controlled. It usually has several constituent plans governing
+communications, risk management, change management, etc.
+• In terms of the level of detail, you can think of the project plan as
+the broadest, followed by the project schedule, and finally, the work
+breakdown structure.
+
+Benefits of a WBS
+The WBS is a laser-focused breakdown of all the key deliverables needed to make
+the project successful. Creating one offers several advantages, such as:
+• Project schedule: The WBS is the foundation of the project schedule and budget.
+Once you know all the deliverables required to complete the project, as well as
+their hierarchical relationships, it will be much easier to assign resources and set
+deadlines.
+• Accountability: Since all elements in a WBS are mutually exclusive, it helps create
+accountability. A team assigned to a single work package is wholly accountable
+for its completion. This reduces overlaps in responsibility.
+
+Benefits of a WBS (Cont)
+• Commitment: The WBS gives teams a very high-level overview of their responsibilities.
+Since each team is responsible for a specific component at a time, it helps make them
+more committed to completing their assigned tasks.
+• Reduces ambiguities: The process of developing the WBS involves the project manager,
+project team, and all relevant stakeholders. This encourages dialog and helps everyone
+involved flesh out their responsibilities. Thus, everyone has less ambiguity and a better
+idea of what they're supposed to do.
+Creating a WBS is the first step in developing a comprehensive project schedule. It can be
+of massive help in getting everyone to understand the project’s scope and deliverables at
+different levels.
+
+WBS in Project Management
+• The work breakdown structure springs from the project charter. Ideally, the highlevel deliverables in the WBS should match, word for word, the goals and
+deliverables listed in the project scope statement.
+• Consequently, the WBS is one of the first documents created in the project
+management lifecycle. One’ll create it before he/she create the Gantt chart or the
+project plan.
+• Which is to say, the WBS is often the first deliverable in a project.
+• While the stated benefit of a WBS is in helping one keep track of deliverables and
+managing project scope, it has another key use in project management: creating
+the project schedule.
+
+WBS in Project Management (Cont)
+• Understanding the deliverables included in a WBS and mapping their
+relationships is crucial for charting a project schedule. Within this process, one
+first creates a WBS dictionary (i.e. list of deliverables), turns these deliverables
+into a map of relationships (i.e. a network diagram) and uses it to create the
+schedule.
+
+• One can also use the map of deliverables (and the relationships between
+them) in a WBS to figure out the resources to be used in their creation. This is
+called a Resource Breakdown Structure (RBS).
+
+WBS in Project Management (Cont)
+• A resource breakdown structure consists of both the material and human
+resources required to complete a deliverable. For example, if you’re creating a
+chair as part of a larger house remodeling project, you’ll need:
+• A carpenter
+• Raw materials such as wood, polish, nails, glue, etc.
+• Tools such as hammers, saws, drills, etc.
+
+WBS in Project Management (Cont)
+• One can represent these resources as under:
+
+• Once one understand how resources will be used to create each deliverable,
+he/she can also improve his/her project scheduling - one of the many ways a
+work breakdown structure finds use in project management.
+
+Creating WBS
+• The output of the WBS development process might seem simple: a short
+document with a list of deliverables. To create it, however, one needs a thorough
+understanding of the project’s scope, his/her team’s capabilities, and his/her
+stakeholders’ requirements.
+• Process for creating a WBS from scratch consists of following steps:
+1. Understand the Project’s Scope
+2. Determine Major Deliverables
+3. Determine Work Packages
+4. Create a WBS Dictionary
+5. Use the Right WBS Format
+
+Steps in Creating WBS
+1. Understand the Project’s Scope
+• WBS is one of the key documents created at the end of the ‘Planning’ phase.
+
+• Before one can create it, however, one needs a thorough understanding of the project’s scope and objectives.
+• Mainly, one needs two things:
+• Project scope statement to understand the project’s scope in detail.
+• Project scope management plan to understand how to deal with changes to the project’s scope (which will
+affect your deliverables).
+• One’ll want to refer to his/her project charter to develop the scope statement and scope management plan.
+• The output of the entire WBS development process is as follows:
+• Work breakdown structure
+• WBS dictionary
+• Scope baseline
+
+Steps in Creating WBS
+2. Determine Major Deliverables
+• After having understanding of the project scope, start the WBS development process by
+figuring out the key deliverables.
+• For example, if one goal is to “build a house”, he/she might have the following three broad
+deliverables at Level 2:
+
+• There are two heuristics you can follow for determining major deliverables at the 2nd level:
+• Each deliverable must be essential to the success of the project. For example, you can’t build a house
+without a foundation, exterior, or interior.
+• Each deliverable should be the responsibility of an independent team. In the above example, the team
+responsible for laying the foundation won’t be the same as the team building the interiors.
+
+Steps in Creating WBS
+3. Determine Work Packages
+• A work package is a deliverable at the lowest level of a WBS.
+
+• In a typical 3-level WBS, determining work packages would be the next step after identifying major deliverables.
+• This is one of the most important parts of the WBS development process and one that will require extensive input from
+project team and stakeholders.
+• Goal is to pick a major deliverable, then identify all the work necessary to complete it. This work package must be:
+• Independent: The work package must be mutually exclusive and have no dependence on other ongoing elements.
+• Definable: The work package should have a definite beginning and end, and should be understood by all project
+participants.
+• Estimable: You should be able to estimate the work package's duration and resource requirements.
+• Manageable: The package must represent a "meaningful unit of work", i.e. it must accomplish something
+concrete, and can be assigned to an individual or team. It should also be measurable.
+• Integratable: The package must integrate with other elements to create the parent level.
+• Adaptable: Ideally, the package must be able to accommodate changes in scope as per the project's requirements.
+
+Steps in Creating WBS
+3. Determine Work Packages (Cont)
+• In case the work can’t meet the above requirements, you can decompose the WBS into another level.
+There are a few heuristics you can follow for determining work packages:
+• 8/80 rule: A common rule of the thumb is that each work package must be no longer than 80
+hours and no less than 8 hours in total length. If it is longer, decompose it further. If it is shorter,
+think of going up by one level.
+• Reporting period: Another common rule is to limit each work package to a single reporting
+period. If it takes longer than one reporting period (monthly, weekly, etc.), to accomplish,
+decompose it further.
+• Use nouns: You should be able to describe each work package with a noun or an adjective. To
+break it down further, you’ll need to use verbs. For example, “bike seat” is a noun describing a
+work package. If you break it down further, you’ll need to use verbs like
+“cut foam”, “stitch leather”, etc.
+
+Steps in Creating WBS
+4. Create a WBS Dictionary
+• The WBS dictionary is a document that outlines the definition and scope of each element contained in the
+WBS. It is a supporting document meant to help incoming project teams understand each work package
+better.
+• You don't necessarily need a WBS dictionary, especially if the project is simple or limited in scope. For
+complex projects with a lot of churn, however, the dictionary can greatly improve clarity.
+• Further, the WBS dictionary takes you one step closer to creating the project schedule. You can often
+transplant details from this dictionary straight to your project scheduling tool.
+• Here are a few details you can include for each item in the WBS dictionary:
+• Work package ID (see the ID convention below)
+• Work package name
+• Work package description
+• Assigned to (individual or team name)
+• Department
+• Date of assignment
+• Due date
+• Estimated cost
+
+Steps in Creating WBS
+4. Create a WBS Dictionary (Cont)
+• The level of detail one want to include is entirely up to him/her.
+• Here's an example of a more simplified WBS dictionary with element ID, name, and description:
+
+• A WBS dictionary helps project team members understand each element
+
+Steps in Creating WBS
+5. Use the Right WBS Format
+• Once one has all the work packages and WBS dictionary, it’s time to create the WBS.
+• There are several WBS formats one can follow. The simplest way to do this is to
+create text-based hierarchical groupings. By convention, one use numbers and
+decimal points to indicate the level of the element.
+• For example, the number 1.1.1.3 means that you’re referencing the 3rd element of
+the 4th level of the WBS.
+
+Steps in Creating WBS
+5. Use the Right WBS Format (Cont)
+Thus, one might have a text-based WBS as under:
+
+Steps in Creating WBS
+5. Use the Right WBS Format (Cont)
+Alternatively, one might use a more visual tabular structure as under:
+
+Steps in Creating WBS
+5. Use the Right WBS Format (Cont)
+Another option is to create a flowchart:
+
+Key WBS Best Practices
+• The work breakdown structure is the foundation of project schedule, which, in turn,
+is the foundation of the entire project.
+
+• Following a few best practices in the WBS creation phase can greatly improve the
+accuracy of project schedule. A clear breakdown of key deliverables will help to
+estimate and assign resources better.
+• Here are some key best practices one should follow when creating a work
+breakdown structure:
+1. Use Nouns, Not Verbs
+2. Follow the 100% Rule Closely
+3. Keep All Elements Mutually Exclusive
+4. Mind the Level of Detail
+5. Use a Project Management Software
+
+Key WBS Best Practices
+1. Use Nouns, Not Verbs
+• The purpose of a WBS is to track deliverables, not activities. The "what" of the work
+matters, not the "how" of getting there.
+
+• One way to achieve this goal is to use nouns when adding elements to the WBS. That
+is, every element in the WBS should be either a noun or an adjective.
+• Think of "House foundation" instead of "Removing earth to create the foundation",
+or "Communication plan document" instead of "Gathering requirements for
+communication plan".
+• The goal of this "nouns, not verbs" exercise is to force one to keep his/her elements
+broad in scope. Activities usually describe the final level in any work package. WBS
+should focus on one level above that.
+
+Key WBS Best Practices
+2. Follow the 100% Rule Closely
+• A work breakdown structure is meant to be exhaustive. There should be no
+deliverable outside of the WBS.
+• This is why it is crucial that one should follow the 100% rule. Every level should be
+everything one needs to deliver. Anything beyond that should be scrapped.
+• This helps to spot gaps and redundancies. It also ensures that every project
+component is complete and nothing is left behind.
+
+Key WBS Best Practices
+3. Keep All Elements Mutually Exclusive
+• The other cardinal rule of work breakdown structures - besides the 100% rule - is
+"mutual exclusivity". Every element should be independent. One shouldn't need any
+input from any other element to complete it. If one do, it's better to combine the
+two elements together and push the work package up a level.
+• For example, if one is making a bicycle, he/she can create a "handlebar"
+independently of the "bicycle frame". Thus, it would be a separate work package.
+• In contrast, to create the "wheel spokes", one first needs to have the exact
+dimensions of the wheel rim. In such a case, it would be better to combine "wheel
+spokes" and "wheel rim" into a single work package.
+
+Key WBS Best Practices
+4. Mind the Level of Detail
+• A common mistake when creating work breakdown structures is to keep the level of
+detail either too broad (i.e. too few levels) or too narrow (i.e. too many levels).
+
+• Ideally, the decomposition should stop before one can use verbs to describe the
+element. For instance, if one is making a bicycle, "wheel rim" should be the final
+level since it describes a deliverable. If one decomposes further, he/she'll have
+activities related to the deliverable such as "buy steel", "shape steel", "make holes
+for wheel spokes", etc.
+• If this happens, one knows he/she has got too many levels.
+• Aim for between 3-5 levels. Any further than that and one is looking at a project
+that's likely too complex (and might be better as a program).
+
+Key WBS Best Practices
+5. Use a Project Management Software
+• One of the best tips about WBS is to “use a template”.
+• One might use a simple Word template, or one might use something offered by
+his/her flow chart tool. But if one wants the WBS to integrate with the rest of his/her
+project documents, the best source of templates is his/her project management
+software.
+• Most PM tools have built-in capabilities to create a work breakdown structure from
+scratch. One can simply specify his/her level of detail and add element data to create
+a WBS quickly.
+• The best part about using a PM tool is that one’s WBS data is available to him/her
+when he/she is creating project schedule.
+• If one follows these guidelines, he/she’ll have a highly effective work breakdown
+structure that will help him/her in every phase of project planning.
+
+Thanks
+
+

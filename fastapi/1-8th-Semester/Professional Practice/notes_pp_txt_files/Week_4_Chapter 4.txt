@@ -1,0 +1,448 @@
+﻿Slide 1
+Chapter 4: Intellectual Property
+
+Slide 2
+4.1 Introduction
+1-2
+
+Slide 3
+1-3
+Information Technology Changing Intellectual Property Landscape
+Value of intellectual properties much greater than value of mediaCreating first copy is costlyDuplicates cost almost nothingIllegal copying pervasiveInternet allows copies to spread quickly and widelyIn light of advances in information technology, how should we treat intellectual property?
+
+Slide 4
+1-4
+Reproduced by permission of Electronic Frontier Foundation via Creative Commons Attribution License 3.0. Go to www.eff.org/copyright for redistribution information. To access the original work, go to w2.eff.org/IP/P2P/?f=music-to-our-ears.html 
+
+Slide 5
+4.2 Intellectual Property Rights
+1-5
+
+Slide 6
+1-6
+What Is Intellectual Property?
+Intellectual property: any unique product of the human intellect that has commercial valueBooks, songs, moviesPaintings, drawingsInventions, chemical formulas, computer programsIntellectual property ≠ physical manifestationIP is intangible personal propertyDoes right to own property extend to intellectual property?
+
+Slide 7
+1-7
+Property Rights
+Locke: The Second Treatise of GovernmentPeople have a right…to property in their own personto their own laborto things which they remove from Nature through their laborAs long as…nobody claims more property than they can useafter someone removes something from common state, there is plenty left over
+
+Slide 8
+Locke’s Notion of Property Rights
+1-8
+
+Slide 9
+1-9
+Expanding the Argument to Intellectual Property
+Writing a play akin to making a belt buckleBelt buckleMine oreSmelt it downCast itWriting a play“Mine” words from English language“Smelt” them into prose“Cast” them into a complete play
+
+Slide 10
+1-10
+Analogy Is Imperfect
+If Ben Jonson and William Shakespeare simultaneously write down Hamlet, who owns it?If Ben “steals” the play from Will, both have itThese paradoxes weaken the argument for a natural right to intellectual property
+Ben Jonson, walker Art Library/Alamy; Shakespeare, Classic Image/Alamy
+
+Slide 11
+1-11
+Benefits of Intellectual Property Protection
+Some people are altruistic (Regardful of others; unselfish); some are notAllure of wealth can be an incentive for speculative workAuthors of U.S. Constitution recognized benefits to limited intellectual property protection
+
+Slide 12
+1-12
+Limits to Intellectual Property Protection
+Giving creators rights to their inventions stimulates creativitySociety benefits most when inventions in public domainLaw makers have struck a compromise by giving authors and inventors rights for a limited time
+
+Slide 13
+Prices Fall When Works Become Public Domain
+1-13
+Table from “Letter to The Honorable Senator Spencer Abraham,” by Randolph P. Luck from LUCK’S MUSIC LIBRARY. Copyright © 1996 by Randolph P. Luck. Reprinted with permission. 
+
+Slide 14
+1-14
+4.3 Protecting Intellectual Property
+
+Slide 15
+1-15
+Trade Secret
+Confidential piece of intellectual property that gives company a competitive advantageNever expiresNot appropriate for all intellectual propertiesReverse engineering allowedMay be compromised when employees leave firm
+
+Slide 16
+1-16
+Trademark,  Service Mark
+Trademark: Identifies goodsService mark: Identifies servicesCompany can establish a “brand name”Does not expireIf brand name becomes common noun, trademark may be lostCompanies advertise to protect their trademarksCompanies also protect trademarks by contacting those who misuse them
+
+Slide 17
+1-17
+Screenshot by Xerox. Copyright © 2012 by Xerox Corporation. All rights reserved. Reprinted with permission.
+
+Slide 18
+1-18
+Patent
+A public document that provides detailed description of inventionProvides owner with exclusive right to the inventionOwner can prevent others from making, using, or selling invention for 20 years 
+
+Slide 19
+1-19
+Copyright
+Provides owner of an original work five rightsReproductionDistributionPublic displayPublic performanceProduction of derivative worksCopyright-related industries represent 6% of U.S. gross domestic product (> $900 billion/yr)Copyright protection has expanded greatly since 1790
+
+Slide 20
+1-20
+By permission of John Deering and Creators Syndicate, Inc.
+
+Slide 21
+1-21
+Key Court Cases and Legislation
+Gershwin Publishing v. Columbia ArtistsBasic Books v. Kinko’s GraphicsDavey Jones LockerNo Electronic Theft Act
+
+Slide 22
+Copyright Creep
+1-22
+
+Slide 23
+1-23
+Copyright Creep
+Since 1790, protection for books extended from 28 years to 95 years or moreSome say latest extension done to prevent Disney characters from becoming public domainGroup of petitioners challenged the Copyright Term Extension Act of 1998, arguing Congress exceeded Constitutional powerU.S. Supreme Court rulingCTEA does not create perpetual copyrightsCTEA is constitutional
+
+Slide 24
+4.4 Fair Use
+1-24
+
+Slide 25
+1-25
+Fair Use Concept
+Sometimes legal to reproduce a copyrighted work without permissionCourts consider four factorsPurpose and character of useNature of workAmount of work being copiedAffect on market for work
+
+Slide 26
+1-26
+Sony v. Universal City Studios
+Sony introduced Betamax VCR (1975)People started time shifting TV showsMovie studios sued Sony for copyright infringementsU.S. Supreme Court ruled (5-4) that time shifting is fair use
+
+Slide 27
+Time Shifting
+1-27
+
+Slide 28
+1-28
+Digital Recording Technology
+Copying from vinyl records to cassette tapes introduced hiss and distortionsIntroduction of compact disc a boon for music industryCheaper to produce than vinyl recordsHigher qualityHigher price  higher profitsBUT it’s possible to make a perfect copy of a CD
+
+Slide 29
+1-29
+Audio Home Recording Act of 1992
+Protects rights of consumers to make copies of analog or digital recordings for personal, noncommercial useBackup copyGive to family memberDigital audio recorders must incorporate Serial Copyright Management System (SCMS), so consumers can’t make a copy of a copy
+
+Slide 30
+1-30
+RIAA v. Diamond Multimedia
+MP3 compression allowed songs to be stored in 10% of the space, with little degradationDiamond introduced Rio MP3 player (1998)People started space shifting their musicRIAA started legal action against Diamond for violation of the Audio Home Recording ActU.S. Court of Appeals, 9th Circuit, affirmed that space shifting is consistent with copyright law
+
+Slide 31
+Space Shifting
+1-31
+
+Slide 32
+Kelly v. Arriba Soft
+Kelly: Photographer maintained Web site with copyrighted photosArriba Soft: Created search engine that returned thumbnail imagesKelly sued Arriba Soft for copyright infringementU.S. Court of Appeals, 9th Circuit, affirmed that it was fair use
+1-32
+
+Slide 33
+Google Books
+Google announced plan to scan millions of books held by several huge libraries, creating searchable database of all wordsIf public domain book, system returns PDFIf under copyright, user can see a few sentences; system provides links to libraries and online booksellersAuthors Guild and publishers sued Google for copyright infringement (copying books for commercial reasons)Out-of-court settlement reached
+1-33
+
+Slide 34
+Benefits of Proposed Settlement
+Google would pay $125 million to resolve legal claims of authors and publishers and establish Book Rights RegistryReaders would have much easier access to out-of-print books at U.S. public libraries and university librariesUniversity libraries could purchase subscriptions giving their students access to collections of some of world’s greatest librariesAuthors and publishers would receive payments earned from online access of their books, plus share of advertising revenues
+1-34
+
+Slide 35
+Criticisms of Proposed Settlement
+Google should have gone to courtGoogle had a good case that its use was a fair use, based on precedent of Kelly v. Arriba SoftIf Google had been found not guilty of copyright infringement, it could have given public access to books at lower ratesAgreement gives Google a virtual monopoly over orphaned worksPotential chilling effect of Google tracking the pages that people are viewing
+1-35
+
+Slide 36
+Court Rejects Proposed Settlement
+March 2011: U.S. District Court for Southern District of New York rejected proposed settlementJudge ruled agreement would have:Given Google significant advantage over competitorsRewarded Google for “wholesale copying of copyrighted words without permission”Given Google liberal rights over orphaned works
+1-36
+
+Slide 37
+4.5 New Restrictions on Use
+1-37
+
+Slide 38
+Counterfeit CDs = Lost Profits
+1-38
+© Reuters/CORBIS
+
+Slide 39
+1-39
+Digital Millennium Copyright Act
+First big revision of copyright law since 1976Brought U.S. into compliance with EuropeExtended length of copyrightExtended copyright protection to music broadcast over InternetMade it illegal for anyone toCircumvent encryption schemes placed on digital mediaCircumvent copy controls, even for fair use purposes
+
+Slide 40
+1-40
+Digital Rights Management
+Actions owners of intellectual property in digital form take to protect their rightsApproachesEncrypt digital contentMark digital content so devices can recognize content as copy-protected
+
+Slide 41
+1-41
+Secure Digital Music Initiative
+GoalsCreate copy-protected CDsSecure digital music downloadsConsortium of 200 companies developed “digital watermarking” schemeFailedInternet copying became huge before SDMI readySome SDMI sponsors were electronics companiesDigital watermarking encryption cracked
+
+Slide 42
+1-42
+Sony BMG Music Entertainment Rootkit
+Millions of audio CDs shipped with Extended Copy Protection, a DRM systemPrevented users fromRipping audio tracks into MP3 formatMaking more than 3 backup copiesRelied upon Windows “rootkit” that hid files and processes; usually only hackers use rootkitsHuge public outcry once secret uncoveredSony BMG stopped production and compensated consumers
+
+Slide 43
+1-43
+Encrypting DVDs
+Contents of DVDs encrypted using Content Scramble System (CSS)Need decryption keys to view a DVDJon Johansen wrote a decryption program for Linux2600 Magazine published the codeMotion picture studios sued 2600 Magazine and wonJohansen tried in Norway and found not guilty
+
+Slide 44
+1-44
+Foiling HD-DVD Encryption
+Hardware, software, and entertainment companies created Advanced Access Content System to encrypt HD-DVDsEncryption key posted on Digg.comAACS leaned on Digg.com to censor postings containing keyDigg users fought backAACS “expired” the key and issued a new oneA month later, a Digg user posted the new key
+
+Slide 45
+1-45
+Criticisms of Digital Rights Management
+Any technological “fix” is bound to failDRM undermines fair useDRM could reduce competitionSome schemes make anonymous access impossible
+
+Slide 46
+1-46
+Online Music Stores Employed Digital Rights Management
+When iTunes Music Store opened, all music was protected with a DRM scheme called FairPlayFairPlay blocked users from freely exchanging purchased musicSongs couldn’t be played on more than 5 different computersSongs couldn’t be copied onto CDs more than 7 timesSongs purchased from iTunes Store wouldn’t play on non-Apple devicesDRM-protected music purchased from other online retailers couldn’t be played on iPod
+
+Slide 47
+1-47
+Online Music Stores Drop Digital Rights Management
+Consumers complained about restrictions associated with DRMEuropean governments put pressure on Apple to license FairPlay or stop using DRMAmazon reached an agreement with all four major music labels to sell DRM-free musicApple followed suit in 2009
+
+Slide 48
+Microsoft Xbox One
+Microsoft announced cloud-based gaming experience for Xbox One (June 2013)User could play any game without disc in trayAutomatic software updates of every Xbox OneControversial features of licensing arrangementDisc could be shared only onceSecond-hand market restrictedXbox consoles would have to check in every 24 hoursMicrosoft backtrackedNo need to connect to InternetFreedom to lend, rent, buy, sell discsDisc must be in tray to play game
+1-48
+
+Slide 49
+4.6 Peer-to-Peer Networks and Cyberlockers
+1-49
+
+Slide 50
+1-50
+Peer-to-Peer Networks
+Peer-to-peer networkTransient networkConnects computers running same networking programComputers can access files stored on each other’s hard drivesHow P2P networks facilitate data exchangeGive each user access to data stored in many other computersSupport simultaneous file transfers among arbitrary pairs of computersAllow users to identify systems with faster file exchange speeds
+
+Slide 51
+A Peer-to-Peer Network
+1-51
+
+Slide 52
+Cyberlockers
+Also called file-hosting services or cloud storage servicesInternet-based file-sharing servicesAllow users to upload and download password-protected filesSupport workgroup collaborationMake sharing of copyrighted material easy
+1-52
+
+Slide 53
+1-53
+Napster
+Peer-to-peer music exchange networkBegan operation in 1999Sued by RIAA for copyright violationsCourts ruled in favor of RIAAWent off-line in July 2001Re-emerged in 2003 as a subscription music service
+
+Slide 54
+1-54
+FastTrack
+Second-generation peer-to-peer network technologyUsed by KaZaA and GroksterDistributes index among large number of “supernodes”Cannot be shut down as easily as Napster
+
+Slide 55
+Comparing Napster and FastTrack
+1-55
+
+Slide 56
+1-56
+BitTorrent
+Broadband connections: download much faster than uploadBitTorrent speeds downloadingFiles broken into piecesDifferent pieces downloaded from different computersUsed for downloading large filesComputer programsTelevision showsMovies
+
+Slide 57
+Concept Behind BitTorrent
+1-57
+
+Slide 58
+1-58
+RIAA Lawsuits
+April 2003: RIAA warned file swappers they could face legal penaltiesRIAA subpoenaed Verizon for identities of people suspected of running supernodesJudge ruled in favor of VerizonSeptember 2003: RIAA sued 261 individualsDecember 2003: U.S. Court of Appeals ruled Verizon did not have to give customer names to RIAA
+
+Slide 59
+Huge Jury Judgments Overturned
+Jammie Thomas-RassertFederal jury ordered her to pay $1.92 millionDamages reduced to $54,000Joel TenenbaumJury ordered him to pay $675,000Judge reduced award to $67,500Does RIAA have to prove someone actually copied the songs that people made available on Kazaa?New York decision: NoMassachusetts, Arizona decisions: Yes
+1-59
+
+Slide 60
+1-60
+MGM v. Grokster
+Entertainment industry interests sued Grokster and StreamCast for the copyright infringements of their usersLower courtsRuled in favor of Grokster and StreamCastCited Sony v. Universal City Studios as a precedentU.S. Supreme CourtReversed the lower court ruling in June 2005Proper precedent Gershwin Publishing v. Columbia Artists
+
+Slide 61
+Legal Action Against The Pirate Bay
+The Pirate Bay started in Stockholm, SwedenOne of world’s biggest BitTorrent file-sharing sitesPeople download songs, movies, TV shows, etc.After 2006 raid by police, popularity increasedIn 2008 the International Federation of the Phonographic Industry sued four individuals connected with siteDefendants said The Pirate Bay just a search engineFound guilty; sentence to prison and fined $6.5 millionMeanwhile, The Pirate Bay still operationalMore than 150 proxy servers all over the world
+1-61
+
+Slide 62
+PRO-IP Act
+Gives federal law enforcement agencies right to seize domain names of sites facilitating copyright infringementOperation In Our Sites (2010)Seized domain names of 10 Web sites making available full-run moviesSeized several hundred more domain names over next 1 ½ years
+1-62
+
+Slide 63
+Megaupload Shutdown
+Megaupload a prominent cyberlockerMore than 180 million registered usersOnce world’s 13th most popular Web siteSource of movies, TV shows, songs, gamesFBI used PRO-IP Act to shut down Megaupload (January 2012)FileSonic and FileServe responded by disabling sharing functionality
+1-63
+
+Slide 64
+1-64
+Legal Music Services on the Internet
+Subscription services for legal downloadingSome based on monthly fee; some freeConsumers pay for each downloadApple’s iTunes Music Store leading service, surpassing WalMart as top music retailer in United StatesStill, illegal downloading far more popular than legal music services
+
+Slide 65
+4.7 Protections for Software
+1-65
+
+Slide 66
+1-66
+Software Copyrights
+Copyright protection began 1964What gets copyrighted?Expression of idea, not idea itselfObject program, not source programCompanies treat source code as a trade secret
+
+Slide 67
+1-67
+Violations of Software Copyrights
+Copying a program to give or sell to someone elsePreloading a program onto the hard disk of a computer being soldDistributing a program over the Internet
+
+Slide 68
+Important Court Cases
+Apple Computer v. Franklin ComputerEstablished that object programs are copyrightableSega v. AccolateEstablished that disassembling object code to determine technical specifications is fair use
+1-68
+
+Slide 69
+1-69
+Safe Software Development
+Reverse engineering okayCompanies must protect against unconscious copyingSolution: “clean room” software development strategyTeam 1 analyzes competitor’s program and writes specificationTeam 2 uses specification to develop software
+
+Slide 70
+1-70
+Software Patents (1/3)
+Until 1981, Patent Office refused to grant software patentsSaw programs as mathematical algorithms, not processes or machinesU.S. Supreme Court decision led to first software patent in 1981Further court rulings led to patents being granted for wider range of software
+
+Slide 71
+Software Patents (2/3)
+Thousands of software patents now existMicrosoft files ~3,000 applications annuallyLicensing patents a source of revenueSecondary market for software patentsPatent trolls: Companies that specialize in buying patents and enforcing patent rightsCompanies would rather settle out of court than spend time and money going to trialRIM didn’t settle quickly; ended up paying $612 million
+1-71
+
+Slide 72
+Software Patents (3/3)
+Critics say too many patents have been issuedPatent Office doesn’t know about prior art, so it issues bad software patentsObvious inventions get patentsCompanies with new products fear getting sued for patent infringementBuild stockpiles of patents as defense mechanismSoftware patents used as legal weaponsBezos: software patents should expire in 3-5 years
+1-72
+
+Slide 73
+Key Differences between Software Copyrights and Software Patents
+1-73
+
+Slide 74
+1-74
+4.8 Open-Source Software
+
+Slide 75
+1-75
+Criticisms of Proprietary Software
+Increasingly harsh measures being taken to enforce copyrightsCopyrights are not serving their purpose of promoting progressIt is wrong to allow someone to “own” a piece of intellectual property
+
+Slide 76
+1-76
+Open-Source Definition
+No restrictions preventing others from selling or giving away softwareSource code included in distributionNo restrictions preventing others from modifying source codeNo restrictions regarding how people can use softwareSame rights apply to everyone receiving redistributions of the software (copyleft)
+
+Slide 77
+1-77
+Beneficial Consequences of Open-Source Software
+Gives everyone opportunity to improve programNew versions of programs appear more frequentlyEliminates tension between obeying law and helping othersPrograms belong to entire communityShifts focus from manufacturing to service
+
+Slide 78
+1-78
+Examples of Open-Source Software
+BINDApacheSendmailAndroid operating system for smartphonesFirefox and ChromeOpenOffice.orgPerl, Python, Ruby, TCL/TK, PHP, ZopeGNU compilers for C, C++, Objective-C, Fortran, Java, and Ada
+
+Slide 79
+1-79
+Screenshot from OpenOffice.org, a registered trademark of Apache Software Foundation. Copyright © 2012 by Apache Software Foundation. Reprinted with permission.
+
+Slide 80
+1-80
+GNU Project and Linux
+GNU ProjectBegun by Richard Stallman in 1984Goal: Develop open-source, Unix-like operating systemMost components developed in late 1980sLinuxLinus Torvalds wrote Unix-like kernel in 1991Combined with GNU components to make an O.S.Commonly called Linux
+
+Slide 81
+1-81
+Impact of Open-Source Software
+Linux an alternative to proprietary versions of UnixLinux operating system on 95% of the world’s 500 fastest supercomputers
+
+Slide 82
+1-82
+Crititique of the Open-Source Software Movement
+Without critical mass of developers, quality can be poorWithout an “owner,” incompatible versions may ariseRelatively weak graphical user interfacePoor mechanism for stimulating innovation (no companies will spend billions on new programs)
+
+Slide 83
+4.9 Legitimacy of Intellectual 	Property Protection for Software
+1-83
+
+Slide 84
+1-84
+Do We Have the Right System in Place?
+Software licenses typically prevent you from making copies of software to sell or give awaySoftware licenses are legal agreementsNot discussing morality of breaking the lawDiscussing whether society should give intellectual property protection to software
+
+Slide 85
+1-85
+Rights-based Analysis
+“Just deserts” argumentProgramming is hard work that only a few can doProgrammers should be rewarded for their laborThey ought to be able to own their programsCriticism of “just deserts” argumentWhy does labor imply ownership?Can imagine a just society in which all labor went to common goodIntellectual property not like physical property
+
+Slide 86
+A Consequentialist Argument Why Software Copying Is Bad
+1-86
+Beth Anderson
+
+Slide 87
+1-87
+Utilitarian Analysis
+Argument against copyingCopying software reduces software purchases…Leading to less income for software makers…Leading to lower production of new software…Leading to fewer benefits to societyEach of these claims can be debatedNot all who get free copies can afford to buy softwareOpen-source movement demonstrates many people are willing to donate their software-writing skillsHardware industry wants to stimulate software industryDifficult to quantify how much society would be harmed if certain software packages not released
+
+Slide 88
+1-88
+Conclusion
+Natural rights argument weakUtilitarian argument not strong, eitherNevertheless, society has granted copyright protection to owners of computer programsBreaking the law is wrong unless there is a strong overriding moral obligation or consequence
+
+Slide 89
+Case Study: The Database Guru
+Salam worked for five years at Felicity Software, where he developed software optimizations that significantly improved the company’s database performance.Felicity treated these optimizations as confidential trade secrets, limiting access to only Salam and a few engineers.Salam signed a confidentiality and proprietary rights agreement on his first day, agreeing not to disclose company secrets during or after employment.The agreement emphasized Felicity’s commercial value in protecting trade secrets and prohibited Salam from sharing or publishing confidential information externally.
+1-89
+
+Slide 90
+Salam left Felicity and was quickly hired by Unrelated.com, a start-up building a genealogical database platform with a subscription model.Unrelated.com’s business model depends on high-performance database systems to support 50,000 subscribers and up to 10,000 simultaneous users.As VP of Software with a $150,000 salary, Salam oversees teams developing and optimizing the new database system.Salam realizes that the team’s current technical solutions won’t meet the performance goals, as they can only support around 5,000 concurrent users.
+1-90
+
+Slide 91
+He considers two options:A “clean-room” strategy — guiding the team using public knowledge and performance targets.Indirectly leading the team to rediscover his Felicity optimizations without directly revealing trade secrets.Salam faces an ethical and legal dilemma: respecting his confidentiality obligations while ensuring Unrelated.com’s project succeeds.
+1-91
+
+Slide 92
+1. He would have access to confidential, secret, and proprietary information related to Felicitys business.2. Felicity placed great competitive importance and commercial value on its ability to reserve confidentialinformation for its exclusive use.3. Confidential information he developed would be covered by this agreement.4. He would not directly or indirectly disclose, publish, communicate or make available confidential information to anyone outside of the company.5. His obligations under the agreement would continue during and after his employment by Felicity 
+1-92
+
+Slide 93
+4.10 Creative Commons
+1-93
+
+Slide 94
+1-94
+Streamlining Creative Re-use
+Under current copyright law, eligible works are copyrighted the moment they are createdNo copyright notice does not mean it’s okay to copyMust contact people before using workThat slows down creative re-useFree Creative Commons license indicatesWhich kinds of copying are okayWhich rights are being retainedFlickr and Magnatune two well-known sites using Creative Commons licenses
+
+Slide 95
+1-95
+Screenshot from Creative Commons. Copyright © 2011 by Creative Commons. Reprinted with permission.
+

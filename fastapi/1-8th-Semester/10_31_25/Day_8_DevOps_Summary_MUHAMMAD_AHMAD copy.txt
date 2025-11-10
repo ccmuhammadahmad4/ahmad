@@ -1,0 +1,36 @@
+
+Day 8 DevOps Learning Summary – MUHAMMAD AHMAD
+
+📘 English Practice – Cloud Concepts Explanation
+- Practice explaining what cloud computing is.
+- Use terms like scalability, elasticity, pay-as-you-go, and availability zones.
+- Example sentence: “Cloud computing allows businesses to scale resources based on demand.”
+
+🛠️ AWS Core Services – Vocabulary & Explanation
+- EC2: Virtual servers in the cloud.
+- S3: Object storage service.
+- RDS: Managed relational database service.
+- IAM: Identity and Access Management.
+- VPC: Virtual Private Cloud for networking.
+
+✅ Task: Write 3 sentences explaining any AWS service in English.
+
+🎤 Public Speaking Practice – Cloud Migration
+- Practice explaining how a company can migrate from on-premises to AWS.
+- Use terms like lift-and-shift, re-platforming, and cloud-native.
+- Example: “We migrated our legacy applications to AWS using a lift-and-shift strategy.”
+
+✅ Task: Write or record a short paragraph explaining a cloud migration project.
+
+📧 Email Writing Practice – Cloud Project Update
+Subject: Cloud Migration Progress Update
+
+Dear MUHAMMAD SIDDIQUE,
+
+I hope you are doing well. I wanted to update you on our cloud migration project. We have successfully moved our web application to AWS EC2 and configured S3 for static content. Next, we plan to set up RDS for database hosting. I will share further updates tomorrow.
+
+Best regards,  
+MUHAMMAD AHMAD
+
+✅ Task: Write a similar email with your own project details.
+

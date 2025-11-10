@@ -1,0 +1,65 @@
+
+Day 6 English Learning Plan for Muhammad Ahmad
+=============================================
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 English Level: Intermediate
+🎯 Focus: Grammar, Vocabulary, Writing, Speaking
+
+--------------------------------------------------
+1. 📚 Grammar Practice: Future Perfect Tense
+--------------------------------------------------
+🔹 Usage: To describe actions that will be completed before a specific time in the future.
+🔹 Structure: Subject + will have + past participle
+
+✅ Examples:
+- I will have deployed the new version by Friday.
+- The team will have resolved the issue before the next release.
+
+🎯 Task: Write 2 sentences using the future perfect tense related to your DevOps work.
+
+--------------------------------------------------
+2. 🧠 Vocabulary Practice: DevOps & Workplace
+--------------------------------------------------
+Learn these 5 new words:
+
+| Word           | Meaning                              | Example Sentence                          |
+|----------------|--------------------------------------|-------------------------------------------|
+| **Provision**  | Set up resources or infrastructure   | We provision servers using Terraform.     |
+| **Latency**    | Delay in processing or response      | High latency affects user experience.     |
+| **Container**  | Lightweight software package         | We deploy apps in Docker containers.      |
+| **Replica**    | Copy of a system or service          | We maintain replicas for high availability.|
+| **Alert**      | Notification of an issue             | The system sent an alert for CPU usage.   |
+
+🎯 Task: Write one sentence for each word based on your daily work.
+
+--------------------------------------------------
+3. ✉️ Writing Practice: Team Update Email
+--------------------------------------------------
+🎯 Prompt:
+Write an email to your team informing them that the new monitoring dashboard will be live by Friday and asking them to review it once deployed.
+
+✅ Example:
+Subject: Monitoring Dashboard Deployment Update
+
+Dear Team,  
+I hope you're doing well. I want to inform you that the new monitoring dashboard will be live by Friday. Please take some time to review it once deployed and share your feedback.  
+Regards,  
+Muhammad Ahmad
+
+🎯 Task: Write your own version of this email.
+
+--------------------------------------------------
+4. 🎤 Speaking Practice: Describe a DevOps Task
+--------------------------------------------------
+🎯 Prompt:
+Describe a task you completed recently using 3–4 sentences. Use the future perfect tense if possible.
+
+✅ Example:
+Last week, I configured the CI/CD pipeline for the BGS AI project. I will have completed the final testing by tomorrow. This setup will help automate deployments and reduce manual errors.
+
+🎯 Task: Write your version and practice speaking it aloud.
+
+--------------------------------------------------
+
+You're doing great, Ahmad! Let me know when you're ready for Day 7 😊

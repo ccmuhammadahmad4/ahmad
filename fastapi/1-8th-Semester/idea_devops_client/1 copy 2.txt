@@ -1,0 +1,26 @@
+3. 03_Cold_Email_Sourcing.txt
+Cold Emailing – How to Get Real Client Emails
+
+1. LinkedIn + Email Finder Tools
+- Find target clients on LinkedIn (CTOs, Founders)
+- Use tools:
+  - https://hunter.io
+  - https://apollo.io
+  - https://snov.io
+  - https://clearbit.com
+
+2. Company Websites
+- Visit “Contact Us” or “Team” pages
+- Look for direct emails like john@startup.com
+
+3. Email Patterns
+- Use common formats:
+  - firstname@company.com
+  - firstname.lastname@company.com
+  - contact@company.com
+
+4. Scraping (Advanced)
+- Use Python + BeautifulSoup or Scrapy
+- Use APIs from Hunter or Apollo
+
+Note: Always personalize emails and avoid spam. Build trust first.

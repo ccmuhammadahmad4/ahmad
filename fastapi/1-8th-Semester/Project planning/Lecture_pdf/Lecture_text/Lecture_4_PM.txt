@@ -1,0 +1,186 @@
+Lecture 4: Varieties of Projects,
+Life Cycle & Project Selection
+Project Management (BCS Students)
+
+Introduction
+• Projects differ not only in sector (IT,
+construction, R&D, etc.) but also in scale,
+scope, and audience.
+• Classification helps managers design
+appropriate strategies, allocate resources, and
+set realistic goals.
+• We can classify projects into Personal, Local,
+Organizational, National, and Global Projects.
+
+Types of Project
+A. Personal Project
+• Definition: Small-scale, individual-driven
+projects, often for self-improvement or
+personal needs.
+• Examples:Writing a thesis or dissertation.
+• Learning a new programming language.
+• Building a personal website or blog.
+• Features: Limited scope, few resources, short
+duration, personal benefit.
+
+Types of Project
+B. Local Project
+• Definition: Projects carried out at the community or
+city/town level.
+• Examples: Setting up a public Park or library
+• Local vaccination compaign.
+• Roads repairs within a city.
+• Features: Community-focused, often sponsored by
+local governments or NGOs.
+• Impact: Directly improves quality of life for residents.
+
+Types of Project
+C. Organizational Project
+• Definition: Projects within a company, institution, or
+NGO aimed at achieving organizational goals.
+• Examples: Launching a new product
+• Implementing an ERP system.
+• Univerity developing a new Leaning Management
+System (LMS).
+• Features: Medium to large scope, managed
+professionally, goal = organizational growth &
+efficiency.
+
+Types of Project
+D. National Project
+• Definition: Projects of national importance
+undertaken by governments or state institutions.
+• Examples: Construction of highways, airports, or
+dams.
+• National healthcare or education initiatives.
+• CPEC projects in Pakistan.
+• Features: Large budgets, long timelines, political
+oversight, affects millions.
+
+Types of Project
+E. Global Project
+• Definition: Projects that cross borders, involve
+multiple countries, and address global needs.
+• Examples: Climate change initiatives (Paris
+Agreement projects).
+• International space missions (NASA, ESA
+collaborations).
+• COVID-19 vaccine development and distribution.
+• Features: Complex, high cost, multi-stakeholder,
+requires global cooperation.
+• Impact: Affects entire humanity, requires
+international governance.
+
+Life Cycle of a Project
+• Initiation – Idea, feasibility.
+• Planning – Budget, scheduling, resources.
+• Execution – Actual work.
+• Monitoring – Tracking, risk handling.
+• Closure – Delivery, handover.
+Initiation
+
+Planning
+
+Execution
+
+Monitoring
+
+Closure
+
+Why Project Selection is Important
+• Ensures resources are used on the most
+valuable projects.
+• Aligns projects with strategic goals of the
+organization.
+• Reduces risk of project failure.
+• Improves chances of achieving long-term
+growth.
+
+Project Selection Methods
+• Non-Numeric Models – Based on judgment or
+urgency.
+• Numeric Models – Payback Period, NPV, IRR.
+• Scoring Models – Weighted criteria like cost,
+risk, benefit.
+• Example: Choosing between LMS, mobile app,
+or biometric system.
+
+Project Selection Methods
+A. Non-Numeric Models – (Qualitative)
+• Based on judgment, experience or urgency.
+• Example:
+• “First Come, First Served”
+• “Sacred Cow” (Top manager’s favorite project)
+• “Urgency” (Disaster recovery projects like
+flood relief).
+• Pros: Quick and simple.
+• Cons: Can be biased, lacks objectivity.
+
+Project Selection Methods
+B. Numeric Models – (Quantitative)
+1. Payback Period (PP)
+• Time required to recover initial investment.
+• Example: Invest PKR 1 million → project
+returns PKR 250k/year → Payback = 4 years.
+• Shorter payback preferred.
+2. Net Present Value (NPV)
+• Calculates today’s value of future cash flows.
+• Positive NPV = good
+
+Project Selection Methods
+B. Numeric Models – (Quantitative)
+• Example: If NPV of IT portal = +500k PKR →
+worth investing.
+3. Internal Rate of Return (IRR)
+• Discount rate at which NPV = 0.
+• Higher IRR → better project.
+C. Scoring/Ranking Models (Multi-Criteria)
+• Assigns weights to criteria → scores projects
+→ choose highest total.
+• Example Criteria: Cost, Benefit, Risk, Strategic
+
+Selection Matrix Example
+• Criteria: Cost, Benefit, Risk, Strategic
+Alignment.
+Project
+Cost
+Benefit on a Risk
+(low) of 1–5.
+Total
+• Each project
+scored
+scale
+LMS
+4
+5
+3
+12
+•Mobile
+Project
+total4 is selected.
+App
+3 with highest
+4
+11
+Biometric
+System
+
+2
+
+3
+
+5
+
+10
+
+Summary
+• Projects come in many varieties (construction,
+IT, social, economic).
+• Life Cycle = Initiation → Planning → Execution
+→ Monitoring → Closure.
+• Selection uses non-numeric, numeric, and
+scoring models.
+• Right project = better use of resources and
+strategic fit.
+
+

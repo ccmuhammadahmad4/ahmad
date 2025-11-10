@@ -1,0 +1,212 @@
+Project Planning and Monitoring
+
+Project Change Management
+Project Change Management - a general term describing the
+procedures used to ensure that changes are introduced in a controlled
+and coordinated manner.
+Change Request – Requests to expand or reduce the project scope,
+modify policies, processes, plans or procedures, modify costs or
+budgets, or revise schedules.
+
+Change Order – Used in some companies to identify approved change
+requests (change request when the request is made and change order
+once it has been approved)
+
+Project Controlling and Monitoring
+
+2
+
+What is Project Change Management?
+Project change management encompasses all of the processes
+necessary to determine where you are at compared to where you
+planned to be and the activities required to get back on track if those
+are not aligned
+
+Project Controlling and Monitoring
+
+3
+
+Why is Project Change Management Important?
+
+
+
+
+
+
+Projects seldom run exactly according to plan. Project
+deliverables must be maintained by carefully and continuously
+managing changes, either by rejecting changes or by approving
+changes so those approved changes are incorporated into a
+revised baseline
+Enables the project team to identify potential problems in a
+timely manner and take corrective action, when necessary, to
+control the execution of the project
+Ensures the project team and stakeholders have an accurate
+understanding of what has been completed in the project todate and what will be delivered in total
+Project Controlling and Monitoring
+
+4
+
+Actual vs Planned
+Determining where you are vs. where you planned to
+be:
+Requires project details be documented and approved
+
+
+
+Documented scope, cost, time, quality, people, other (eg. Charter)
+ Documented details of product / service functionality (eg.
+Requirements Document)
+
+
+Requires processes and tools to assess performance to
+determine whether any corrective or preventative actions are
+indicated, and then recommending those actions as necessary
+Scope and requirements verification throughout the project
+ Budget tracking and forecasting
+ Task duration tracking
+ Overall project timeline tracking & verification
+
+
+Project Controlling and Monitoring
+
+5
+
+Getting Back on Track
+How can we get on track again?
+
+
+
+
+
+
+
+
+
+
+
+Identify that a change needs to occur or has occurred
+Document the complete impact of requested changes
+Follow approved processes for documenting and approving
+requested changes
+Maintain the integrity of baselines by releasing only approved
+changes for incorporation into project products or services, and
+maintaining their related configuration and planning
+documentation
+Control and update the scope, cost, budget, schedule and quality
+requirements based upon approved changes, by coordinating
+changes across the entire project
+Influence the factors that circumvent integrated change control
+so that only approved changes are implemented
+6
+6
+
+Perform Integration Change Control
+
+
+Perform integration change control
+is the process of reviewing all
+change requests, approving
+changes and managing changes to
+the deliverables, organizational
+process assets, project documents
+and the project management plan.
+
+7
+
+Change management activities
+
+
+Perform Integration Change Control includes
+following change management activities:
+Influence factors that avoid change control
+ Review, analyse and approve promptly
+ Manage approved changes
+ Maintain integrity of baselines
+ Review, approve or deny recommended actions
+ Coordinate changes across entire project
+ Document impact of changes
+
+
+8
+
+Verify Scope
+
+
+Verify scope is the process of
+formalizing acceptance of completed
+project deliverables. It includes:
+Reviewing deliverables with customer
+ Obtaining formal acceptance
+
+
+Differs from quality control since
+quality control is concerned with
+correctness of deliverables whereas
+verify scope with acceptance.
+ Done by inspection.
+
+
+9
+
+Control Scope
+Process of monitoring status of project
+scope and managing changes to scope
+baselines.
+ Ensures all recommended actions are
+processed through perform integration
+change control process.
+ Variance analysis.
+
+
+Project Controlling and Monitoring
+
+10
+
+Control Schedule
+Control schedule is the process of monitoring status
+of project to update project progress and manage
+changes to schedule baseline.
+ Tools and techniques involved are:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Performance review
+Variance analysis
+Project management software
+Resource levelling
+What-if scenario analysis
+Adjusting leads and lags
+Schedule compression
+Scheduling tool
+
+Project Controlling and Monitoring
+
+11
+
+Resource Levelling
+Critical path method calculates theoretical
+early, late start and finish dates for activities
+regardless of resource limitation.
+ Resource levelling is used when shared or
+critical required resources are available at
+certain times in limited quantity or to keep
+resource usage at constant level.
+
+
+Project Controlling and Monitoring
+
+12
+
+

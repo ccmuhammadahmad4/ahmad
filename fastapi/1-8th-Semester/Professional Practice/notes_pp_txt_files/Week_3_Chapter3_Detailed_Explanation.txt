@@ -1,0 +1,745 @@
+1-1
+Chapter 3:
+Networking
+
+1-2
+1-2
+Chapter Overview
+• Spam
+• Internet interactions
+• Text messaging
+• Censorship
+• Freedom of expression
+• Children and inappropriate content
+• Breaking trust
+• Internet addiction
+
+1-3
+Far More People Have Access to Cell 
+Phones than Electricity or Clean Water
+1-3
+Charles Sturge/Alamy
+
+1-4
+• Businesses need to communicate rapidly with customers, 
+suppliers, and employees.
+• Almost 4 billion people worldwide use a mobile device to access 
+the Internet 
+• More than 2.6 billion people worldwide bought something 
+online, spending about $5.7 trillion. 
+• More than 3.6 billion people worldwide use a social network 
+such as Facebook, Twitter, Instagram, or Pinterest, including 
+97 percent of Fortune 500 firms, who use them to communicate 
+with their customers
+(Insider Intelligence/ eMarketer, 2022)
+The Numbers behind Networks
+
+1-5
+1-5
+3.2 Spam
+
+1-6
+1-6
+The Spam Epidemic (1/3)
+• Spam: Unsolicited, bulk email
+• Spam is profitable
+– More than 100 times cheaper than “junk mail”
+– Profitable even if only 1 in 100,000 buys product
+• Amount of email that is spam has ballooned
+– 8% in 2001
+– 90% in 2009
+
+1-7
+The Spam Epidemic (2/3)
+1-7
+
+1-8
+1-8
+
+1-9
+1-9
+
+1-10
+1-10
+The Spam Epidemic (3/3)
+• How firms get email addresses
+– Web sites, chat-room conversations, newsgroups
+– Computer viruses harvest addresses from PC address 
+books
+– Dictionary attacks
+– Contests
+• Most spam sent out by bot herders who control 
+huge networks of computers
+• Spam filters block most spam before it reaches 
+users’ inboxes
+
+1-11
+Science's spam epidemic
+1-11
+Total number of papers 
+published worldwide in 
+predatory journals rose from 
+about 50,000 in 2010 to more 
+than 400,000 in 2014
+Hijacking journals
+The Directory of Open Access 
+Journals (DOAJ) – 9000 journals
+
+1-12
+Pakistani context - Protection from Spam, Unsolicited, 
+Fraudulent and Obnoxious Communication Regulations, 2009
+Administered by Pakistan Telecommunication Authority/ PTA
+Requires that all operators (telecom operators licensed by the 
+PTA) to establish a standard operating procedure to control 
+spamming.
+All such operators are required to develop a standard operating 
+procedure for controlling unsolicited calls. The operators are 
+also required to establish a consolidated “Do Not Call Register” 
+in connection with controlling unsolicited calls. The operators are 
+further required to ensure registration of telemarketers.
+Punishable with imprisonment which may extend to three years 
+or a fine which may extend to PKR 10 million, or both.
+1-12
+Source: https://iclg.com/practice-areas/data-protection-laws-and-regulations/pakistan
+
+1-13
+Case Study: Ann the Acme Accountant
+• Ann: Accountant at Acme Corporation
+• She distributes paychecks to all 50 employees
+• Ann sends email advertising Girl Scout cookie 
+sale
+• 9 recipients order cookies; average 4 boxes each
+• Other 40 recipients unhappy to get email; half 
+complain to a co-worker
+• Did Ann do anything wrong?
+1-13
+
+1-14
+Kantian Analysis
+• We should always respect autonomy of others, treating 
+them as ends in themselves and never only as the 
+means to an end (2nd formulation of Categorical 
+Imperative)
+• Ann didn’t misrepresent what she was doing
+• She didn’t force anyone to read the entire email
+• Some who read her email chose to order cookies
+• Therefore, she didn’t “use” others, and her action was not 
+strictly wrong
+• However, an “opt in” approach would have been better
+1-14
+
+1-15
+Act Utilitarian Analysis
+• Benefit to Girls Scouts = $108
+– $3 profit per box of cookies
+– 36 boxes sold
+• Harm to company: time wasted
+– Orders taken during breaks
+– Lost productivity from complaining: $70
+• 20 employees ×2 ×5 minutes/employee = 200 minutes
+• 3.5 hours ×$20/hour = $70
+• Benefits exceed harms, so action good
+• Company may create policy against future fundraisers
+1-15
+
+1-16
+Rule Utilitarian Analysis
+• Q: What would be consequences of everyone in 
+company used email to solicit donations?
+• A: Plenty of employee grumbling and lower 
+morale
+• If all doing it, unlikely any one cause would do 
+well
+• Harms greater than benefits, so Ann’s action was 
+wrong
+1-16
+
+1-17
+Social Contract Theory Analysis
+• Acme Corporation has no prohibition against 
+using its email system this way
+• Ann was exercising her right to express herself
+• Some people didn’t appreciate message, but she 
+didn’t act like a spammer
+– She didn’t conceal her identity
+– She wasn’t selling a fraudulent product
+• Ann did nothing wrong
+1-17
+
+1-18
+Virtue Ethics Analysis
+• As employee, relevant virtues: honesty, fairness, respect
+• Ann was honest: her email didn’t mislead anyone
+• She wasn’t fair or respectful, and she exercised poor 
+judgment (as evidenced by larger amount of complaining 
+by co-workers)
+• In her role as parent, she did all work herself and didn’t 
+find a role for her daughter to play
+• Ann should have found a way for her daughter to help, 
+and she should have found another way to advertise that 
+respected co-workers
+1-18
+
+1-19
+Summary
+• Analyses reached different conclusions, but Ann 
+could have taken a less controversial course
+• She could have posted a sign-up sheet to 
+identify those interested in cookie sale
+• That way, she would have sent email only to 
+those interested, avoiding the problems of 
+grumbling and lost productivity
+• She could have found a way to get her daughter 
+more engaged
+1-19
+
+1-20
+1-20
+
+1-21
+3.3 Internet Interactions
+1-21
+
+1-22
+Pornography
+1-22
+
+1-23
+1-23
+
+1-24
+1-24
+
+1-25
+1-25
+
+1-26
+1-26
+
+1-27
+3.4 Text Messaging
+1-27
+
+1-28
+Transforming Lives in Developing 
+Countries
+• M-PESA in Kenya
+– Save money
+– Pay bills
+– Transfer funds
+• Communicate information about crop 
+prices
+• Protect against counterfeit medicine
+1-28
+
+1-29
+Twitter
+• Web-based social networking service
+• More than 200 million users
+• Blogging tool
+• Business promotion
+• Role in Arab Spring uprisings debated
+– (+) Social networks lead to politicization
+– (-) Ties in social networks too weak for high-
+risk activism
+1-29
+
+1-30
+3.5 Censorship
+1-30
+
+1-31
+1-31
+Forms of Direct Censorship
+• Government monopolization
+• Prepublication review
+• Licensing and registration
+
+1-32
+1-32
+Self-censorship
+• Most common form of censorship
+• Group decides for itself not to publish
+• Reasons
+– Avoid subsequent persecution
+– Maintain good relations with government officials 
+(sources of information)
+• Ratings systems created to advise potential 
+audience
+– Movies, TVs, CDs, video games
+– Not the Web
+
+1-33
+1-33
+Governmental Filtering and Surveillance
+• Cuba, North Korea: Internet virtually inaccessible
+• Saudi Arabia: centralized control center
+• People’s Republic of China:
+– Blocks Internet access at times of social unrest
+– Has “one of most sophisticated filtering systems in the world”
+• Germany: Forbids access to neo-Nazi sites
+• United States: Have been repeated efforts to limit access 
+of minors to pornography
+
+1-34
+1-34
+
+1-35
+1-35
+Challenges Posed by the Internet
+• Many-to-many communications
+• Dynamic connections
+• Huge numbers of Web sites
+• Extends beyond national borders, laws
+• Hard to distinguish between minors and 
+adults
+
+1-36
+1-36
+Ethical Perspectives on Censorship
+• Kant opposed censorship
+– Enlightenment thinker
+– “Have courage to use your own reason”
+• Mill opposed censorship
+– No one is infallible
+– Any opinion may contain a kernel of truth
+– Truth revealed in class of ideas
+– Ideas resulting from discourse are more influential
+
+1-37
+1-37
+Mill’s Principle of Harm
+“The only ground on which intervention
+is justified is to prevent harm to others;
+the individual’s own good is not a
+sufficient condition.”
+
+1-38
+3.6 Freedom of Expression
+1-38
+
+1-39
+1-39
+Freedom of Expression: History
+
+1-40
+1-40
+1st Amendment to U.S. Constitution
+Congress shall make no law respecting an
+establishment of religion, or prohibiting the
+free exercise thereof; or abridging the
+freedom of speech, or of the press; or the
+right of the people peaceably to assemble,
+and to petition the government for a
+redress of grievances.
+
+1-41
+1-41
+Freedom of Expression
+Not an Absolute Right
+• 1st Amendment covers political and 
+nonpolitical speech
+• Right to freedom of expression must be 
+balanced against the public good
+• Various restrictions on freedom of 
+expression exist
+
+1-42
+Case Study: Kate’s Blog
+• Kate: Maintains a popular “life on campus” blog
+• Jerry: Another student; active in Whig Party
+• At private birthday party, someone gives Jerry a Tory 
+Party T-shirt as a gag, and Jerry puts it on
+• Kate uses cell phone to take picture of Jerry when he 
+isn’t looking, posts it on her blog
+• Story read by many people on and off campus
+• Jerry confronts Kate and demands she remove photo; 
+she complies, and they remain friends
+• Kate’s blog and Jerry both become more popular
+1-42
+
+1-43
+Kantian Analysis
+• Kate uploaded Jerry’s photo to her blog 
+without asking his permission
+• She treated him as a means to her end of 
+increasing the readership of her Web site
+• Her action was wrong
+1-43
+
+1-44
+Social Contract Theory Analysis
+• Birthday party held in apartment of one of 
+Jerry’s friends
+• Jerry had a reasonable expectation of 
+privacy
+• Kate violated Jerry’s right to privacy
+• Kate’s action was wrong
+1-44
+
+1-45
+Act Utilitarian Analysis
+• Benefits
+– Popularity of Kate’s blog increased (definitely)
+– Jerry become more popular on campus (definitely)
+• Harms
+– Jerry’s anger at Kate (only temporary)
+– Photo could discredit Jerry at some point in future 
+(unlikely)
+• Benefits greater than harms, so Kate did a good 
+thing
+1-45
+
+1-46
+Social Contract Theory Analysis
+• Birthday party held in apartment of one of 
+Jerry’s friends
+• Jerry had a reasonable expectation of 
+privacy
+• Kate violated Jerry’s right to privacy
+• Kate’s action was wrong
+1-46
+
+1-47
+Act Utilitarian Analysis
+• Benefits
+– Popularity of Kate’s blog increased (definitely)
+– Jerry become more popular on campus (definitely)
+• Harms
+– Jerry’s anger at Kate (only temporary)
+– Photo could discredit Jerry at some point in future 
+(unlikely)
+• Benefits greater than harms, so Kate did a good 
+thing
+1-47
+
+1-48
+Rule Utilitarian Analysis
+• What if everyone were constantly taking photos of people 
+they encountered and posting them?
+• Positive consequences
+– People would have more opportunities to keep up with what their 
+friends are doing
+– People might be more reluctant to engage in illegal activities
+• Negative consequences
+– People would become more self-conscious
+– Some relationships would be harmed
+• Negative consequences more weighty than positive 
+consequences, so Kate’s action was bad
+1-48
+
+1-49
+Virtue Ethics Analysis
+• True friends trust each other and seek each other’s good
+• Reciprocity and equality are fundamental elements of 
+friendship
+• Lack of reciprocity: Kate took something from Jerry 
+without giving him anything in return
+• Lack of equality: She put her own interest above that of 
+Jerry
+• Kate’s actions did not seem to be characteristic of a good 
+friend
+1-49
+
+1-50
+Summary
+• Four out of five analyses: Wrong for Kate to post 
+the photo without asking Jerry’s permission
+• Kate figured it would be better to beg for 
+forgiveness than ask for permission, but she cut 
+Jerry out of a decision that affected both of them, 
+and that’s no way to treat a friend
+• Kate should have tried to get Jerry’s consent
+1-50
+
+1-51
+
+1-52
+• Location data forms the basis for a multibillion dollar 
+industry. For eg, Mobilewalla, has data from 75,000 
+mobile apps and 1.6 billion devices across more than 
+35 countries.
+• Once you agree to tracking, the app will typically refer 
+you to a privacy policy that details how that data can be 
+used. Very few people read it.
+• Free apps are supported by sale of user information to 
+third parties. Companies buy data for analytics, fraud 
+detection, advertising and marketing purposes.
+Tracking Apps
+
+1-53
+
+1-54
+Technology Trends that Influence Ethical Issues
+
+1-55
+1-55
+The World Wide Web
+• WWW : networked hypertext system
+• Stimulated tremendous growth in 
+popularity of Internet
+• Two important attributes
+– It is decentralized
+– Every Web object has a unique address
+
+1-56
+Rise of the App
+• People spending more time on 
+smartphones and tablets
+• Using Web browsers awkward on mobile 
+devices
+• Mobile apps replace Web browsers as way 
+to access Internet on mobile devices
+1-56
+
+1-57
+1-57
+How We Use the Internet
+•
+Shopping
+•
+Socializing (e.g., Facebook)
+•
+Contributing content (e.g., wikis)
+•
+Blogging
+•
+Crowdsourcing
+•
+Learning
+•
+Exploring our roots
+•
+Entering virtual worlds
+•
+Controlling the Internet of Things
+•
+Paying taxes
+•
+Gambling
+•
+Taking humanitarian action
+•
+Lots more!
+
+1-58
+IDENTITY THEFT
+The crime of using the personal or financial 
+information of another person to commit fraud, such 
+as making unauthorized transactions or purchases. 
+Committed in many different ways and its victims 
+are typically left with damage to their credit, 
+finances, and reputation
+1-58
+
+1-59
+1-59
+
+1-60
+1-60
+
+1-61
+1-61
+Identity Theft (1/2)
+• Identity theft: When a person uses another person’s 
+electronic identity
+• Leading form of identity theft is credit card fraud
+• Financial institutions contribute to problem by making it 
+easy to open new accounts
+• About 8 million cases of identity theft in U.S. in 2010
+• Consumer’s liability for credit card losses limited to $50
+
+1-62
+1-62
+Identity Theft (2/2)
+• Nearly half of cases from lost credit card, checkbook, etc.
+• In 20% of cases, credit card number stolen at time of 
+making purchase (skimmers)
+• About 1 million cases of identity theft annually in United 
+States from online activities
+• Phishing: Use of email to attempt to deceive people into 
+revealing personal information
+• Identity theft a federal crime, but only 1 in 700 cases 
+results in an arrest
+
+1-63
+3.7 Children and Inappropriate 
+Content
+1-63
+
+1-64
+1-64
+Web Filters
+• Web filter: Software that prevents display 
+of certain Web pages
+– May be installed on an individual PC
+– ISP may provide service for customers
+• Methodologies
+– Maintain “black list” of objectionable sites
+– Examine content for objectionable 
+words/phrases
+
+1-65
+1-65
+Calvin and Hobbes, 1990 / © Universal Press Syndicate
+
+1-66
+1-66
+Child Internet Protection Act
+• Libraries receiving federal networking 
+funds must filter pages containing 
+obscenity or child pornography
+• U.S. Supreme Court ruled CIPA did not 
+violate 1st Amendment guarantees
+(6-3 decision in June 2003)
+
+1-67
+1-67
+Ethical Evaluations of CIPA
+• Kantian evaluation: CIPA is wrong
+• Act utilitarian evaluation: depends on how 
+benefits and harms are weighed
+• Social contract theory: freedom of 
+conscience should be given precedence
+
+1-68
+3.8 Breaking Trust
+1-68
+
+1-69
+1-69
+Chat-Room Predators
+• Chat room: Supports real-time discussions 
+among many people connected to network
+• Instant messaging and chat rooms 
+replacing telephone for many people
+• Some pedophiles meeting children through 
+chat rooms
+• Police countering with “sting” operations
+
+1-70
+1-70
+Ethical Evaluations of “Stings”
+• Utilitarian evaluation
+• Kantian evaluation
+• Social contract theory evaluation
+
+1-71
+1-71
+False Information
+• Quality of Web-based information varies widely
+• Other media also have information of varying 
+quality
+– The New York Times v. The National Enquirer
+– 60 Minutes v. Conspiracy Theory
+• Google attempts to reward quality
+– Ranking uses “voting” algorithm
+– If many links point to a page, Google search engine 
+ranks that page higher
+
+1-72
+3.9 Internet Addiction
+1-72
+
+1-73
+1-73
+Is Internet Addiction Real?
+• Some liken compulsive computer use to 
+pathological gambling
+• Traditional definition of addiction:
+– Compulsive use of harmful substance or drug
+– Knowledge of its long-term harm
+• Some people spend 40-80 hours/week on 
+the Internet, with individual sessions 
+lasting up to 20 hours
+
+1-74
+1-74
+Is Internet Addiction Real?
+• Kimberly Young created test for Internet 
+addiction
+– Sample question: “Have you repeatedly made 
+unsuccessful efforts to control, cut back, or stop 
+Internet use?”
+– Patients who answer “yes” to at least 5 of 8 questions 
+may be addicted
+• Others disagree, noting
+– Computer use is generally considered a positive 
+activity
+– Excessive use does not lead to criminal activity
+– More accurate to call excessive use a compulsion
+
+1-75
+1-75
+Contributing Factors
+• Social factors
+– Peer groups
+• Situational factors
+– Stress
+– Lack of social support and intimacy
+– Limited opportunities for productive activity
+• Individual factors
+– Tendency to pursue activities to excess
+– Lack of achievement
+– Fear of failure
+
+1-76
+1-76
+
+1-77
+1-77
+Ethical Evaluation
+• Enlightenment view
+– Individuals can and should govern their lives
+– People are responsible for their choices
+• Jeffrey Reiman’s view
+– Addict’s behavior makes sense if addict has 
+no hope for a better future
+– Society bears responsibility for putting people 
+in hopeless situations
+
+
+
+Chapter 3: Networking - Detailed Explanation with Real-Life Examples
+
+1. Spam:
+Spam refers to unsolicited bulk emails sent to many people. It is profitable because sending emails is cheap compared to traditional mail.
+Example: You receive an email claiming you won a lottery, asking for your bank details. This is spam and often a scam.
+Companies collect emails from websites, chat rooms, or use viruses to harvest addresses. Spam filters help block these messages.
+
+2. Internet Interactions:
+People interact online through social media, forums, and messaging apps. However, issues like pornography, sexting, and cyberbullying arise.
+Example: A teenager shares personal photos online and becomes a victim of cyberbullying. This shows the importance of online safety.
+
+3. Text Messaging:
+Text messaging has transformed lives, especially in developing countries.
+Example: In Kenya, M-PESA allows people to send money via text, pay bills, and protect against counterfeit medicine. Farmers share crop prices through SMS.
+
+4. Censorship:
+Censorship means blocking or controlling information. Governments may restrict access to websites or monitor online activity.
+Example: China blocks certain websites during social unrest. Saudi Arabia uses centralized control to filter content.
+
+5. Freedom of Expression:
+Freedom of expression allows people to share opinions, but it is not absolute.
+Example: In the U.S., the First Amendment protects speech, but you cannot incite violence or share harmful secrets.
+
+6. Children and Inappropriate Content:
+Children can access harmful content online. Web filters and laws like CIPA help protect them.
+Example: Libraries in the U.S. must block obscene content to comply with CIPA.
+
+7. Breaking Trust:
+Trust can be broken online through false information or predators in chat rooms.
+Example: Police use sting operations to catch predators who try to meet children through chat rooms.
+
+8. Internet Addiction:
+Excessive Internet use can lead to addiction, similar to gambling.
+Example: Someone spends 80 hours a week online, neglecting work and family. Social media apps use notifications to keep users engaged.
+
+Other Issues:
+- Identity Theft: Criminals steal personal information to commit fraud.
+Example: A hacker uses stolen credit card details to make purchases.
+- Tracking Apps: Free apps often sell user data for advertising.
+Example: A game app tracks your location and sells it to marketers.
+
+Summary:
+The Internet is powerful but comes with risks. Awareness and ethical practices are essential to stay safe and use technology responsibly.

@@ -1,0 +1,51 @@
+Portfolio Website Layout Plan – Muhammad Ahmad
+
+1. Home Page
+-------------
+- Hero Section: "Helping startups scale with DevOps & AWS"
+- Short intro: Who you are, what you do
+- CTA: “Let’s Work Together” → Contact page
+
+2. Services Page
+-----------------
+- DevOps Solutions: CI/CD, Docker, Monitoring
+- AWS Cloud Services: EC2, S3, Lambda, Cost optimization
+- Backend Development: Node.js, Django, Flask
+- Frontend Development: React, Vue.js
+
+3. Projects / Case Studies Page
+--------------------------------
+- Project Name
+- Tech Stack
+- Problem → Solution → Result
+- GitHub link or screenshots
+
+4. Blog Page
+-------------
+- “How to Set Up CI/CD with GitHub Actions”
+- “AWS Cost Optimization for Startups”
+- “Dockerizing a Node.js App for Production”
+
+5. Contact Page
+----------------
+- Contact Form
+- WhatsApp link
+- Calendly link
+- Email: ahmad@yourdomain.com
+
+6. Testimonials Page (Optional)
+-------------------------------
+- Quotes from collaborators
+- Logos if available
+
+7. About Page
+--------------
+- Your journey
+- Skills & certifications
+- Why you love solving tech problems
+
+Tech Stack Suggestions:
+- Frontend: HTML + TailwindCSS or React
+- Backend: Node.js or Django
+- Hosting: GitHub Pages, Vercel, Netlify
+- Domain: Namecheap or GoDaddy

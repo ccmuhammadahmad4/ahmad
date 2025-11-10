@@ -1,0 +1,82 @@
+Day 20 English Learning Plan for Muhammad Ahmad
+--------------------------------------------------
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate English
+📅 Focus: Prepositions of Time and Place, DevOps Vocabulary, Writing, Speaking
+
+--------------------------------------------------
+1. Grammar Practice: Prepositions of Time and Place
+--------------------------------------------------
+
+🔹 Prepositions of Time:
+- at (at 5 PM, at noon)
+- on (on Monday, on July 4th)
+- in (in the morning, in 2023)
+
+🔹 Prepositions of Place:
+- at (at the office, at the server room)
+- on (on the dashboard, on the screen)
+- in (in the container, in the environment)
+
+✅ Practice Sentences:
+- The deployment starts **at** 6 PM **on** Friday.
+- The logs are stored **in** the staging environment.
+- The error appeared **on** the monitoring dashboard.
+
+✏️ Your Turn:
+Write 3 sentences using prepositions of time and 3 using prepositions of place.
+
+--------------------------------------------------
+2. Vocabulary Practice: DevOps Words
+--------------------------------------------------
+
+| Word         | Meaning                          | Example Sentence                         |
+|--------------|----------------------------------|------------------------------------------|
+| **Container**| Lightweight software package     | We run the app in a Docker container.    |
+| **Cluster**  | Group of servers                 | The Kubernetes cluster is stable.        |
+| **Latency**  | Delay in processing              | We noticed high latency in the API.      |
+| **Endpoint** | URL for accessing a service      | The login endpoint is not responding.    |
+| **Replica**  | Copy of a service or data        | We created 3 replicas for high availability.|
+
+🎧 Practice pronunciation and use each word in a sentence.
+
+--------------------------------------------------
+3. Writing Practice: Status Update Email
+--------------------------------------------------
+
+✉️ Prompt:
+Write an email to your team to inform them that the latency issue in the login endpoint has been resolved and replicas have been added for stability.
+
+📄 Example:
+Subject: Update on Login Endpoint Latency Issue
+
+Dear Team,
+
+I’m writing to inform you that the latency issue affecting the login endpoint has been resolved. We have added three replicas to improve stability and performance. Please monitor the service and report any anomalies.
+
+Best regards,  
+Muhammad Ahmad
+
+🎯 Your Turn:
+Write your own version of the email and check grammar and tone.
+
+--------------------------------------------------
+4. Speaking Practice: Describe a Monitoring Task
+--------------------------------------------------
+
+🎤 Prompt:
+Describe how you monitor the staging environment daily. Include:
+- Tools you use
+- What you check
+- How you report issues
+
+📄 Example:
+"Every morning, I use Grafana and Prometheus to monitor the staging environment. I check CPU usage, memory, and error logs. If I find any issues, I report them to the team using Slack and update the incident tracker."
+
+🎯 Your Turn:
+Write your version and practice speaking it aloud.
+
+--------------------------------------------------
+
+✅ Let me know when you're ready for Day 21!

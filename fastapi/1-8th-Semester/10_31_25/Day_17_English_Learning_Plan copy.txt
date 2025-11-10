@@ -1,0 +1,59 @@
+Day 17 English Learning Plan for Muhammad Ahmad
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 English Level: Intermediate
+
+---
+
+📘 Grammar Focus: Noun Clauses
+
+🔹 What is a noun clause?
+A noun clause is a group of words that acts as a noun in a sentence.
+
+🔹 Examples:
+- I know **that the deployment was successful**.
+- We understand **why the pipeline failed**.
+- He explained **what caused the issue**.
+
+🎯 Practice:
+Write 3 sentences using noun clauses related to your DevOps work.
+
+---
+
+🧠 Vocabulary Practice (DevOps & Workplace)
+
+| Word         | Meaning                                | Example Sentence                                 |
+|--------------|----------------------------------------|--------------------------------------------------|
+| **Trigger**  | To start a process                     | The script triggers the deployment automatically.|
+| **Alert**    | Notification of an issue               | We received an alert about high CPU usage.       |
+| **Downtime** | Period when system is unavailable      | The server had 2 hours of downtime yesterday.    |
+| **Latency**  | Delay in processing                    | The latency increased during peak hours.         |
+| **Root Cause**| Main reason for a problem             | We found the root cause of the pipeline failure. |
+
+🎯 Practice:
+Use each word in a sentence related to your daily work.
+
+---
+
+✉️ Writing Practice
+
+**Prompt:**  
+Write an email to your team explaining that the root cause of the recent downtime was a misconfigured DNS entry. Mention that the issue has been resolved and monitoring has been improved.
+
+---
+
+🎤 Speaking Practice
+
+**Prompt:**  
+Describe a situation where you had to investigate a technical issue. Include:
+- What the issue was
+- How you found the root cause
+- What steps you took to fix it
+
+🎯 Tip:
+Use noun clauses in your explanation. Example:  
+> I discovered **that the error was caused by a missing environment variable**.
+
+---
+
+✅ Keep practicing and let me know when you're ready for Day 18!

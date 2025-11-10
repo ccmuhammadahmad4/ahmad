@@ -1,0 +1,65 @@
+Day 8 English Learning Plan for Muhammad Ahmad
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 English Level: Intermediate
+
+---
+
+📘 1. Grammar Practice: Modal Verbs (can, could, should, must)
+
+✅ Use modal verbs to express ability, advice, necessity, or possibility.
+
+Examples:
+- We **can** deploy the update after testing.
+- You **should** check the logs before the release.
+- We **must** resolve the issue before the meeting.
+- The server **could** crash if memory usage increases.
+
+🎯 Task: Write 3 sentences using modal verbs related to your daily work.
+
+---
+
+🧠 2. Vocabulary Practice: DevOps & Workplace Terms
+
+| Word         | Meaning                          | Example Sentence                         |
+|--------------|----------------------------------|------------------------------------------|
+| **Latency**  | Delay in processing               | High latency affects user experience.    |
+| **Scalability** | Ability to handle growth       | Our system has good scalability.         |
+| **Downtime** | Period when system is unavailable | We had 2 hours of downtime yesterday.    |
+| **Alert**    | Notification of an issue          | I received an alert about CPU usage.     |
+| **Repository** | Storage for code                | The code is stored in the GitHub repository.|
+
+🎯 Task: Write your own sentence using each word.
+
+---
+
+✉️ 3. Writing Practice: Email to Team
+
+**Prompt:**  
+Write an email to your team informing them that the deployment of the new feature will be delayed due to a bug in the staging environment.
+
+Example:
+Subject: Deployment Delay Notification
+
+Dear Team,  
+I want to inform you that the deployment of the new feature will be delayed. We found a bug in the staging environment that needs to be resolved before release. I will keep you updated on the progress.  
+Regards,  
+Muhammad Ahmad
+
+🎯 Task: Write your own version of this email.
+
+---
+
+🎤 4. Speaking Practice: Explaining a Technical Issue
+
+**Prompt:**  
+Describe a technical issue you faced recently and how you resolved it.
+
+Example:
+Last week, I noticed high memory usage on the staging server. After checking the logs, I found a loop in the backend code. I discussed it with the developer and we fixed the loop. The memory usage returned to normal.
+
+🎯 Task: Write your version and practice speaking it aloud.
+
+---
+
+You're doing great, Ahmad! Let me know when you're ready for Day 9 😊

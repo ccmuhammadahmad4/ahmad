@@ -1,0 +1,19 @@
+Project 3: Monitoring & Alerting Stack
+
+Tools:
+- Prometheus
+- Grafana
+- Alertmanager
+- Docker or Kubernetes
+
+Steps:
+1. Create a Docker Compose file or Kubernetes manifests.
+2. Deploy Prometheus and Grafana.
+3. Configure Prometheus to scrape metrics from a sample app.
+4. Set up Grafana dashboards using Prometheus as data source.
+5. Configure Alertmanager for email or Slack alerts.
+6. Trigger a test alert and verify notification.
+
+Bonus:
+- Add Node Exporter for system metrics.
+- Use blackbox exporter for endpoint monitoring.

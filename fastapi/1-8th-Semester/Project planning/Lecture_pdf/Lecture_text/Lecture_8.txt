@@ -1,0 +1,462 @@
+Project Planning and
+Monitoring
+Project Conception and
+Feasibility
+
+What is Project
+Conception?
+• Beginning of a Project is the initial step in the
+process of defining the actual scope of a project.
+• Project conception generally starts with an appearance
+of a requirement or an opportunity that will benefit the
+corporate interests and ends when one or more
+preliminary options have been formulated which will,
+theoretically, satisfy the company’s expectations as
+originally presented.
+
+Stages of Project Conception
+• Initial conceptualization of a project has various degrees of complexity, depending on the nature
+of
+the specific project and the particular analysis and approval procedures used by an
+organization.
+• The organization’s planning strategy may require formulations of programs involving
+several
+projects. Conception of the overall program should then precede conception
+of the individual
+specific projects.
+
+• The conceptual stage involves the following activities:
+1. Definition of a requirement or an opportunity that commands the interests of
+the company.
+2. Formulation of a set of preliminary alternatives capable of fulfilling the initial
+requirement.
+
+3. Selection of alternative(s) that might satisfy the requirements in terms and
+conditions
+attractive to the organization
+
+1. Definition of the Requirement or Opportunity
+• The continuity of efficient operations and the opening of the
+new business areas are the main drives for capital investments for
+industrial firms.
+Investment
+opportunities
+are
+detected
+through operational analysis of current performance and by
+forecasts of the most likely future scenarios.
+• Initially, the scope of any new investment is likely to be
+vague.
+Subsequent definition involves consideration of all
+available relevant
+facts, required resource sand constraints
+associated with the original idea.
+
+2. Preliminary Formulation of the Alternatives
+• Project conception continues with development of alternatives
+capable of fulfilling the expressed objectives.
+• The preliminary formulation of alternatives is important as it sets
+the pace of the subsequent definition and elaboration of the project
+scope.
+
+• During this phase, the organization calls upon the experience
+and creativity of its technicians, manager and directors to
+generate an
+adequate group of alternatives to fulfill the
+expressed need.
+
+3. Initial Selection of Alternatives
+• After the alternatives have been identified, comparative analyses are made in
+order to select the most beneficial and to reject the least attractive.
+
+• The selection process employs a basic feasibility analysis of each
+alternative the establishment of criteria that will allow the identification
+of the most attractive options.
+• At this point, further consideration of the rejected alternative is terminated
+along with the need to prepare elaborate definitions for them.
+• The cost, schedule, profitability, and other salient advantages and
+disadvantages of each of the selected alternatives are assessed in terms of
+order of magnitude.
+• Difference among the options is sought still without establishing precise
+project parameters.
+
+What is a Feasibility Study of a Project?
+• In a feasibility study, a proposed plan or project is evaluated for its practicality.
+• As part of a feasibility study, a project or venture is evaluated for its viability
+in order to determine whether it will be successful.
+• As the name implies, a feasibility analysis is used to determine the viability of
+an idea, such as ensuring a project is legally and technically feasible as
+well as economically justifiable.
+
+• It tells us whether a project
+cases, a project may not be doable.
+
+is
+
+worth
+
+the
+
+investment—in
+
+some
+
+Understanding A Feasibility Study
+• A feasibility study is a preliminary exploration of a proposed project or
+undertaking to determine its merits and viability.
+• A feasibility study aims to provide an independent assessment that examines all
+aspects of a proposed project, including technical, economic, financial, legal, and
+environmental considerations.
+• This information then helps decision-makers determine whether or not to
+proceed with the project.
+• The feasibility study results can also be used to create a realistic project plan and
+budget.
+• Without a feasibility study, it cannot be easy to know whether or not a proposed
+project is worth pursuing.
+
+1. Technical Feasibility
+
+Types of
+Feasibility
+Study
+
+This assessment focuses on the technical resources
+available to the organization. It helps organizations
+determine whether the technical resources meet capacity
+and whether the technical team is capable of converting
+the ideas into working systems. Technical feasibility also
+involves the evaluation of the hardware, software, and other
+technical requirements of the proposed system.
+2. Financial Feasibility
+
+This assessment typically involves a cost/ benefits
+analysis of the project, helping organizations determine the
+viability, cost, and benefits associated with a project before
+financial resources are allocated. It also serves as an
+independent project assessment and enhances project
+credibility—helping decision-makers determine the positive
+financial benefits to the organization that the proposed
+project will provide.
+
+3. Managerial Feasibility
+
+Types of
+Feasibility
+Study
+
+Demonstrated management capability and availability, employee
+involvement, and commitment are key elements required to
+ascertain managerial feasibility. This addresses the management
+and organizational structure of the project, ensuring that the
+proponent’s structure is as described in the submittal and is well
+suited to the type of operation undertaken.
+4. Economic Feasibility
+
+This involves the feasibility of the proposed project to generate
+economic benefits. A benefit-cost analysis is required. A
+breakeven analysis when appropriate is also a required aspect of
+evaluating the economic feasibility of a project. The tangible and
+intangible aspects of a project should be translated into economic
+terms to facilitate a consistent basis for evaluation. Even when a
+project is non-profit in nature, economic feasibility is critical.
+
+5. Legal Feasibility
+
+Types of
+Feasibility
+Study
+
+This assessment investigates whether any aspect of the
+proposed project conflicts with legal requirements like
+zoning laws, data protection acts or social media laws.
+Let’s say an organization wants to construct a new office
+building in a specific location. A feasibility study might
+reveal the organization’s ideal location isn’t zoned for that
+type of business. That organization has just saved
+considerable time and effort by learning that their project
+was not feasible right from the beginning.
+
+6. Operational Feasibility
+This assessment involves undertaking a study to analyze
+and determine whether—and how well—the organization’s
+needs can be met by completing the project. Operational
+feasibility studies also examine how a project plan satisfies
+the requirements identified in the requirements analysis
+phase of system development.
+
+Types of
+Feasibility
+Study
+
+7. Scheduling Feasibility
+This assessment is the most important
+for project success; after all, a project will fail if
+not completed on time. In scheduling feasibility,
+an organization estimates how much time the
+project will take to complete.
+8. Cultural Feasibility
+Cultural feasibility deals with the compatibility of the
+proposed project with the cultural environment of the
+project. In labor-intensive projects, planned functions
+must be integrated with the local cultural practices and
+beliefs. For example, religious beliefs may influence
+what an individual is willing to do or not do.
+
+9. Social Feasibility
+
+Types of
+Feasibility
+Study
+
+Social feasibility addresses the influences that a proposed project
+may have on the social system in the project environment. The
+ambient social structure may be such that certain categories of
+workers may be in short supply or nonexistent. The effect of the
+project on the social status of the project participants must be
+assessed to ensure compatibility. It should be recognized that
+workers in certain industries may have certain status symbols
+within the society.
+10. Environmental Feasibility
+Environmental feasibility is another important aspect that should
+be considered in project planning. Environmental feasibility
+refers to an analysis of whether the project is capable of being
+implemented and operated safely with minimal adverse effects on
+the environment. Unfortunately, environmental impact assessment
+is often not adequately addressed in complex projects.
+
+11. Political Feasibility
+
+Types of
+Feasibility
+Study
+
+Political considerations often dictate directions for a proposed project.
+This is particularly true for large projects with significant visibility that
+may have significant government inputs and political implications. For
+example, political necessity may be a source of support for a project
+regardless of the project's merits. On the other hand, worthy projects may
+face insurmountable opposition simply because of political factors.
+Political feasibility analysis requires an evaluation of the compatibility of
+project goals with the prevailing goals of the political system.
+
+12. Market Feasibility
+This area should not be confused with the Economic Feasibility. The
+market needs analysis to view the potential impacts of market demand,
+competitive activities, etc. and market share available. Possible
+competitive activities by competitors, whether local, regional, national or
+international, must also be analyzed for early contingency funding and
+impacts on operating costs during the start-up, ramp-up, and commercial
+start-up phases of the project.
+
+Constraints through Feasibility Study
+When all areas have been examined, the feasibility analysis helps identify any
+constraints the proposed project may face, including:
+• Internal Project Constraints: Technical, Technology, Budget, Resource, etc.
+• Internal Corporate Constraints: Financial, Marketing, Export, etc.
+• External Constraints: Logistics, Environment, Laws, and Regulations, etc.
+
+Importance of Feasibility Study
+The importance of a feasibility study is based on organizational desire to
+“get it right” before committing resources, time, or budget. A feasibility study
+might uncover new ideas that could completely change a project’s scope.
+Below are some key benefits of conducting a feasibility study:
+
+• Improves project teams’ focus
+• Identifies new opportunities
+• Provides valuable information for a “go/no-go” decision
+
+• Narrows the business alternatives
+• Identifies a valid reason to undertake the project
+• Enhances the success rate by evaluating multiple parameters
+
+• Aids decision-making on the project
+• Identifies reasons not to proceed
+
+What is Included in a Feasibility Study
+Report?
+The results of your feasibility studies study are summarized in a feasibility report,
+which typically comprises the following sections:
+• Executive summary
+
+• Specifications of the item or service
+• Considerations for the future of technology
+
+• The marketplace for goods and services
+• Approach to marketing
+• Organization/staffing
+
+• Schedule
+• The financial forecasts
+
+• Recommendations based on research
+
+Purpose of a Feasibility Study
+A feasibility study is an important first step in starting a new business. It is a detailed
+examination of whether or not a proposed business venture is likely to be successful.
+A feasibility study aims to provide information that will help business owners make
+informed decisions about their new venture. The feasibility study will answer important
+questions about the proposed business, including:
+• What is the target market for this business?
+
+• Who are the competitors?
+• What are the costs associated with starting and running this business?
+• What are the potential risks and rewards associated with this venture?
+
+• How much revenue can this business generate?
+• What are the estimated profits and losses for this business?
+• What is the potential for growth in this industry?
+
+7 Steps to Do a
+Feasibility Study
+
+1. Conduct
+a
+Preliminary
+Analysis
+
+A preliminary investigation is necessary to
+determine whether a full feasibility study is
+warranted. During this stage, key information
+will be gathered to assess the project's
+potential and make a preliminary decision
+about its feasibility. This should include a
+review of relevant documents, interviews with
+key personnel, and surveys of potential
+customers or users.
+
+2. Prepare
+a Projected
+Income
+Statement
+
+To do a feasibility study, one must
+create a projected income statement.
+The projected income statement will
+show how much money a business is
+expected to make in the coming year. It
+will include both an estimated revenue
+and an estimated expenses. This
+document will be essential in helping
+one make informed decisions about
+his/her business.
+
+3. Conduct
+a Market
+Survey, or
+Perform
+Market
+Research
+
+• Conducting market research is an important step in any
+feasibility study. By understanding the needs and wants
+of potential customers, one can determine if there is a
+market for his/her product or service. One can also get
+an idea of what his/her competition is doing and how to
+best position the business to meet the needs of his/her
+target market.
+• There are a variety of ways to conduct market research.
+One popular method is to conduct a survey. One can
+survey potential customers directly or use data from
+secondary sources such as surveys conducted by other
+organizations. One can also use focus groups or
+interviews to get feedback from potential customers.
+
+• Once the data is gathered, one can use it to create a
+profile of his/her ideal customer. This will help to
+understand the target market and how to reach them.
+
+4. Plan
+Business
+Organization
+and
+Operations
+
+When starting a business, one of the first things one
+need is to plan his/her organization and operations.
+This involves creating a structure for his/her company
+and figuring out the logistics of how he/she will run it.
+There are many factors to consider when planning
+organization and operations, such as:
+• Company Structure: What type of company will it
+be (sole proprietorship, partnership, corporation,
+etc.)? How will the hierarchy look like?
+• Location: Where will the business be located?
+Will it have a physical storefront or will operate
+online only?
+• Marketing: How will the business be
+promoted ?
+
+5. Prepare
+an
+Opening
+Day
+Balance
+Sheet
+
+The opening day balance sheet is a snapshot of the
+company's financial position at the beginning of the
+business venture. The purpose of the opening day
+balance sheet is to give an idea of the amount of money
+that the company has to work with and track its expenses
+and income as they occur. This information is vital to
+making sound business decisions. The opening day
+balance sheet will include the following:
+• Cash on hand
+
+• Accounts receivable
+• Inventory
+• Prepaid expenses
+
+• Fixed assets
+• Accounts payable
+
+• Notes payable
+• Long-term liabilities
+
+• Share
+
+6. Review
+and
+Analyze All
+Data
+
+• The feasibility study should include reviewing and
+analyzing all data relevant to the proposed project. The
+data collected should be verified against source
+documentation, and any discrepancies should be noted.
+The purpose of the feasibility study is to provide a basis
+for making a decision, and the data should be sufficient
+to support that decision.
+• The analysis should consider both the positive and
+negative aspects of the proposed project. The financial
+analysis should be thorough, and all assumptions should
+be documented. The risk assessment should identify
+any potential risks and mitigation strategies. The team
+assigned to the project should review the feasibility
+study and recommend the organization's leadership.
+• Organizational leadership should decide whether to
+proceed with the project based on the feasibility study's
+findings. If the project is approved, the organization
+should develop a project plan that includes a detailed
+budget and timeline
+
+7. Make a
+Go/No-Go
+Decision
+
+• It is important to know when to cut losses when
+starting a business. The go/no-go decision in a
+feasibility study comes in. The go/no-go decision is a
+key part of a feasibility study, and it can help one
+determine whether or not his/her business idea is
+worth pursuing.
+• Making the go/no-go decision is all about risk
+assessment. One need to weigh the risks and
+rewards of starting his/her business and decide
+whether the potential rewards are worth the risks. If
+the risks are too high, one may want to reconsider
+his/her business idea.
+
+Thanks
+
+

@@ -1,0 +1,509 @@
+Project Management
+Project Proposal & Planning
+
+Benefit/Cost Ratio
+• Cost/Benefit Ratio, as the name suggests, is the
+ratio between the Present Value of Inflow or the
+cost invested in a project to the Present Value of
+Outflow, which is the value of return from the
+project.
+• Projects that have a higher Benefit-Cost Ratio or
+lower Cost-Benefit Ratio are generally chosen over
+others.
+
+Scoring Model in Project Management
+• The scoring model in project management is an
+objective technique: the project selection
+committee lists relevant criteria, weighs them
+according to their importance and their
+priorities, then adds the weighted values.
+• Once the scoring of these projects is completed,
+the project with the highest score is chosen.
+
+Payback Period
+• Payback Period is the ratio of the total cash to the average per period cash. It
+is the time necessary to recover the cost invested in the project.
+• The Payback Period is a basic project selection method. As the name
+suggests, the payback period takes into consideration the payback period of
+an investment.
+• It is the time frame that is required for the return on an investment to repay
+the original cost that was invested.
+• The calculation for payback is fairly simple:
+
+Payback Period
+• When the Payback period is used as the Project
+Selection Method, the project that has the
+shortest Payback period is preferred since the
+organization can regain the original investment
+faster. There are, however, a few limitations to
+this method:
+• It does not consider the time value of
+money.
+• Benefits accrued after the payback period
+are not considered; it focuses more on the
+liquidity while profitability is neglected.
+• Risks involved in individual projects are
+neglected.
+
+Net Present Value
+• Net Present Value is the difference between the project’s current value of cash inflow
+and the current value of cash outflow.
+• The NPV must always be positive. When picking a project, one with a higher NPV is
+preferred.
+• The advantage of considering the NPV over the Payback Period is that it takes into
+consideration the future value of money.
+• However, there are limitations of the NPV, too:
+• There isn’t any generally accepted method of deriving the discount value used for
+the present value calculation.
+• The NPV does not provide any picture of profit or loss that the organization can make
+by embarking on a certain project.
+
+Discounted Cash Flow
+• A discounted cash flow (DCF) analysis allows you to estimate the money
+your company
+would receive from an investment or project, adjusted
+for the time value of money.
+• The time value of money presumes that a dollar today is worth
+more
+than a dollar tomorrow because you have invested it.
+• It’s well-known that the future value of money will not be the same as it is
+today.
+• For example, $20,000 won’t have the same worth ten years from now.
+• For instance, with a 5% annual interest rate, $1 in a savings account will
+be worth
+$1.05 after a year. Likewise, if you delay a $1 payment for a year, its
+present value is 95 cents, as you can't transfer it to your savings account to
+earn interest.
+
+Internal Rate Of Return
+• The Internal Rate of Return is the interest rate at which the Net Present Value is zero—
+attained when the present value of outflow is equal to the present value of inflow.
+• Internal Rate of Return is defined as the “annualized effective compounded return rate” or
+the “discount rate that makes the net present value of all cash flows (both positive and
+negative) from a particular investment equal to zero.”
+• The IRR is used to select the project with the best profitability; when picking a project, the
+one with the higher IRR is chosen.
+• When using the IRR as the project selection criteria, organizations should remember not to
+use this exclusively to judge the worth of a project; a project with a lower IRR might have a
+higher NPV and, assuming there is no capital constraint, the project with the higher NPV
+should be chosen as this increases the shareholders’ profits.
+
+Opportunity Cost
+• Opportunity Cost is the cost that is given up when selecting another project.
+• Opportunity costs refer to alternative benefits the company may realize when
+choosing one alternative over another.
+• Putting opportunity costs into consideration allows you to weigh the benefits from
+alternative courses of action and not just the current choice or path being
+considered in the cost-benefit analysis.
+• During project selection, the project that has the lower opportunity cost is chosen.
+
+What’s the DCF?
+• The DCF is a financial model and can be viewed as the primary tool in
+valuation that is used to estimate the intrinsic value of any asset that
+generates cash flows. The key proposition within the DCF is that the value
+of an asset is the present value of its future cash flows:
+
+• The formula above shows that according to the DCF, any asset’s value is
+equal to the sum of all cash flows (CF) in each period t divided by 1 + the
+discount rate (r) to the corresponding period t.
+
+What’s NPV?
+• The net present value (NPV) is the present value of all future cash flows
+within the DCF adjusted by the initial investment that had to be made in
+the first place. In other words, NPV is the difference between the initial
+investment costs and the present value of the asset:
+
+• The result of computing the NPV can either be positive or negative: The
+initial investment costs to fund a given project/investment can either be
+lower or higher than its present value. Any NPV that is positive (>0) shows
+that there is excess value that can be made from the investment/project.
+This is why companies often use the NPV metric to determine whether a
+project is worth the investment or not.
+
+Example: Jane's Flowers
+• Let’s suppose that a local business called Jane’s Flowers wants to decide
+whether it should invest in a project, in which they expand their product
+line into the dried flower business. For simplicity, let’s further assume that
+Jane’s Flowers expects that the project will generate $1000 in cash flows
+each year for the next 10 years. By using a cost of capital of 10%, we
+could discount the cash flows respectively to arrive at the total present
+value:
+
+• As a result of our DCF, the total project would be worth $6,144.57 today.
+
+Example: Jane's Flowers
+• Suppose that the project costs an upfront investment of $8,000 to be
+carried out. $8,000 is obviously more than $6,144.57 which means that
+the project isn’t really worth the investment. The NPV, in this scenario,
+would be -$1855,43:
+
+• Therefore, according to our estimates, expanding the product line to
+include dried flowers would be a poor choice because it would actually
+lose us money (NPV is < 0).
+
+DCF vs NPV
+• The DCF is the general approach of estimating the value for any investment based on
+its remaining lifespan, the magnitude of cash-flows it produces, and the risk around
+generating those cash flows. NPV, on the other hand, is a metric that can be
+computed in order to quickly determine whether a given project is worth the
+investment or not.
+
+• The process of discounting cash flows and calculating the net present value can
+come in very handy in many financial decisions which is why it is commonly used in
+corporate decisions, financial analysis, and investment valuations.
+
+What is a Project Proposal?
+• A project proposal is a document
+that describes a proposed project
+and its purpose, outcomes, and the
+steps that will be taken to complete
+the project. Not to be confused with
+a project contract, which is the
+formal agreement between two
+parties to complete a project, a
+project proposal’s purpose is to
+communicate how a company, team,
+or individual plan to approach a
+project.
+
+What is a Project Proposal?
+While the actual elements of a project proposal differ
+depending on the project itself, there are several key
+elements of a project proposal, including:
+• Project Background: What problems, challenges, or
+opportunities
+exist that create a need for this project?
+
+• Objectives: What are the intended outcomes of this
+project?
+• Project Scope: What are the steps or stages of the
+project? What elements are included in this project?
+How will the objectives be
+reached through this
+project?
+
+Why is a Project Proposal Important?
+• The purpose of a project proposal is to
+describe services and outcomes from a
+potential service provider so
+decisionmakers can compare vendors and pick the best
+provider for their needs. It should be
+considered a sales document
+that
+persuades
+the
+decision-maker
+or
+stakeholder that the prospective provider has
+the skills
+and
+expertise
+needed
+to
+complete the project to their
+satisfaction.
+
+Why is a Project Proposal Important?
+It should also set expectations, detail budget and timeline, as well as set expectations for what
+delivery
+would look like.
+• Improved Vendor Comparison
+One of the most important purposes of a project proposal is to allow decision-makers to more
+objectively compare vendors. With a project proposal, decision-makers can compare prices,
+processes, and projected outcomes. If there are price differentiations, the decision-maker can
+also see what aspects of service may differ to create the difference in price. This detailed
+information helps decision- makers make more informed and objective vendor decisions.
+
+• Project Understanding
+A project proposal outlines the purpose and scope of a project. This is helpful before a project
+takes place since it ensures both parties agree about what the project itself will include. It states to
+the decision-maker or stakeholder that the service provider understands the scope of the project.
+This helps establish trust between the parties to facilitate a transactional agreement.
+
+Why is a Project Proposal Important?
+• Establish Credibility
+A project proposal should be seen as a sales tool that helps establish credibility. It should
+communicate to the decision-maker or stakeholder that the service provider is capable of completing
+the project and fulfilling expectations. This is done by detailing how the project will be completed.
+The project proposal may also include potential risks or complications and how the service provider
+would overcome those challenges.
+
+• Propose an Estimated Timeline & Budget
+A project proposal also proposes a timeline and budget for the project. While this document is not a
+formal contract, it provides stakeholders enough information about budget, timeline, and outcomes
+to determine whether or not to move forward with a project and, if so, to make an informed
+contractor or vendor decision.
+
+Why is a Project Proposal Important?
+• Set Expectations
+In addition, a project proposal also sets expectations for the client relationship. This
+includes having a mutual understanding of deliverables, timelines, and budget. While
+the project proposal is not a contractual agreement, it does set a preliminary
+agreement that the details in the project proposal will be put into the contract if the
+project moves forward.
+• Inform Project Planning
+Finally, a project proposal also helps to inform project planning. Once the project
+is approved, this document will be used to finalize timelines and budget for the
+contract as well as to complete resource scheduling.
+
+What is a project plan?
+A project plan is a formal document
+that contains all planning decisions,
+approved project scope, and costs.
+
+Project Planning
+Project planning is the process of defining the
+scope, objectives, and ways in general to achieve
+them. This process goes before a plan as it is here
+where everything is discussed. All crucial planning
+points and outputs then make up a plan.
+
+Project Plan Purpose
+A well-prepared plan should address and consequently answer the following
+questions:
+• Why?
+This question is about the reasons why a project is sponsored and the
+problem it addresses.
+• What?
+
+This is about the scope, task and activities of a project to be undertaken.
+• Who?
+This is about involved people, their roles and responsibilities as well as
+the way they are supposed to be organized.
+
+• When?
+It is about the project’s schedule/timeline.
+• Where?
+
+It is about the project’s location.
+• How?
+
+It is about the project’s methodology / approach and steps to do tasks.
+
+What should a project plan include?
+It is worth noting again that there are no identical plans. However,
+there are standard components that such a plan should include:
+• A vision (executive summary) – a brief description that describes all
+goals
+and objectives of the project.
+• Details about the context: is it a new project, or does it build on
+previous experience?
+• A description of the target audience with the project’s desired
+unique
+selling point (USP) to the customers.
+
+• Roles and responsibilities – information about all individuals
+involved in the design and delivery of the project.
+• Communication strategy.
+
+What should a project plan include?
+• Project timelines – tasks put into a sensible order accompanied by
+sufficient timescales and start and end dates.
+• Core tasks and deliverables that are required to achieve the objectives.
+• Resources necessary to reach the goals, including people, organizations,
+real and virtual resources, etc.
+• Budget and costs.
+• A contingency plan where all risks should be assessed.
+• A document management system.
+• Legacy – the intended legacy of the project. For example, work towards a
+sustainable activity.
+
+Subsidiary management plans
+• Thorough planning can make your life easier during the project
+execution phase by preventing misunderstandings and nasty
+surprises. That is why it is crucial to consider incorporating
+some subsidiary plans.
+• You may logically ask “How many subsidiary plans make up
+the project management plan”? It depends on every single
+situation.
+
+Subsidiary management plans
+No matter whether you are an experienced project manager or a newcomer,
+you will definitely need the following subsidiary plans in project management
+for:
+• Schedule management.
+• Scope management.
+• Resource management.
+• Quality management.
+• Cost management.
+• Communications.
+• Risk management.
+• Change management.
+• Stakeholder engagement.
+• Procurement.
+
+Project plan vs. project management plan
+Both plans refer to two different concepts and
+differ in many ways, although many companies
+use
+both
+terms
+as
+synonymous.
+
+Project plan vs. project management plan
+• A project plan is a higher-level plan. This is a visionary
+document that has a low level of detail. It provides the
+vision of what the project steps will be like and all the
+details are accompanied by the “what” question.
+• A project management plan is an execution document with
+a high level of revitalization. This doc typically provides a
+complete picture and executes the vision of the plan. All the
+details
+go
+with
+the
+‘how’
+question.
+
+Project plan vs. project management plan
+
+Sometimes, these two terms can
+be merged for small projects. In
+larger projects, they should be
+divided to refer to different
+concepts.
+
+How to create a good project
+management plan?
+
+Starting a new plan, a manager should be aware of several questions
+and the ways to answer and solve them. Each question can be
+singled out and minded. But there are some common patterns
+where they can be referred to. There is need to distinguish what
+goes into a project plan and what a manager should do while
+thinking about the steps in project planning.
+
+1. Communicate
+• Successful planning should start with communication with a team
+about goals, participants, tasks, etc. A manager should know best
+who will be responsible for any given task, be aware of deadlines
+and always stay in touch with everything that is going on in a
+project.
+• Moreover, this step of project planning should be addressed during
+the full project implementation. Remember, communication is the
+key to successful management, and do not doubt its importance. As
+per Project Management Institute, 80% of employees spend half of
+their workweek on “rework” caused by poor communication.
+
+2. Identify stakeholders and determine
+goals
+Sometimes there are so many stakeholders that it gets
+difficult to be aware of everyone. Moreover, they can be direct
+or indirect with more or less significant impact on a project
+respectively. That’s why it is crucial to identify those who
+directly influence a plan and then seriously consider their
+needs.
+
+2. Identify stakeholders and determine goals (Cont)
+Who can be a stakeholder?
+• A sponsor – an individual who funds the whole project and approves it.
+• A project manager – an individual who directly does planning with the
+following creation, execution, and control.
+• A team that creates end product. They participate in many crucial aspects
+like development, quality, design issues, etc.
+• End users who actually use the end product.
+This can be a long list of people who participate in a project: risk analysts,
+procurement specialists, etc.
+
+2. Identify stakeholders and determine goals (Cont)
+• What can be done here? Conduct interviews with key
+stakeholders. It will help to realize the requirements and goals that
+have to be achieved. The easiest way to manage and achieve
+objectives (goals) is to use a Smart technique for goal setting.
+• During interviews, a manager realizes what problem is addressed
+by the project and why it is actually sponsored.
+
+• This is our WHY question.
+
+What are SMART goals?
+SMART (S.M.A.R.T.) is an acronym formed by the first
+letters of words:
+S = Specific,
+M = Measurable,
+A = Achievable/Attainable,
+R = Relevant/ Realistic/ Results Focused,
+T = Timely/ Trackable.
+
+3. Define a project scope
+• This is the most important stage among the other project planning steps. The plan
+basics are pointed out and discussed here: justification, product description,
+acceptance criteria, objectives (deliverables), exclusions, constraints, assumptions,
+cost estimates, and some others. All direct and indirect stakeholders should come
+to a complete understanding and agreement during this stage. As soon as it is
+accomplished, all those points make up a project scope statement.
+• As a result, this step implies not only crucial moments to agree upon but also
+establishes good communication between stakeholders and diminishes any risks of
+misunderstandings that may lead to scope creep.
+• This is our WHAT question.
+
+4. Define roles and responsibilities
+• When we speak about a project team, a PM’s duty is to
+assign tasks to everyone involved. Team members should
+know their roles and set of responsibilities. Each task
+should have a definite number of participants.
+
+• This is our WH O question.
+
+5. Schedule a project
+• This is the continuation of the previous point. As soon as a manager
+defines roles and responsibilities for team participants, the next step
+in a project plan and in a project management plan is to set work
+duration for each resource with start/end dates.
+• This is our WHEN question.
+• Moreover, here managers set milestones and critical paths – to say
+in general, this is work with a timeline.
+• Thus, we are approaching the next point – what software to use for
+project scheduling.
+
+6. Visualize a project plan with a Gantt chart
+GanttPRO is an effective online Gantt chart maker for scheduling timelines. With this app, a
+manager can:
+• Create tasks and assign them to team members.
+
+• Set duration with start and end dates for each task.
+• Set dependencies between events. A manager tracks all actions and knows where one event
+comes to an end and gives a start to the other action.
+• Track the progress of each task and the whole project.
+
+• Identify resources needed for each task.
+• Define the cost for each resource.
+
+• Collaborate with team members and view all changes made by them.
+• Follow milestones – any significant events that can’t be lost as they have a direct impact on a
+plan.
+• Enable a critical path – the shortest time needed for project completion.
+
+7. Manage risks
+• Project management consists of risk management – it is
+one of the most critical planning steps. Almost no stage
+in this complicated sphere can go without risks.
+Therefore, it is highly recommended to define what can
+go wrong on every step.
+• An experienced manager not only assesses risks but also
+creates plans of how to handle them in case they occur.
+Their team should also know the possible reaction to any
+changes.
+
+7. Manage risks (Cont)
+What risks can occur?
+• Too optimistic expectation about time and cost.
+• Unclear requirements and needs.
+• Unclear roles and responsibilities.
+• Changes in requirements.
+• New requirements.
+• Budget cuts.
+• Poor communication.
+
+Stick with it
+There are no two identical projects. One can be perfect with no risks and
+delays; the other can fail even with the same sponsors, project managers,
+and teams, costs, timelines, and deliverables. Plans will change, risks will
+occur. But what will ease planning is a detailed project scope, schedule, good
+teamwork, and assessed risks – this is supposed to be in a solid and, at the
+same time, simple project management plan. Then even such challenging
+things can bring fun and joy.
+
+Thanks
+
+

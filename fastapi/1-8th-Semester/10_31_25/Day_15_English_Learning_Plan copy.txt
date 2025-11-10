@@ -1,0 +1,68 @@
+Day 15 English Learning Plan for Muhammad Ahmad
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate
+📅 Focus Areas: Grammar (Third Conditional), Vocabulary, Writing, Speaking
+
+---
+
+🔤 Grammar: Third Conditional (Type 3)
+- Used to talk about imaginary situations in the past.
+- Structure: If + past perfect, would have + past participle
+
+Examples:
+- If we had tested the deployment earlier, we would have avoided the issue.
+- If the DNS entry had been configured correctly, the service would have worked.
+
+🎯 Practice:
+Write 2 sentences using the third conditional related to your DevOps work.
+
+---
+
+🧠 Vocabulary (DevOps & Workplace)
+
+| Word           | Meaning                                | Example Sentence                                 |
+|----------------|----------------------------------------|--------------------------------------------------|
+| **Outage**     | A period when a service is unavailable | We had an outage due to a misconfigured firewall.|
+| **Latency**    | Delay in processing or response        | High latency affected the API performance.       |
+| **Redundancy** | Backup systems to ensure reliability   | We added redundancy to the database cluster.     |
+| **Provision**  | Set up resources or services           | We provisioned new servers for the staging area. |
+| **Escalate**   | Raise an issue to higher authority     | I escalated the issue to the network team.       |
+
+🎯 Practice:
+Write your own sentence using each word.
+
+---
+
+✉️ Writing Practice
+
+**Prompt:**  
+Write an email to your team explaining that the recent outage could have been avoided if the monitoring alerts had been configured properly.
+
+Example:
+Subject: Monitoring Alert Configuration and Recent Outage
+
+Dear Team,  
+I hope you're doing well. I want to highlight that the recent outage could have been avoided if the monitoring alerts had been configured properly. Let's review our alerting rules and ensure they cover all critical services.  
+Regards,  
+Muhammad Ahmad
+
+🎯 Your Turn:
+Write your own version of this email.
+
+---
+
+🎤 Speaking Practice
+
+**Prompt:**  
+Describe a situation where something went wrong in a deployment, and explain what could have been done differently using third conditional sentences.
+
+Example:
+Last week, our deployment failed because the environment variables were missing. If we had double-checked the configuration, we would have caught the issue earlier.
+
+🎯 Your Turn:
+Write and practice saying your own example aloud.
+
+---
+
+✅ Keep practicing and let me know when you're ready for Day 16!

@@ -1,0 +1,65 @@
+Day 23 English Learning Plan for Muhammad Ahmad
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate
+📅 Focus Areas: Grammar (Active vs Passive Voice), Vocabulary, Writing, Speaking
+
+---
+
+🔤 Grammar Focus: Active vs Passive Voice
+
+✅ Active Voice: The subject performs the action.
+Example: The team deployed the new version.
+
+✅ Passive Voice: The subject receives the action.
+Example: The new version was deployed by the team.
+
+🎯 Practice:
+1. Convert this active sentence to passive:
+   - "The DevOps team resolved the issue."
+
+2. Convert this passive sentence to active:
+   - "The pipeline was triggered by the system."
+
+---
+
+🧠 Vocabulary Practice (DevOps Context)
+
+| Word         | Meaning                          | Example Sentence                         |
+|--------------|----------------------------------|------------------------------------------|
+| Trigger      | To start a process               | The build was triggered automatically.   |
+| Execute      | To run a command or script       | We execute the deployment script daily.  |
+| Alert        | Notification of an issue         | We received an alert about high latency. |
+| Downtime     | Period when system is unavailable| The server had 2 hours of downtime.      |
+| Patch        | Update to fix issues             | We applied a patch to fix the bug.       |
+
+---
+
+✉️ Writing Practice
+
+**Prompt:**  
+Write an email to your team informing them that a patch has been applied to fix a DNS issue and the system is now stable.
+
+**Example:**
+Subject: DNS Issue Resolved – Patch Applied
+
+Dear Team,  
+I want to inform you that we have successfully applied a patch to resolve the DNS issue affecting the BGS AI project. The system is now stable and all services are running normally.  
+Please let me know if you notice any irregularities.  
+
+Regards,  
+Muhammad Ahmad
+
+---
+
+🎤 Speaking Practice
+
+**Prompt:**  
+Describe a situation where you had to fix a technical issue. Use both active and passive voice.
+
+**Example:**
+Yesterday, I identified a bug in the deployment pipeline. I fixed the script and redeployed the service. Later, an alert was triggered by the monitoring system, but it was resolved quickly.
+
+---
+
+Keep practicing and let me know when you're ready for Day 24! 😊

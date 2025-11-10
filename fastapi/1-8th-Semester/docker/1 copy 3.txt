@@ -1,0 +1,218 @@
+Thanks for your request regarding **Linux (Ubuntu OS)**. To create a comprehensive `.txt` file similar to the previous ones, I’ll include:
+
+---
+
+## ✅ `linux-ubuntu.txt` File Contents:
+
+1. A **cheat sheet** of essential Linux commands and concepts relevant to Ubuntu OS:
+   - Description
+   - Use case
+   - Syntax
+   - Practical example
+
+2. A set of **tough interview questions** about Linux (Ubuntu) for a **Junior DevOps Engineer**:
+   - With model answers
+   - And explanations
+
+---
+
+```
+==============================
+LINUX (UBUNTU OS) CHEAT SHEET
+==============================
+
+1. pwd
+   - Description: Prints current working directory.
+   - Use Case: Know your location in the filesystem.
+   - Syntax: pwd
+   - Example: /home/ahmad/projects
+
+2. ls
+   - Description: Lists files and directories.
+   - Use Case: View contents of a directory.
+   - Syntax: ls [options] [path]
+   - Example: ls -l /var/log
+
+3. cd
+   - Description: Changes current directory.
+   - Use Case: Navigate filesystem.
+   - Syntax: cd <directory>
+   - Example: cd /etc/nginx
+
+4. mkdir
+   - Description: Creates a new directory.
+   - Use Case: Organize files.
+   - Syntax: mkdir <directory-name>
+   - Example: mkdir logs
+
+5. touch
+   - Description: Creates an empty file.
+   - Use Case: Create config or placeholder files.
+   - Syntax: touch <filename>
+   - Example: touch config.yaml
+
+6. rm
+   - Description: Removes files or directories.
+   - Use Case: Cleanup.
+   - Syntax: rm [options <file>
+   - Example: rm -rf /tmp/test
+
+7. cp
+   - Description: Copies files or directories.
+   - Use Case: Duplicate files.
+   - Syntax: cp <source> <destination>
+   - Example: cp app.conf /etc/nginx/
+
+8. mv
+   - Description: Moves or renames files.
+   - Use Case: Organize or rename.
+   - Syntax: mv <source> <destination>
+   - Example: mv old.log archive.log
+
+9. cat
+   - Description: Displays file content.
+   - Use Case: Quick view of files.
+   - Syntax: cat <file>
+   - Example: cat /etc/os-release
+
+10. grep
+    - Description: Searches for patterns in files.
+    - Use Case: Filter logs or config.
+    - Syntax: grep "pattern" <file>
+    - Example: grep "error" /var/log/syslog
+
+11. find
+    - Description: Finds files by name or pattern.
+    - Use Case: Locate files.
+    - Syntax: find <path> -name <filename>
+    - Example: find / -name nginx.conf
+
+12. chmod
+    - Description: Changes file permissions.
+    - Use Case: Secure files.
+    - Syntax: chmod <mode> <file>
+    - Example: chmod 644 config.yaml
+
+13. chown
+    - Description: Changes file ownership.
+    - Use Case: Assign correct user/group.
+    - Syntax: chown <user>:<group> <file>
+    - Example: chown www-data:www-data index.html
+
+14. ps
+    - Description: Lists running processes.
+    - Use Case: Monitor system.
+    - Syntax: ps aux
+    - Example: ps aux | grep nginx
+
+15. top / htop
+    - Description: Real-time system monitoring.
+    - Use Case: Check CPU/memory usage.
+    - Syntax: top or htop
+    - Example: htop
+
+16. systemctl
+    - Description: Manages system services.
+    - Use Case: Start/stop services.
+    - Syntax: systemctl <action> <service>
+    - Example: systemctl restart nginx
+
+17. journalctl
+    - Description: Views system logs.
+    - Use Case: Troubleshooting.
+    - Syntax: journalctl -u <service>
+    - Example: journalctl -u ssh
+
+18. df -h
+    - Description: Shows disk usage.
+    - Use Case: Monitor storage.
+    - Syntax: df -h
+
+19. du -sh
+    - Description: Shows directory size.
+    - Use Case: Check space usage.
+    - Syntax: du -sh <directory>
+    - Example: du -sh /var/log
+
+20. apt
+    - Description: Package manager for Ubuntu.
+    - Use Case: Install/update packages.
+    - Syntax: apt install <package>
+    - Example: apt install nginx
+
+==============================
+INTERVIEW QUESTIONS: LINUX (UBUNTU OS)
+==============================
+
+Q1: How would you check which process is using the most CPU?
+Answer: Use `top` or `htop` to view real-time CPU usage. Sort by CPU column to find the highest.
+Explanation: Shows familiarity with system performance tools.
+
+---
+
+Q2: What is the difference between `chmod 755` and `chmod 644`?
+Answer: `755` gives execute permission to owner and read/execute to others. `644` gives read/write to owner and read-only to others.
+Explanation: Demonstrates understanding of file permission models.
+
+---
+
+Q3: How do you find a file named `nginx.conf` anywhere on the system?
+Answer: Use `find / -name nginx.conf`
+Explanation: Shows command-line proficiency and file system navigation.
+
+---
+
+Q4: How do you restart a service in Ubuntu?
+Answer: Use `systemctl restart <service-name>`, e.g., `systemctl restart nginx`
+Explanation: Demonstrates service management knowledge.
+
+---
+
+Q5: What is the difference between `ps` and `top`?
+Answer: `ps` shows a snapshot of processes, while `top` shows real-time updates.
+Explanation: Shows understanding of process monitoring tools.
+
+---
+
+Q6: How do you check disk usage in Ubuntu?
+Answer: Use `df -h` for overall disk usage and `du -sh <dir>` for specific directory size.
+Explanation: Demonstrates system resource awareness.
+
+---
+
+Q7: How do you install a package in Ubuntu?
+Answer: Use `apt install <package-name>`, e.g., `apt install curl`
+Explanation: Shows package management skills.
+
+---
+
+Q8: How do you view logs for a specific service?
+Answer: Use `journalctl -u <service-name>`, e.g., `journalctl -u nginx`
+Explanation: Demonstrates troubleshooting ability.
+
+---
+
+Q9: What is the difference between `COPY` and `ADD` in Dockerfile when used on Ubuntu?
+Answer: `COPY` copies files, `ADD` can also extract archives and fetch URLs.
+Explanation: Shows Dockerfile knowledge in Ubuntu context.
+
+---
+
+Q10: How do you change ownership of a file?
+Answer: Use `chown <user>:<group> <file>`, e.g., `chown www-data:www-data index.html`
+Explanation: Demonstrates file system permission management.
+
+```
+
+---
+
+Would you like me to generate this as a downloadable `.txt` file named `linux-ubuntu.txt`?
+
+Also, I can prepare similar files for:
+- **Git/GitHub**
+- **Jenkins**
+- **Kubernetes**
+- **Terraform**
+- **AWS EC2/S3/EKS/ECS**
+
+Let me know what you'd like next!]

@@ -1,0 +1,22 @@
+Project 7: DevSecOps Pipeline
+
+Tools:
+- GitHub Actions or Jenkins
+- Trivy (for image scanning)
+- SonarQube (for code analysis)
+- Docker
+
+Steps:
+1. Set up a sample app with Dockerfile and source code.
+2. Create a CI pipeline using GitHub Actions or Jenkins.
+3. Add steps to:
+   - Run unit tests
+   - Scan code with SonarQube
+   - Scan Docker image with Trivy
+   - Build and push Docker image
+4. Fail the pipeline if critical vulnerabilities are found.
+5. Generate reports and store as artifacts.
+
+Bonus:
+- Integrate with Jira or GitHub Issues for vulnerability tracking.
+- Add secrets scanning and license checks.

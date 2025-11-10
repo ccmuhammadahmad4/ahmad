@@ -1,0 +1,19 @@
+Project 6: GitOps with ArgoCD
+
+Tools:
+- ArgoCD
+- Kubernetes
+- GitHub
+- Helm or Kustomize
+
+Steps:
+1. Set up a Kubernetes cluster (Minikube or cloud).
+2. Install ArgoCD in the cluster.
+3. Create a Git repository with your app manifests or Helm charts.
+4. Connect ArgoCD to the Git repository.
+5. Create an ArgoCD Application resource to track the repo.
+6. Deploy the app via Git commits and observe auto-sync.
+
+Bonus:
+- Enable RBAC for access control.
+- Set up ArgoCD notifications and audit logging.

@@ -1,0 +1,393 @@
+﻿Slide 1
+AI, Assumptions and bias
+
+Slide 2
+Assumptions
+An assumption is an unproven or untested belief, thought, or hypothesis that is accepted as true without concrete evidence. Assumptions can be:1. Unconscious (not realizing you're making one)2. Based on incomplete information3. Influenced by personal experiences or cultural backgroundExample: "He's probably tired today because he looks sleepy." (assuming without knowing the facts)
+
+Slide 3
+Assumptions about the Future
+Making assumptions about the future is not a problem but believing that they are facts can be.There are no facts about the futureTo critically evaluate information:Recognize assumptions and challenge them with evidence.Identify potential biases and consider alternative perspectives.Seek diverse sources and objective data.
+
+Slide 4
+Bias
+Refers to a systematic or inherent predisposition, prejudice, or distortion that influences thinking, perception, or decision-making. Biases can be:Cognitive (mental shortcuts or heuristics)Emotional (based on feelings or attitudes)Cultural (shaped by societal norms or values)Example: Back Benchers are incompetent and slow learners
+
+Slide 5
+Bias
+Bias often leads to assumptions and can result in:Skewed interpretationsDiscriminationInaccurate judgmentsExample: "Women are naturally better caregivers than men." (gender bias leading to an assumption)
+
+Slide 6
+Key differences
+Assumptions are specific, individual beliefs, whereas biases are broader, systemic predispositions.Assumptions can be corrected with evidence, whereas biases often require self-awareness and intentional effort to overcome.Assumptions might be harmless, whereas biases can lead to harmful consequences.
+
+Slide 7
+Bias in AI can be introduced in many forms, from data to methods and algorithms, and it negatively affects people as well as research quality. It also impacts upon an increasing amount of areas, including sensitive ones, such as healthcare, law, criminal justice, hiring.An important task for researchers is to use AI to identify and reduce (human or machine) biases, as well as improve AI systems, to prevent introducing and perpetuating bias.
+
+Slide 8
+Categories of bias in AI•
+Researchers have identified three categories of bias in AI:
+•
+Algorithmic prejudice occurs when there is a statistical dependencebetween protected features and other information used to make adecision.Negative legacy refers to bias already present in the data used to train the AI model.Underestimation occurs when there is not enough data for the model to make confident conclusions for some segments of the population.
+•
+•
+
+Slide 9
+Sources of BiasTraining Data: If the data used to train an AI model reflects historical inequalities or stereotypes, the model can learn and perpetuate these biases. For instance, if a hiring algorithm is trained on resumes from a historically biased hiring process, it may favor certain demographics over others.Feature Selection: The choice of features included in the model can introduce bias. For example, using postal codes as a feature can unintentionally correlate with racial or socioeconomic status.Model Design: Certain algorithms may inherently amplify biases present in the data. Some models may be more sensitive to imbalances than others.
+
+Slide 10
+Consequences of BiasDiscrimination: Biased AI can lead to unfair treatment in areas like hiring, law enforcement, lending, and healthcare.Erosion of Trust: If people perceive AI systems as biased, it can erode trust in these technologies and the organizations that deploy them.Reinforcement of Stereotypes: Biased outcomes can reinforce societal stereotypes and systemic inequalities.
+
+Slide 11
+Mitigation StrategiesDiverse Data Collection: Ensuring that training data is representative of all groups can help mitigate bias. This includes actively seeking out underrepresented populations.Bias Audits: Regularly auditing AI systems for bias can help identify and correct unfair practices.Transparency: Making algorithms and their decision-making processes transparent can help stakeholders understand how decisions are made and hold organizations accountable.Ethical Guidelines: Establishing and adhering to ethical guidelines in AI development can help prioritize fairness and equity.User Involvement: Involving diverse users in the design and testing phases can provide valuable perspectives on potential biases.
+
+Slide 12
+AI in hiring and recruitment
+Mounting evidence and case studies that AI based hiring systems amplify existing human biases. Express discrimination based on race and gender.Research conducted by AI Implicit Bias Lab found that AI-powered platforms “reflect, recreate, and reinforce anti-Black bias....”Job applicants’ user profiles such as language, video, or voice data have lots of places where bias can lurk.Amazon’s algorithm was applied to CVs, it quickly learned the bias to prefer male candidates over female ones (the disparate impact), and therefore, penalized resumes that contained the word vectors in the vicinity of women, such as women's  chess  club  captain.
+
+Slide 13
+AI in hiring and recruitment
+Follow it here: https://github.com/daviddao/awful-ai.
+
+Slide 14
+AI in hiring and recruitment
+Follow it here: https://github.com/daviddao/awful-ai.
+
+Slide 15
+A
+t
+A chatbot is a form of AI which conducts a conversation via auditory or textual methods
+Meet Microsoft twitter chatbot: Tay
+shut  down 16 hours  after  launch
+released March 23 2016
+official apology  on Microsoftblog
+learns from interactingwith people on twitter
+Twitter ‘trolls’ tookadvantage of Tay's "repeat after me" capability by deliberately inputting offensive messages
+mimicks the languagepatterns of a 19-year- old American girl
+inflammatory and
+racist outputs from Tay
+
+Slide 16
+AI in Policing and surveillance
+Predictive policing is an object of major concern where police departments can predict hotspots for future crime.AI is being provided with input such as  social media messages, which are then combined with satellite imagery to predict dissent gatherings and mass protests.For Uyghurs, specialized cameras were used to automatically identify one of the world’s most persecuted minoritiesusing Anyvision’s Facial Recognition, which was previously funded by Microsoft.Over-policing the neighborhoods of people of color, essentially exacerbating the existing situation.
+
+Slide 17
+COMPAS Algorithm: Correctional Offender
+Management
+Profiling
+for
+Alternative
+Sanctions
+used in state courtsystems throughout theUnited States
+predictslikeliness of criminal reoffending;
+Black defendants
+were almost
+twice as likely to be misclassified with a higher risk of
+reoffending (45%) in comparison to their white counterparts (23%).
+
+Slide 18
+Bias: Skewed input data
+••
+Nature, 2018: https://www.nature.com/articles/d41586-018-05707-8ML trained on large, annotated data sets (ImageNet, a set of more than 14 million labelled images; NLP: corpora of billions of words)Sources: Google Images, Google News, w. specific query terms;Wikipedia. Annotated via e.g. Amazon Mechanical Turk.Issue:• some groups over-represented, others are under-represented.• > 45% of ImageNet data, is from US, (4% world population). China & Indiacontribute 3% of ImageNet data & represent 36% of the world’s population.
+•
+•
+
+Slide 19
+FacebookAds tailored to demographic background
+Ads
+Facebook said  thatthey have  “made
+important changes”
+jobs such as nurses, secretaries and preschoolteachers were suggested primarily to women
+job ads for janitors and taxi drivers had been shown  to ahigher number of men, moreover  men of minorities
+
+Slide 20
+GIPHY: Gender
+classification
+via
+iris
+information
+machine learning  algorithms canwork out someone's gender from apicture of their iris
+images of eyes  withand without eyeliner
+gender from eye makeup?
+
+Slide 21
+Facebook translation• in October 2017  the Israel police mistakenly arrested a Palestinian after
+relying on automatic translation software. The service translated apicture of the construction site worker "good morning" as "attack them".
+
+Slide 22
+Apple’s
+new
+credit
+card
+Goldman Sachs, which issues thecard, said its credit decisionswere “based on a customer’screditworthiness and not onfactors like gender, race, age,sexual orientation or any otherbasis prohibited by law.”
+Apple’s new creditcard may give
+higher limits to men
+than to women
+
+Slide 23
+Google & Amazon
+•
+artificial intelligence services from Google and Amazonboth failed to recognize the word “hers” as a pronoun,but correctly identified “his.” (Nov 11, R. Munro)
+Today, “hers” is not recognized as a pronoun by the mostwidely used technologies for Natural Language Processing(NLP), including (alphabetically)  Amazon Comprehend,  Google
+Natural Language API, and the  Stanford Parser.
+
+Slide 24
+Bias in archives, libraries
+•
+List of statements on bias in library and archives description –
+Cataloging Lab
+•
+Australian Institute of Aboriginal and Torres Strait Islander Studies(AIATSIS). [Sensitivity message appears as a pop-up with information
+about language used in resources]Australian War Memorial.  Disclaimer [along with pop-up withinformation about language used in resources]Brown University Library.  Terminology [statement on AfricanAmerican history description]…
+•
+•
+•
+Archival silences refer to the erasure of archives, and historiesof marginalized communities within traditional archivalholdings.
+Silence and Bias in Archives - Archives and Special Collections -
+Research Guides at Ryerson University Library
+
+Slide 25
+Bias in museums•  Why sexist bias in natural history museums really matters | Science |
+The Guardian …
+Museums & Truth. The Truth
+is, there is More Than one
+Truth! - MuseumNext
+a stereotypical museumculture which focuses oncollecting and showcasingthe stories, successes, andworks of the white male insociety.
+
+Slide 26
+What is the future of your AI category, including your fears?
+
+Slide 27
+
+Slide 28
+In the Future ………
+What is the answer to your burning question?
+I fear that ………
+
+Slide 29
+What are the Assumptions you have made?
+
+Slide 30
+Language is not TransparentMel Bochner
+
+Slide 31
+
+Slide 32
+
+Slide 33
+Mt Eliza Executive Education, Melbourne Business School, Ranked Number 1 in Asia-pacific business schools
+
+Slide 34
+A global classroom – one Bangladeshi lecturer
+Khanacademy.org3400+ video lessons, 46,162,903 lessons delivered. All free. 170 million plus views
+
+Slide 35
+Creating alternative futures
+Tradition, Accreditation
+A la Carte -  app university
+The garden university
+One person, 50 million students
+
+Slide 36
+Assumptions about Privacy
+
+Slide 37
+
+Slide 38
+
+Slide 39
+
+Slide 40
+A dramatic different future
+
+Slide 41
+
+Slide 42
+Unpacking assumptions
+
+Slide 43
+
+Slide 44
+The Need for Deconstruction of Stories
+Acceptance of AbuseGender Roles Cultural Stereotypes Insensitivity to Suffering
+
+Slide 45
+From Deconstruction to Reconstruction
+Children at preschool age do not just listen to a story or sing a rhyme or learn their vocabulary. They keenly engage with them, relate to their characters and situations, develop mental categories and cultural sensibilities, and try to imagine their world through them.Our children deserve better stories (and rhymes), and they have a right to wholesome childhood experiences that would nurture their hearts and minds and help them become conscious and caring human beings. 
+
+Slide 46
+Insensitivity to Suffering
+Jack and Jill went up the hill To fetch a pail of waterJack fell down and broke his crown And Jill came tumbling after
+
+Slide 47
+Acceptability of abuse
+Cinderella (emotional abuse of a child by stepmother and stepsisters),Rapunzel (sacrifice of a female child by her parents;    imprisonment and mental abuse by a witch) Beauty and the Beast ( sacrifice of a female child to save patriarch) Snow White (physical abuse which evolves into attempted murder) Hansel and Gretel (child neglect and abandon by parents, physical abuse and attempted murder by witch) The Little Red Riding Hood (well established reputation of the wolf as a child predator)
+
+Slide 48
+Reconstruction 
+Possible strategies:  1. Using new and contemporary  stories. Revising stories in the curriculum which promote violence, gender and cultural stereotypes.  2. Retelling of the traditional, widely known stories. 
+
+Slide 49
+Advantages of the second approach (retelling of familiar stories)
+Implicit critique of less desirable way of behaving and communicating. 2. Explicit description of desired ways of behaving and communicating. Educating about available alternatives. 3. Promotion of critical literacy amongst children (i.e. how to make informed choice between alternative ways of  behaving and communicating with others). 4. Promotion of dialogue. 5. Inspiring creativity – children  writing their own stories.
+
+Slide 50
+New Stories for Different Presents and Futures
+• Removal of stereotypes • New gender roles, positive gender models • Contemporary subjects/problems: image issues, substance abuse, violence in schools, ecological damage • Critical reading of traditional stories followed by creating of different versions of stories, inspiring creativity  • Development of environmental education
+
+Slide 51
+Deconstruction of destructive stories/narratives
+Traditional (insensitivity to suffering):Jack and Jill went up the hill To fetch a pail of waterJack fell down and broke his crown And Jill came tumbling afterRewritten:Jack and Jill went up the hillTo fetch a pail of water.Jack fell down, but didn’t frown,And Jill came laughing after.
+
+Slide 52
+
+Slide 53
+Lies, Damned lies, and Statistics
+
+Slide 54
+
+Slide 55
+
+Slide 56
+
+Slide 57
+What is bias in AI?• Explicit, rule-based AI:
+IF
+sees(system,
+me)
+THEN
+output(‘You
+are
+right!’)
+IF
+sees(system,
+my(archenemy))
+THEN
+greet(‘You
+are
+wrong!’)
+
+Slide 58
+What is bias in AI?Explicit, rule-based AI:
+•
+IF
+sees(system,
+me)
+THEN
+output(‘You
+are
+right!’)
+IF
+sees(system,
+my(archenemy))
+THEN
+greet(‘You
+are
+wrong!’)
+•
+‘black-box’
+shallow NN:
+train
+on
+•
+‘black-box’
+deep NN:
+
+Slide 59
+What is bias in AI?Explicit, rule-based AI:
+•
+IF
+sees(system,
+me)
+THEN
+output(‘You
+are
+right!’)
+IF
+sees(system,
+my(archenemy))
+THEN
+greet(‘You
+are
+wrong!’)
+•
+‘black-box’
+shallow NN:
+train
+on
+You are right!
+You are wrong!
+•
+‘black-box’
+deep NN:
+Output
+Hidden Layer
+Input
+
+Slide 60
+What is bias in AI?Explicit, rule-based AI:
+•
+IF
+sees(system,
+me)
+THEN
+output(‘You
+are
+right!’)
+IF
+sees(system,
+my(archenemy))
+THEN
+greet(‘You
+are
+wrong!’)
+•
+‘black-box’
+shallow NN: train on
+You are right!
+You are wrong!
+•
+‘black-box’
+deep NN: train on
+Output
+Hidden Layer
+Input
+
+Slide 61
+What is bias in AI?Explicit, rule-based AI:
+•
+IF
+sees(system,
+me)
+THEN
+output(‘You
+are
+right!’)
+IF
+sees(system,
+my(archenemy))
+THEN
+greet(‘You
+are
+wrong!’)
+•
+‘black-box’
+shallow NN: train on
+You are right!
+You are wrong!
+•
+‘black-box’
+deep NN: train on
+You are
+right!
+…
+You are wrong!
+Output
+Hidden Layer
+Output
+Hidden Layer
+Hidden Layer
+Hidden Layer
+Input
+Input
+

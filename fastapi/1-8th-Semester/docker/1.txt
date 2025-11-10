@@ -1,0 +1,183 @@
+Perfect! Here's what I’ve prepared for you:
+
+---
+
+## ✅ Docker Commands + Interview Questions `.txt` Content
+
+I’ll now generate the full content below. You can copy and save it as a `.txt` file.
+
+---
+
+```
+==============================
+DOCKER COMMANDS CHEAT SHEET
+==============================
+
+1. docker --version
+   - Description: Shows installed Docker version.
+   - Use Case: Verify Docker installation.
+   - Example: docker --version
+
+2. docker pull <image-name>
+   - Description: Downloads image from Docker Hub.
+   - Use Case: Get base image.
+   - Example: docker pull nginx
+
+3. docker images
+   - Description: Lists downloaded images.
+   - Use Case: Check available images.
+   - Example: docker images
+
+4. docker run <options> <image-name>
+   - Description: Runs a container.
+   - Use Case: Start container.
+   - Example: docker run -d -p 8080:80 nginx
+
+5. docker ps
+   - Description: Lists running containers.
+   - Use Case: Monitor containers.
+   - Example: docker ps
+
+6. docker ps -a
+   - Description: Lists all containers.
+   - Use Case: Audit history.
+   - Example: docker ps -a
+
+7. docker stop <container-id>
+   - Description: Stops container.
+   - Use Case: Graceful shutdown.
+   - Example: docker stop webserver
+
+8. docker rm <container-id>
+   - Description: Removes stopped container.
+   - Use Case: Cleanup.
+   - Example: docker rm webserver
+
+9. docker rmi <image-id>
+   - Description: Removes image.
+   - Use Case: Free space.
+   - Example: docker rmi nginx
+
+10. docker exec -it <container-name> <command>
+    - Description: Run command inside container.
+    - Use Case: Debugging.
+    - Example: docker exec -it webserver bash
+
+11. docker build -t <image-name> <path>
+    - Description: Build image from Dockerfile.
+    - Use Case: Custom image.
+    - Example: docker build -t myapp .
+
+12. docker logs <container-name>
+    - Description: View container logs.
+    - Use Case: Troubleshooting.
+    - Example: docker logs webserver
+
+13. docker-compose up
+    - Description: Start services from docker-compose.yml.
+    - Use Case: Multi-container apps.
+    - Example: docker-compose up -d
+
+14. docker-compose down
+    - Description: Stop and remove services.
+    - Use Case: Cleanup.
+    - Example: docker-compose down
+
+15. docker inspect <container-name>
+    - Description: Detailed info.
+    - Use Case: Metadata/debug.
+    - Example: docker inspect webserver
+
+16. docker network ls
+    - Description: List networks.
+    - Use Case: Network management.
+    - Example: docker network ls
+
+17. docker volume ls
+    - Description: List volumes.
+    - Use Case: Storage management.
+    - Example: docker volume ls
+
+18. docker tag <image-id> <repo>:<tag>
+    - Description: Tag image.
+    - Use Case: Prepare for push.
+    - Example: docker tag myapp myrepo/myapp:v1
+
+19. docker push <repo>:<tag>
+    - Description: Push image to Docker Hub.
+    - Use Case: Share image.
+    - Example: docker push myrepo/myapp:v1
+
+20. docker login
+    - Description: Authenticate to Docker Hub.
+    - Use Case: Required before push.
+    - Example: docker login
+
+==============================
+INTERVIEW QUESTIONS: DOCKER
+==============================
+
+Q1: What is the difference between a Docker image and a Docker container?
+Answer: A Docker image is a blueprint for a container. It contains the application code, libraries, and dependencies. A container is a running instance of an image.
+Explanation: This shows understanding of Docker architecture and runtime behavior.
+
+---
+
+Q2: How does Docker ensure isolation between containers?
+Answer: Docker uses Linux namespaces and cgroups to isolate containers. Each container has its own network stack, process tree, and filesystem.
+Explanation: Demonstrates knowledge of underlying OS-level isolation mechanisms.
+
+---
+
+Q3: What is the purpose of the `docker-compose` tool?
+Answer: `docker-compose` allows you to define and run multi-container applications using a YAML file. It simplifies orchestration and service linking.
+Explanation: Shows practical understanding of multi-service deployment.
+
+---
+
+Q4: How would you debug a container that is crashing immediately after starting?
+Answer: I would use `docker logs <container>` to check logs, then `docker inspect` for metadata. If needed, I’d run the container with an interactive shell using `docker run -it`.
+Explanation: Demonstrates troubleshooting skills and command fluency.
+
+---
+
+Q5: What is the difference between `CMD` and `ENTRYPOINT` in a Dockerfile?
+Answer: `CMD` provides default arguments for the container, while `ENTRYPOINT` defines the executable. `ENTRYPOINT` is always run, `CMD` can be overridden.
+Explanation: Shows deep understanding of Dockerfile behavior.
+
+---
+
+Q6: How do you persist data in Docker containers?
+Answer: By using Docker volumes or bind mounts. Volumes are managed by Docker and are ideal for persistent storage.
+Explanation: Highlights awareness of data management in containers.
+
+---
+
+Q7: What is the difference between `docker run` and `docker start`?
+Answer: `docker run` creates and starts a new container. `docker start` starts an existing stopped container.
+Explanation: Shows understanding of container lifecycle.
+
+---
+
+Q8: How do you reduce the size of a Docker image?
+Answer: Use multi-stage builds, remove unnecessary packages, and clean up cache layers. Use minimal base images like Alpine.
+Explanation: Demonstrates optimization skills.
+
+---
+
+Q9: What is the role of the Docker daemon?
+Answer: The Docker daemon (`dockerd`) manages Docker objects like containers, images, networks. It listens to Docker API requests.
+Explanation: Shows understanding of Docker’s architecture.
+
+---
+
+Q10: How would you secure Docker containers in production?
+Answer: Use non-root users, limit container capabilities, scan images for vulnerabilities, and isolate containers with user namespaces.
+Explanation: Demonstrates security awareness and best practices.
+
+```
+
+---
+
+Would you like me to email or export this as a downloadable `.txt` file?  
+Also, I can generate similar sheets for **Kubernetes**, **Terraform**, or **AWS services** if you'd like!

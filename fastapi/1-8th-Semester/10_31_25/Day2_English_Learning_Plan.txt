@@ -1,0 +1,71 @@
+Day 2 English Learning Plan for Muhammad Ahmad
+--------------------------------------------------
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate
+🎯 Focus: Writing, Speaking, Meetings, Emails, Presentations
+
+--------------------------------------------------
+1. Grammar Practice: Present Continuous Tense
+--------------------------------------------------
+🔹 Use: Actions happening now or around the current time.
+🔹 Structure: Subject + am/is/are + verb-ing
+
+✅ Examples:
+- I am deploying the latest build to staging.
+- We are monitoring the system for any issues.
+
+🎯 Your Task:
+Write 2 sentences about what you are doing today using present continuous tense.
+
+--------------------------------------------------
+2. Vocabulary Practice: DevOps & Workplace
+--------------------------------------------------
+Learn these 5 new words:
+
+| Word         | Meaning                          | Example Sentence                         |
+|--------------|----------------------------------|------------------------------------------|
+| **Release**  | Launch a new version             | We are preparing for the next release.   |
+| **Downtime** | Period when system is unavailable| The server had 2 hours of downtime.      |
+| **Alert**    | Notification of an issue         | We received an alert from monitoring.    |
+| **Script**   | A set of commands                | I wrote a script to automate backups.    |
+| **Repository**| Storage for code                | The code is pushed to the Git repository.|
+
+🎯 Your Task:
+Use 2 of these words in your own sentences.
+
+--------------------------------------------------
+3. Writing Practice: Email to Team
+--------------------------------------------------
+✉️ Prompt:
+Write an email to your team informing them that the deployment of the BGS AI project is scheduled for tomorrow at 3 PM.
+
+✅ Example:
+Subject: Deployment Schedule for BGS AI Project
+
+Dear Team,
+
+I hope you are doing well. I want to inform you that the deployment for the BGS AI project is scheduled for tomorrow at 3 PM. Please ensure all pre-deployment checks are completed by noon.
+
+Let me know if you have any questions.
+
+Best regards,
+Muhammad Ahmad
+
+🎯 Your Task:
+Write your own version of this email.
+
+--------------------------------------------------
+4. Speaking Practice: Describe a Task
+--------------------------------------------------
+🎤 Prompt:
+Describe one task you completed this week. Use 3–4 sentences.
+
+✅ Example:
+This week, I configured the CI/CD pipeline for our new microservice. I faced some issues with the Docker image, but I resolved them by updating the build script. Now the pipeline runs smoothly and deploys automatically.
+
+🎯 Your Task:
+Write your version and practice speaking it aloud.
+
+--------------------------------------------------
+Keep practicing daily. You're doing great, Ahmad! 💪

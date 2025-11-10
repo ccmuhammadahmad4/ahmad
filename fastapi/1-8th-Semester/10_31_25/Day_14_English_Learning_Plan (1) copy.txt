@@ -1,0 +1,52 @@
+Day 14 English Learning Plan for Muhammad Ahmad
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate
+📅 Day 14 Focus: Gerunds and Infinitives, Vocabulary, Writing, Speaking
+
+---
+
+🔤 Grammar Focus: Gerunds and Infinitives
+
+✅ Gerunds (-ing form) are used as subjects or after certain verbs:
+- Example: Monitoring logs is important.
+- Example: I enjoy solving deployment issues.
+
+✅ Infinitives (to + base verb) are used after certain verbs or to express purpose:
+- Example: I plan to automate the pipeline.
+- Example: We need to rollback the release to fix the issue.
+
+🎯 Practice:
+Write 2 sentences using gerunds and 2 using infinitives related to your DevOps work.
+
+---
+
+🧠 Vocabulary Practice (Day 14)
+
+| Word         | Meaning                          | Example Sentence                         |
+|--------------|----------------------------------|------------------------------------------|
+| **Automate** | To make a process operate itself | We automate the deployment steps.        |
+| **Latency**  | Delay in processing               | High latency affects user experience.    |
+| **Trigger**  | To start a process                | A commit triggers the CI/CD pipeline.    |
+| **Provision**| To set up resources               | We provision servers using Terraform.    |
+| **Alert**    | Notification of an issue          | The system sends alerts on failure.      |
+
+---
+
+✉️ Writing Practice
+
+**Prompt:**  
+Write an email to your team explaining that you plan to automate the backup process using a new script, and you need their feedback before deployment.
+
+---
+
+🎤 Speaking Practice
+
+**Prompt:**  
+Describe a task you enjoy doing in DevOps using gerunds and infinitives.  
+Example:  
+> I enjoy monitoring the staging environment. I plan to improve the alert system to catch issues faster.
+
+---
+
+Keep practicing and let me know when you're ready for Day 15! 😊

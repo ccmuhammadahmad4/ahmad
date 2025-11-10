@@ -1,0 +1,65 @@
+
+Day 22 English Learning Plan for Muhammad Ahmad
+===============================================
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate English
+
+---
+
+📘 Grammar Focus: Subject-Verb Agreement
+---------------------------------------
+Understanding how subjects and verbs must agree in number (singular/plural).
+
+✅ Examples:
+- He monitors the server daily. ✅
+- They monitor the logs every morning. ✅
+
+🎯 Practice:
+Write 3 sentences about your daily DevOps tasks using correct subject-verb agreement.
+
+---
+
+🧠 Vocabulary Practice: DevOps Terms
+------------------------------------
+| Word         | Meaning                          | Example Sentence                         |
+|--------------|----------------------------------|------------------------------------------|
+| **Trigger**  | Start a process automatically     | The pipeline triggers after each commit. |
+| **Alert**    | Notification of an issue          | We received an alert about high CPU usage. |
+| **Downtime** | Period when system is unavailable | We had 2 hours of downtime last night.   |
+| **Latency**  | Delay in processing               | The latency increased during peak hours. |
+| **Patch**    | Software update or fix            | We applied a security patch yesterday.   |
+
+🎯 Task:
+Use each word in a sentence related to your work.
+
+---
+
+✉️ Writing Practice: Status Update Email
+----------------------------------------
+**Prompt:**  
+Write an email to your team informing them that the latency issue in the production environment has been resolved after applying a patch.
+
+Structure:
+- Greeting
+- Brief update
+- Action taken
+- Next steps (if any)
+- Closing
+
+---
+
+🎤 Speaking Practice: Explaining a Fix
+-------------------------------------
+**Prompt:**  
+Describe in 3–4 sentences how you resolved a recent issue in your DevOps work. Include:
+- What the issue was
+- What steps you took
+- What the result was
+
+🎯 Tip:
+Practice speaking slowly and clearly. Record yourself and listen back to improve fluency.
+
+---
+
+You're doing great, Ahmad! Let me know when you're ready for Day 23 😊

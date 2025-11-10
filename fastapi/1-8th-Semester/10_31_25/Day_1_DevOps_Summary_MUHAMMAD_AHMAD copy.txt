@@ -1,0 +1,61 @@
+Day 1 DevOps Summary – MUHAMMAD AHMAD
+
+Learning Goals:
+- Improve English for interviews
+- Master public speaking skills
+- Build confidence in professional communication
+
+Part 1: DevOps Vocabulary Practice (10 Key Terms)
+1. CI/CD – Continuous Integration / Continuous Deployment
+   Example: "We use CI/CD pipelines to automate testing and deployment."
+2. Version Control – System to track changes in code
+   Example: "Git helps us manage version control efficiently."
+3. Repository – A storage location for code
+   Example: "I pushed the latest changes to the GitHub repository."
+4. Pipeline – A set of automated steps in CI/CD
+   Example: "Our pipeline includes build, test, and deploy stages."
+5. Container – A lightweight, portable software package
+   Example: "We use Docker containers for app deployment."
+6. Orchestration – Managing multiple containers
+   Example: "Kubernetes handles orchestration of our microservices."
+7. Infrastructure as Code (IaC) – Managing infrastructure using code
+   Example: "We use Terraform for IaC to provision servers."
+8. Monitoring – Tracking system performance
+   Example: "Prometheus helps us monitor our services."
+9. Deployment – Releasing software to production
+   Example: "We deploy new features every week."
+10. Rollback – Reverting to a previous version
+    Example: "We had to rollback due to a bug in the latest release."
+
+Task: Write 3 sentences using any of the above terms.
+
+Part 2: Self Introduction Template
+"Hi, my name is MUHAMMAD AHMAD. I’m currently working as a Junior DevOps Engineer. I have experience working with tools like Git, Jenkins, Docker, and Kubernetes. I’m passionate about automation and improving deployment processes. My goal is to become a Senior DevOps Engineer and contribute to building scalable and reliable systems."
+
+Task: Write or record your own version of this introduction.
+
+Part 3: Git Command Explanations
+git init           – Initialize a new Git repository
+git clone <url>    – Clone a repository
+git status         – Check status of files
+git add .          – Stage all changes
+git commit -m ""message""  – Commit changes
+git push origin main     – Push to remote repository
+git pull           – Pull latest changes
+git branch         – List branches
+git checkout -b <branch-name>  – Create and switch to a new branch
+
+Task: Write short English explanations for each command.
+
+Part 4: Email Practice
+Sample Email:
+Subject: Daily Update – DevOps Tasks
+
+Dear Sir,
+
+I hope you are doing well. Today, I worked on configuring Jenkins pipelines and troubleshooting a Docker container issue. I plan to continue testing tomorrow and will update you on the progress.
+
+Best regards,
+MUHAMMAD AHMAD
+
+Task: Write a short email to your manager (MUHAMMAD SIDDIQUE) about what you worked on today.

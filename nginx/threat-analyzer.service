@@ -1,0 +1,19 @@
+[Unit]
+Description=Threat Analyzer Web Application
+After=network.target
+
+[Service]
+Type=exec
+User=abdulrehman
+Group=abdulrehman
+WorkingDirectory=/home/abdulrehman/threat_analyzer_web/threat_analyzer_web
+Environment=PATH=/home/abdulrehman/threat_analyzer_web/venv/bin
+ExecStart=/home/abdulrehman/threat_analyzer_web/venv/bin/gunicorn --config gunicorn-config.py wsgi:application
+ExecReload=/bin/kill -s HUP $MAINPID
+Restart=on-failure
+RestartSec=5
+KillMode=mixed
+TimeoutStopSec=30
+
+[Install]
+WantedBy=multi-user.target

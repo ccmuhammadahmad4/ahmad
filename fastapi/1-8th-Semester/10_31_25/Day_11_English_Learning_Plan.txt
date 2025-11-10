@@ -1,0 +1,70 @@
+Day 11 English Learning Plan for Muhammad Ahmad
+--------------------------------------------------
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 English Level: Intermediate
+📅 Focus Areas: Grammar (Reported Speech), Vocabulary, Writing, Speaking
+
+--------------------------------------------------
+1️⃣ Grammar Practice: Reported Speech
+--------------------------------------------------
+🔹 Rule: Reported speech is used to tell what someone said without quoting them directly.
+🔹 Structure: Change the tense, pronouns, and time expressions.
+
+Examples:
+- Direct: He said, "I deploy the code every Friday."
+- Reported: He said that he deployed the code every Friday.
+
+- Direct: She said, "We are monitoring the staging environment."
+- Reported: She said that they were monitoring the staging environment.
+
+🎯 Practice:
+Convert these into reported speech:
+1. Ahmad said, "I fixed the pipeline issue."
+2. The manager said, "We will deploy the update tomorrow."
+
+--------------------------------------------------
+2️⃣ Vocabulary Practice: DevOps & Workplace
+--------------------------------------------------
+| Word         | Meaning                          | Example Sentence                         |
+|--------------|----------------------------------|------------------------------------------|
+| **Trigger**  | To start a process automatically | The script triggers the deployment.      |
+| **Alert**    | Notification of an issue         | We received an alert about high CPU usage.|
+| **Downtime** | Period when system is unavailable| The server had 2 hours of downtime.      |
+| **Patch**    | Software update to fix issues    | We applied a patch to resolve the bug.   |
+| **Latency**  | Delay in processing               | High latency affects user experience.    |
+
+🎧 Tip: Practice pronunciation and use each word in a sentence.
+
+--------------------------------------------------
+3️⃣ Writing Practice: Team Update Email
+--------------------------------------------------
+✉️ Prompt:
+Write an email to your team informing them that the deployment was successful, but latency issues were detected in the staging environment.
+
+Example:
+Subject: Deployment Update and Latency Issue
+
+Dear Team,
+
+The deployment for the BGS AI project was completed successfully today. However, we noticed latency issues in the staging environment during testing. I am investigating the root cause and will share updates shortly.
+
+Regards,
+Muhammad Ahmad
+
+🎯 Task: Write your own version of this email.
+
+--------------------------------------------------
+4️⃣ Speaking Practice: Describing a Technical Issue
+--------------------------------------------------
+🎤 Prompt:
+Describe a technical issue you faced recently and how you resolved it.
+
+Example:
+Last week, I noticed that the CI/CD pipeline was failing during the build stage. After checking the logs, I found a misconfigured environment variable. I updated the configuration and triggered a new build, which completed successfully.
+
+🎯 Task: Write your version and practice speaking it aloud.
+
+--------------------------------------------------
+
+✅ Keep practicing daily. Let me know when you're ready for Day 12!

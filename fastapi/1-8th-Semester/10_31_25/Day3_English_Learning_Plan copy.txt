@@ -1,0 +1,70 @@
+Day 3 English Learning Plan for Muhammad Ahmad
+--------------------------------------------------
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 Level: Intermediate
+🎯 Focus: Writing, Speaking, Grammar, Vocabulary
+
+--------------------------------------------------
+1️⃣ Grammar Practice: Present Perfect Tense
+--------------------------------------------------
+🔹 Use: To describe actions that happened at an unspecified time or started in the past and continue now.
+🔹 Structure: Subject + has/have + past participle
+
+✅ Examples:
+- I have completed the deployment successfully.
+- We have faced this issue before.
+
+🎯 Your Task:
+Write 2 sentences using the present perfect tense about your work.
+
+--------------------------------------------------
+2️⃣ Vocabulary Practice: DevOps & Workplace
+--------------------------------------------------
+Learn these 5 new words:
+
+| Word         | Meaning                          | Example Sentence                         |
+|--------------|----------------------------------|------------------------------------------|
+| **Release**  | Launch a new version             | We plan to release version 2.0 tomorrow. |
+| **Downtime** | Period when system is unavailable| The server had 2 hours of downtime.      |
+| **Alert**    | Notification of an issue         | I received an alert about CPU usage.     |
+| **Repository**| Code storage location           | The code is in the GitHub repository.    |
+| **Automation**| Performing tasks automatically  | We use scripts for automation.           |
+
+🎯 Your Task:
+Use each word in a sentence related to your daily work.
+
+--------------------------------------------------
+3️⃣ Writing Practice: Team Update Email
+--------------------------------------------------
+✉️ Prompt:
+Write an email to your team informing them that the deployment of the new microservice was successful and monitoring is in progress.
+
+📝 Example:
+Subject: Microservice Deployment Update
+
+Dear Team,
+
+I’m pleased to inform you that the deployment of the new microservice was completed successfully. Monitoring is currently in progress, and no issues have been detected so far. Please let me know if you observe any anomalies.
+
+Regards,
+Muhammad Ahmad
+
+🎯 Your Task:
+Write your own version of this email.
+
+--------------------------------------------------
+4️⃣ Speaking Practice: Describe a Task
+--------------------------------------------------
+🎤 Prompt:
+Describe one technical task you completed this week in 3–4 sentences.
+
+📝 Example:
+This week, I configured the CI/CD pipeline for the BGS AI project. I added automated testing and deployment steps. After deployment, I monitored the staging environment for errors. Everything worked smoothly.
+
+🎯 Your Task:
+Write your version and practice speaking it aloud.
+
+--------------------------------------------------
+
+✅ Let me know when you're ready for Day 4!

@@ -1,0 +1,75 @@
+Day 26 English Learning Plan for Muhammad Ahmad
+
+👨‍💻 Role: Junior DevOps Engineer
+📈 English Level: Intermediate
+
+---
+
+📘 Grammar Focus: Conjunctions (Review and Advanced Usage)
+
+Today we will review basic conjunctions and explore advanced ones to improve sentence fluency.
+
+1. **Basic Conjunctions**: and, but, or, so, because
+   - Example: I monitor the logs and update the dashboard.
+
+2. **Advanced Conjunctions**: although, even though, whereas, while, unless
+   - Example: Although the deployment succeeded, the DNS entry was missing.
+   - Example: We use Jenkins, whereas the other team prefers GitHub Actions.
+
+🎯 Practice:
+- Write 3 sentences using advanced conjunctions related to your DevOps tasks.
+
+---
+
+🧠 Vocabulary Practice: DevOps Terms
+
+| Word         | Meaning                                 | Example Sentence                              |
+|--------------|------------------------------------------|-----------------------------------------------|
+| **Latency**  | Delay in processing                      | We noticed high latency in the API response.  |
+| **Downtime** | Period when a system is unavailable      | The server had 2 hours of downtime yesterday. |
+| **Alert**    | Notification of an issue                 | We received an alert about memory usage.      |
+| **Patch**    | Software update to fix issues            | The patch resolved the security vulnerability.|
+| **Incident** | Unexpected event affecting service       | The incident was caused by a misconfigured DNS.|
+
+🎯 Practice:
+- Write one sentence for each word based on your daily work.
+
+---
+
+✉️ Writing Practice: Status Update Email
+
+**Prompt**:  
+Write an email to your team summarizing today’s deployment status. Mention:
+- What was deployed
+- Any issues or alerts
+- Next steps
+
+**Example**:
+> Subject: Deployment Status Update  
+>  
+> Dear Team,  
+> Today's deployment of the BGS AI module was successful. However, we received an alert regarding latency in the staging environment. The issue is being investigated, and a patch will be applied tomorrow.  
+>  
+> Regards,  
+> Muhammad Ahmad
+
+🎯 Your Turn:
+- Write your own version of the email and review grammar and tone.
+
+---
+
+🎤 Speaking Practice: Explaining a Technical Issue
+
+**Prompt**:  
+Describe a recent technical issue you faced and how you resolved it. Use conjunctions to explain cause and effect.
+
+**Example**:
+> We faced a downtime because the database server crashed. Although the backup was available, it took time to restore. So, we informed the team and applied a patch to prevent future incidents.
+
+🎯 Your Turn:
+- Write your explanation first, then practice saying it aloud.
+
+---
+
+✅ Keep practicing and reviewing your progress. You're doing great, Ahmad!
+

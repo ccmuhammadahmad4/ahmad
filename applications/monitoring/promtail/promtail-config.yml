@@ -1,0 +1,235 @@
+server:
+  http_listen_port: 9080
+  grpc_listen_port: 0
+
+positions:
+  filename: /tmp/positions.yaml
+
+clients:
+  - url: http://loki:3100/loki/api/v1/push
+
+scrape_configs:
+  # Scrape App1 Logs
+  - job_name: app1
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: app1
+          app: application1
+          __path__: /apps/app1/*.log
+
+  # Scrape App2 Logs
+  - job_name: app2
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: app2
+          app: application2
+          __path__: /apps/app2/*.log
+
+  # Scrape App3 Logs
+  - job_name: app3
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: app3
+          app: application3
+          __path__: /apps/app3/*.log
+
+  # Scrape App4 Logs
+  - job_name: app4
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: app4
+          app: application4
+          __path__: /apps/app4/*.log
+
+  # Scrape App5 Logs
+  - job_name: app5
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: app5
+          app: application5
+          __path__: /apps/app5/*.log
+
+  # Scrape NGINX App1 Access Logs
+  - job_name: nginx-app1-access
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: nginx-app1
+          app: app1
+          log_type: access
+          __path__: /nginx-logs/app1_access.log
+
+  # Scrape NGINX App1 Error Logs
+  - job_name: nginx-app1-error
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: nginx-app1
+          app: app1
+          log_type: error
+          __path__: /nginx-logs/app1_error.log
+
+  # Scrape NGINX App2 Access Logs
+  - job_name: nginx-app2-access
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: nginx-app2
+          app: app2
+          log_type: access
+          __path__: /nginx-logs/app2_access.log
+
+  # Scrape NGINX App2 Error Logs
+  - job_name: nginx-app2-error
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: nginx-app2
+          app: app2
+          log_type: error
+          __path__: /nginx-logs/app2_error.log
+
+  # Scrape NGINX App3 Access Logs
+  - job_name: nginx-app3-access
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: nginx-app3
+          app: app3
+          log_type: access
+          __path__: /nginx-logs/app3_access.log
+
+  # Scrape NGINX App3 Error Logs
+  - job_name: nginx-app3-error
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: nginx-app3
+          app: app3
+          log_type: error
+          __path__: /nginx-logs/app3_error.log
+
+  # Scrape NGINX App4 Access Logs
+  - job_name: nginx-app4-access
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: nginx-app4
+          app: app4
+          log_type: access
+          __path__: /nginx-logs/app4_access.log
+
+  # Scrape NGINX App4 Error Logs
+  - job_name: nginx-app4-error
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: nginx-app4
+          app: app4
+          log_type: error
+          __path__: /nginx-logs/app4_error.log
+
+  # Scrape NGINX App5 Access Logs
+  - job_name: nginx-app5-access
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: nginx-app5
+          app: app5
+          log_type: access
+          __path__: /nginx-logs/app5_access.log
+
+  # Scrape NGINX App5 Error Logs
+  - job_name: nginx-app5-error
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: nginx-app5
+          app: app5
+          log_type: error
+          __path__: /nginx-logs/app5_error.log
+
+  # Scrape NGINX General Access Logs (all_apps)
+  - job_name: nginx-access
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: nginx
+          log_type: access
+          __path__: /nginx-logs/all_apps_access.log
+
+  # Scrape NGINX General Error Logs (all_apps)
+  - job_name: nginx-error
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: nginx
+          log_type: error
+          __path__: /nginx-logs/all_apps_error.log
+
+  # Python Application Logs (Uvicorn)
+  - job_name: uvicorn-logs
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: uvicorn
+          __path__: /apps/app*/*.log
+    pipeline_stages:
+      # Parse JSON logs from FastAPI/Uvicorn
+      - json:
+          expressions:
+            level: level
+            message: message
+            timestamp: timestamp
+      # Extract log level
+      - labels:
+          level:
+      # Add timestamp
+      - timestamp:
+          source: timestamp
+          format: RFC3339
+
+  # Docker Container Logs (if needed)
+  - job_name: docker
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: docker
+          __path__: /var/lib/docker/containers/*/*.log
+    pipeline_stages:
+      - json:
+          expressions:
+            output: log
+            stream: stream
+            time: time
+      - labels:
+          stream:
+      - timestamp:
+          source: time
+          format: RFC3339Nano
+      - output:
+          source: output

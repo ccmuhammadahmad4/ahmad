@@ -1,0 +1,15 @@
+# App5 Monitoring Configuration
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+  external_labels:
+    app: 'app5'
+    environment: 'production'
+
+scrape_configs:
+  - job_name: 'app5'
+    static_configs:
+      - targets: ['host.docker.internal:5005']
+        labels:
+          instance: 'app5'
+          app_name: 'Application 5'

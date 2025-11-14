@@ -1,0 +1,66 @@
+# Prometheus Configuration - All Apps Monitoring
+# Collects metrics from all 5 applications
+
+global:
+  scrape_interval: 1s
+  evaluation_interval: 1s
+  external_labels:
+    cluster: 'applications-cluster'
+    environment: 'production'
+
+# Scrape configurations for all apps
+scrape_configs:
+  # App 1 Monitoring
+  - job_name: 'app1'
+    static_configs:
+      - targets: ['host.docker.internal:5001']
+        labels:
+          app: 'app1'
+          app_name: 'Application 1'
+          instance: 'app1-instance'
+    metrics_path: '/metrics'
+    scrape_interval: 1s
+
+  # App 2 Monitoring
+  - job_name: 'app2'
+    static_configs:
+      - targets: ['host.docker.internal:5002']
+        labels:
+          app: 'app2'
+          app_name: 'Application 2'
+          instance: 'app2-instance'
+    metrics_path: '/metrics'
+    scrape_interval: 1s
+
+  # App 3 Monitoring
+  - job_name: 'app3'
+    static_configs:
+      - targets: ['host.docker.internal:5003']
+        labels:
+          app: 'app3'
+          app_name: 'Application 3'
+          instance: 'app3-instance'
+    metrics_path: '/metrics'
+    scrape_interval: 1s
+
+  # App 4 Monitoring
+  - job_name: 'app4'
+    static_configs:
+      - targets: ['host.docker.internal:5004']
+        labels:
+          app: 'app4'
+          app_name: 'Application 4'
+          instance: 'app4-instance'
+    metrics_path: '/metrics'
+    scrape_interval: 1s
+
+  # App 5 Monitoring
+  - job_name: 'app5'
+    static_configs:
+      - targets: ['host.docker.internal:5005']
+        labels:
+          app: 'app5'
+          app_name: 'Application 5'
+          instance: 'app5-instance'
+    metrics_path: '/metrics'
+    scrape_interval: 1s
